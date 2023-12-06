@@ -1,0 +1,1694 @@
+<html class="page_gemahlen js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-merriweather-n4-active wf-proximanova-i4-active wf-proximanova-i6-active wf-proximanova-n3-active wf-proximanova-n4-active wf-proximanova-n6-active wf-proximanova-n7-active wf-merriweather-i4-active wf-merriweather-n7-active wf-merriweather-i7-active wf-active" data-bind="css: html.css" lang="de" style=""><head>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>Kaffee und Espresso gemahlen online bestellen | AdrianosShop</title>
+<meta content="Frisch gerösteter Kaffee gemahlt – fair gehandelt und im praktischen 250g Beutel. ✓ heute bestellt, morgen geliefert" name="description"/>
+<meta content="True" name="HandheldFriendly"/>
+<meta content="320" name="MobileOptimized"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://adrianos.ch/shop/kaffee/gemahlen" rel="canonical"/>
+<link href="/static/resources/images/favicon/apple-touch-icon_152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
+<link href="/static/resources/images/favicon/apple-touch-icon_152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
+<link href="/static/resources/images/favicon/apple-touch-icon_144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="/static/resources/images/favicon/apple-touch-icon_120x120.png" rel="apple-touch-icon-precomposed" sizes="120x120"/>
+<link href="/static/resources/images/favicon/apple-touch-icon_114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<link href="/static/resources/images/favicon/apple-touch-icon_72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="/static/resources/images/favicon/apple-touch-icon_57x57.png" rel="apple-touch-icon-precomposed"/>
+<meta content="#FFFFFF" name="msapplication-TileColor"/>
+<meta content="/static/resources/images/favicon/apple-touch-icon_144x144.png" name="msapplication-TileImage"/>
+<link href="/static/resources/frontend/stylesheets/style.css?v=v1.35.2-994f0dcf" rel="stylesheet"/>
+<link href="/static/resources/frontend/stylesheets/icons-svg.css" rel="stylesheet"/><script async="" src="https://connect.facebook.net/signals/config/875694776200369?v=2.9.138&amp;r=stable&amp;domain=adrianos.ch"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-N0C9Y3RJR6&amp;l=dataLayer&amp;cx=c" type="text/javascript"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-562P26F"></script><script type="text/javascript">
+      var dataLayer = [{
+          'pageType': window.location.pathname.split('/')[1] === '' ? 'home' : window.location.pathname.split('/')[1],
+          'lang': 'de',
+          'pnam': window.location.pathname + window.location.search + window.location.hash,
+          'eid': 'prod',
+          'hrco': 200,
+          'vlst': false,
+          'usrId': null,
+      }];
+  </script>
+<script type="text/javascript">
+          var google_tag_manager_loaded = function () {}
+      </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;
+  j.addEventListener('load', function() {
+      var _ge = new CustomEvent('gtm_loaded', { bubbles: true });
+      d.dispatchEvent(_ge);
+  });
+  f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-562P26F');
+  var google_tag_manager_price_formatter = function (price) {
+      price = price / 100;
+      return parseFloat(price.toFixed(2));
+  }
+  if (!!window.google_tag_manager) {
+      // Google Tag Manager has already been loaded
+      google_tag_manager_loaded();
+  } else {
+      window.addEventListener('gtm_loaded', function() {
+          // Google Tag Manager has been loaded
+          google_tag_manager_loaded();
+      });
+  }
+  </script>
+<!-- End Google Tag Manager -->
+<script>
+  (function(d) {
+    var method;
+    var noop = function () {};
+    var methods = [
+      'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
+      'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
+      'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
+      'timeStamp', 'trace', 'warn'
+    ];
+    var length = methods.length;
+    var console = (window.console = window.console || {});
+
+    while (length--) {
+      method = methods[length];
+
+      // Only stub undefined methods.
+      if (!console[method]) {
+        console[method] = noop;
+      }
+    }
+
+    if (sessionStorage.fonts && document.documentElement.classList) {
+      document.documentElement.classList.add('wf-active');
+    }
+
+    WebFontConfig = {
+      typekit: { id: 'eil1zqz' },
+      google: {
+        families: ['Merriweather:400,400italic,700,700italic']
+      },
+      timeout: 2000,
+      active: function() {
+        sessionStorage.fonts = true;
+      }
+    };
+
+    // Load Webfonts async
+    var wf = d.createElement('script'), s = d.scripts[0];
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js';
+    s.parentNode.insertBefore(wf, s);
+  })(document);
+  </script>
+<script src="/static/resources/frontend/javascripts/vendor/modernizr.js"></script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"LocalBusiness","email":"shop@adrianos.ch","image":"\/static\/resources\/images\/adrianos-logo.png","sameAs":["https:\/\/twitter.com\/adrianoscoffee","https:\/\/www.instagram.com\/explore\/locations\/254097334\/adrianos-bar-cafe\/"],"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/adrianos.ch"},"name":"Adrianos — Bar & Café","address":{"@type":"PostalAddress","streetAddress":"Theaterplatz 2","addressLocality":"Bern","addressRegion":"Bern","postalCode":"3011","addressCountry":"CH"},"telephone":"0041313188831","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday"],"opens":"07:00","closes":"23:30"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Thursday","Friday","Saturday"],"opens":"07:00","closes":"00:30"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"09:00","closes":"23:30"}]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"LocalBusiness","email":"shop@adrianos.ch","image":"\/static\/resources\/images\/adrianos-logo.png","sameAs":["https:\/\/twitter.com\/adrianoscoffee","https:\/\/www.instagram.com\/explore\/locations\/254097334\/adrianos-bar-cafe\/"],"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/adrianos.ch"},"name":"Adrianos Kaffeeladen","address":{"@type":"PostalAddress","streetAddress":"Kornhausplatz 11","addressLocality":"Bern","addressRegion":"Bern","postalCode":"3011","addressCountry":"CH"},"telephone":"0041315443580","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"09:00","closes":"17:00"}]}</script> <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic" media="all" rel="stylesheet"/><style type="text/css">.tk-proxima-nova{font-family:"proxima-nova",sans-serif;}</style><style type="text/css">@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/7d485b/00000000000000003b9ad1b1/27/l?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/7d485b/00000000000000003b9ad1b1/27/d?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/7d485b/00000000000000003b9ad1b1/27/a?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/04b81b/00000000000000003b9ad1bb/27/l?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/04b81b/00000000000000003b9ad1bb/27/d?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/04b81b/00000000000000003b9ad1bb/27/a?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/83c55b/00000000000000003b9ad1bc/27/l?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=i6&v=3) format("woff2"),url(https://use.typekit.net/af/83c55b/00000000000000003b9ad1bc/27/d?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=i6&v=3) format("woff"),url(https://use.typekit.net/af/83c55b/00000000000000003b9ad1bc/27/a?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=i6&v=3) format("opentype");font-weight:600;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/l?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/d?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/a?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/4ba64f/00000000000000003b9ad1ba/27/l?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/4ba64f/00000000000000003b9ad1ba/27/d?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/4ba64f/00000000000000003b9ad1ba/27/a?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/3333ef/00000000000000003b9ad1b5/27/l?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/3333ef/00000000000000003b9ad1b5/27/d?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/3333ef/00000000000000003b9ad1b5/27/a?primer=94a06a22c1ad90dc4416bc994484fc34149f78bd54c5e13b4233dd9d3b44d317&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}</style></head>
+<body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-562P26F" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="adrianos-status-open trust-message-active site-nav-sticky" data-bind="css: body.css" id="site-body">
+<!-- Container -->
+<div class="container">
+<div id="content-view">
+<header class="website-header">
+<div class="website-title">
+<a class="et-nachhause et-nachhause_header adrianos-logo adrianos-logo_header icon-adrianos-logo-dark" data-bind="event: { mouseover: navigation.mouseover, mouseout: navigation.mouseout }" href="/" title="Adrianos Bar &amp; Café"></a>
+</div>
+<nav class="top-bar" data-bind="event: { mouseover: navigation.mouseover, mouseout: navigation.mouseout }">
+<ul class="top-bar__items top-bar__items_navigation">
+<li class="top-bar__item" data-bind="event: { mouseover: navigation.mouseover }">
+<button class="button_site-nav-trigger icon-burger" data-bind="click: navigation.toggle">
+                                                                                            Shop
+    
+    
+    
+                                    </button>
+</li>
+<li class="top-bar__item top-bar__item-search">
+<a class="search-trigger search-trigger_top-bar icon-search" data-bind="click: search.show" href="#">Suche nach dem besten Kaffee</a>
+</li>
+</ul>
+<ul class="top-bar__items top-bar__items_user">
+<li class="top-bar__item">
+<a class="faq-link icon-login" href="/hilfe">Hilfe</a>
+<a class="login-link login-link_top-bar icon-loggedout" href="/login">Login</a>
+</li>
+<li class="top-bar__item">
+<a class="cart-link cart-link_top-bar icon-cart" data-bind="click: navigation.toggleCart" href="/cart"> <span class="pipe-counter-cart"> <span class="text-cart">Warenkorb </span>| <span class="cart_counter" data-bind="text: shop.cart.count" data-cart-counter="0">0</span></span> </a>
+</li>
+</ul>
+</nav>
+<div class="popover_cart" id="top-bar-cart">
+<button class="popover_cart__close icon-close-light" data-bind="click: navigation.collapseCart">Schliessen</button>
+<div data-cart-container="">
+<div class="empty empty_cart">
+<p>Dein Warenkorb ist leer.</p>
+<p>
+<a class="action" href="/shop/">
+                    Zum Shop
+                </a>
+</p>
+</div>
+</div>
+<div class="loading-overlay loading-overlay_cart" id="cart-loading-popover">
+<svg class="loader loader_page" enable-background="new 0 198.1 841.9 794" viewbox="0 198.1 841.9 794" xmlns="http://www.w3.org/2000/svg"><style type="text/css">.st0{display:none;} .st1{display:inline;}</style><path class="st1" d="M241.1 784.9c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 2-7.6 5.3-19.3 9.3-33.3-132.5 5.5-162 42.3-274.1 54 1.8 9.6 3.2 18.7 4.7 26.6.2 1.4.5 2.3.5 3.5z" id="fill-10"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 4.1-15.8 13.4-48.5 24.8-86.1-26.6-3.8-58.1-6.4-97.5-6.4-109.8 0-156.8 19.3-212.8 35.6 7.3 24.8 13.1 45.5 16.1 56.9 4.6 17.2 7.2 33.8 9.2 47.3z" id="fill-20"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 5-19.3 18.1-64.5 33-112.7-60.4-16.9-106.3-38.2-222.4-38.2-52 0-89.9 4.4-121.4 10.5 17.8 57.8 35.6 117.1 41.5 140.4 4.5 17.2 7.1 33.8 9.1 47.3z" id="fill-30"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 6.1-24.5 26-90.2 45-151.5-160-6.1-170.8-57.8-351.2-57.8-9 0-17.8 0-26 .3 22.8 71.2 54.6 176 62.8 208.7 4.6 17.5 7.2 34.1 9.2 47.6z" id="fill-40"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.5-33.9 42.6-145.7 65.4-216.9-28 4.7-61.6 7.6-104.8 7.6-162.9 0-187.4-42-308.8-54.9 3.5 14.9 7.6 28.9 11.7 42.3 22.6 71 58.2 187.1 67 221.9z" id="fill-50"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 8.8-27.4 16.1-57.5 21.9-89.9-73.3 17.2-115.3 44.1-245.2 44.1-101.3 0-148.9-16.3-199.7-31.5 5.3 27.7 12 54 19.6 77.4 22.4 70.9 58 187 66.8 221.8z" id="fill-60"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 15.2-47.3 26-102.5 31.5-162.6-179.8 2.3-183.9 58.4-371.6 58.4-35 0-63.9-2-88.5-5.3 6.1 40 14.6 77.1 24.8 109.5 22.8 71 58.4 187.1 67.2 221.9z" id="fill-70"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 19.3-60.1 31.2-133.1 35-212.8-28.9-5-63.3-8.2-108.3-8.2-184.2 0-191.5 54-362 58.1 5.8 60.4 16.6 116.5 31.5 162.9 22.8 71 58.4 187.1 67.2 221.9z" id="fill-80"></path><path d="M366.1 288.9c-10.5 0-184.2 1.5-236.7 3.5h-.6c3.5 82 15.8 159.4 35.3 220.4 22.8 70.6 58.1 186.8 67.1 221.9 4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 19.9-61.9 32.1-137.5 35.3-220.4h-.6c-51.9-2.3-225.9-3.5-236.4-3.5z" id="fill-100"></path><g id="cup"><path d="M703.2 934.3h-674.3c-16.1 0-28.9 12.9-28.9 28.9 0 16.1 12.8 28.9 28.9 28.9h674.3c16.1 0 28.9-12.8 28.9-28.9.3-15.7-12.8-28.9-28.9-28.9zM841.6 390.5c-3.5-51.7-39.1-82.6-95.2-82.6-21 0-39.1 7-54 17.2 1.2-18.4 2-37.1 2.3-56 1.2-59.3-35.9-65.4-88.5-67.4-55.2-2.3-232.4-3.5-240.2-3.5-7.6 0-185.1 1.2-240.2 3.5-52.3 2-89.6 8.2-88.5 67.4 2 101.3 16.1 195 40.6 271.5 24.2 75 57.8 186 65.4 216 3.5 13.4 5.5 26.6 7.6 39.4 5.5 33.9 11.1 68.9 45 74.4 56.9 9.3 121.4 10.5 154.7 10.5h31c33.3 0 97.8-1.5 154.7-10.5 33.9-5.5 39.4-40.6 45-74.4 2-12.8 4.1-26 7.6-39.4 3.5-13.7 12.6-44.7 23.4-81.2 16.1-52.3 42.3-67.4 82-90.2 15.5-9 33.3-19 52-32.7 83.6-60.4 97.9-121.4 95.3-162zm-292.8 355.8c-3.8 15.2-6.1 30.1-8.5 42.9-2.3 14.6-5.8 36.8-10.2 40h-.3c-56 9-122.3 10.2-148 10.2h-31c-26 0-92-.9-148-10.2h-.3c-4.4-3.5-8.2-25.4-10.5-40.3-2-13.1-4.4-27.7-8.5-42.9-7.9-30.7-41.7-143-66.3-218.6-23.2-72.4-36.6-162-38.4-259.2-.3-16.3 2.6-18.1 3.8-18.7 7.9-5 33.9-6.1 45-6.4 54.6-2 236.7-3.5 238.5-3.5s184.2 1.2 238.8 3.5c11.1.6 37.1 1.5 45 6.4 1.2.6 4.1 2.6 3.8 18.7-1.8 97.2-15.2 186.8-38.5 259.5-22.9 70.1-57.9 184.8-66.4 218.6zm173.1-227.1c-16.9 12.3-33 21.3-48.2 30.4-9.6 5.5-18.7 10.8-27.7 16.6 2.9-8.8 5.5-17.5 8.2-25.7 14.3-44.1 24.8-93.7 31.5-147.4 7.6-14.3 29.8-43.8 60.4-43.8 50.8 0 53.1 33 53.7 44.1 3.6 42.9-23.6 86.4-77.9 125.8z"></path></g></svg>
+</div>
+</div>
+</header>
+<section class="page__content products" data-bind="css: shop.settings.view" id="page-content">
+<header class="products__options">
+<nav class="section-nav section-nav_shop">
+<ul class="section-nav-list section-nav-list_parent">
+<li class="section-nav-list__item">
+<a href="/shop/">Alle Produkte</a>
+</li>
+<li class="section-nav-list__item section-nav-list__item_active" id="nav-category-1">
+<a href="/shop/kaffee">Kaffee</a>
+<ul class="section-nav-list section-nav-list_sub">
+<li class="section-nav-list__sub-item">
+<a data-target="page-content" href="/shop/kaffee">Alle</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-1">
+<a data-target="page-content" href="/shop/kaffee/bohnen">Bohnen</a>
+</li>
+<li class="section-nav-list__sub-item section-nav-list__item_active" id="nav-category-1">
+<a data-target="page-content" href="/shop/kaffee/gemahlen">Gemahlen</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-1">
+<a data-target="page-content" href="/shop/kaffee/filterkaffees">Filterkaffees</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-1">
+<a data-target="page-content" href="/shop/kaffee/ese-pads">E.S.E. Pads</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-1">
+<a data-target="page-content" href="/shop/kaffee/BriefpostKaffee">Briefpost Kaffee</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-1">
+<a data-target="page-content" href="/shop/kaffee/briefpost-pads">Briefpost Pads</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-1">
+<a data-target="page-content" href="/shop/kaffee/friends-drittkaffees">Friends</a>
+</li>
+</ul>
+</li>
+<li class="section-nav-list__item" id="nav-category-2">
+<a href="/shop/maschinen">Maschinen</a>
+<ul class="section-nav-list section-nav-list_sub">
+<li class="section-nav-list__sub-item">
+<a data-target="page-content" href="/shop/maschinen">Alle</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-2">
+<a data-target="page-content" href="/shop/maschinen/theelse">E.S.E Maschinen</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-2">
+<a data-target="page-content" href="/shop/maschinen/kaffeemaschinen">Siebträgermaschinen</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-2">
+<a data-target="page-content" href="/shop/maschinen/kaffeemuehlen">Kaffeemühlen</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-2">
+<a data-target="page-content" href="/shop/maschinen/filterkaffee">Filterkaffee Zubereitung</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-2">
+<a data-target="page-content" href="/shop/maschinen/bialetti">Bialetti</a>
+</li>
+</ul>
+</li>
+<li class="section-nav-list__item" id="nav-category-12">
+<a href="/shop/zubehoer">Zubehör</a>
+<ul class="section-nav-list section-nav-list_sub">
+<li class="section-nav-list__sub-item">
+<a data-target="page-content" href="/shop/zubehoer">Alle</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-12">
+<a data-target="page-content" href="/shop/zubehoer/reinigungstools">Reinigungstools</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-12">
+<a data-target="page-content" href="/shop/zubehoer/tamper">Tamper</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-12">
+<a data-target="page-content" href="/shop/zubehoer/accessoires">Accessoires</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-12">
+<a data-target="page-content" href="/shop/zubehoer/buecher">Bücher</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-12">
+<a data-target="page-content" href="/shop/zubehoer/wiegen">Waagen</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-12">
+<a data-target="page-content" href="/shop/zubehoer/tassen">Tassen</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-12">
+<a data-target="page-content" href="/shop/zubehoer/filter">Filter</a>
+</li>
+</ul>
+</li>
+<li class="section-nav-list__item" id="nav-category-13">
+<a href="/shop/kurse">Kurse</a>
+<ul class="section-nav-list section-nav-list_sub">
+<li class="section-nav-list__sub-item">
+<a data-target="page-content" href="/shop/kurse">Alle</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-13">
+<a data-target="page-content" href="/shop/kurse/bialetti-kurse">Bialetti - Kurse</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-13">
+<a data-target="page-content" href="/shop/kurse/homebaristakurse">Homebarista - Kurse</a>
+</li>
+</ul>
+</li>
+<li class="section-nav-list__item" id="nav-category-100">
+<a href="/shop/neu">Specials</a>
+<ul class="section-nav-list section-nav-list_sub">
+<li class="section-nav-list__sub-item">
+<a data-target="page-content" href="/shop/neu">Alle</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-100">
+<a data-target="page-content" href="/shop/neu/kaffee-geschenke-weihnachten">Xmas Special</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-100">
+<a data-target="page-content" href="/shop/neu/gutscheine-adrianos">Gutscheine</a>
+</li>
+<li class="section-nav-list__sub-item" id="nav-category-100">
+<a data-target="page-content" href="/shop/neu/sets">Sets</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<h1 class="front-page-left extra-margin-top-5 shop-title">Kaffee gemahlen</h1>
+<div class="products__introduction">
+<p>
+                    250g frisch gemahlener Kaffee. Bestimme den Mahlgrad: Bialetti, Filter, Siebträgermaschine Profi und Haushalt.
+                </p>
+</div>
+<button class="products__switch-view icon-list-view" data-bind="click: shop.settings.switchView, text: shop.settings.viewOptionText, css: shop.settings.viewOptionIcon ">Ansicht ändern</button>
+</header>
+<div class="product-list">
+<article class="product product_preview" data-product-element-id="product-1091">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/tueste-filterkaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (default)],[/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (medium)],[/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (medium,retina)]," data-variantid="2805" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" src="/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 15.00</span>
+<h2 class="product__title product__title_preview">Tueste Filterkaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (default)]," data-variantid="2805" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" src="/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 15.00</span>
+<p class="product__title product__title_preview">Tueste Filterkaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1091" data-instant-buy-route="/shop/kaffee/gemahlen/tueste-filterkaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/tueste-filterkaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-1078">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/festive-blend-2023-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="THE ONLY TRUE GIFT – to make your friends happy" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (default)],[/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (medium)],[/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (medium,retina)]," data-variantid="2749" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="THE ONLY TRUE GIFT – to make your friends happy" src="/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 12.50</span>
+<h2 class="product__title product__title_preview">Festive Blend 2023 Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="THE ONLY TRUE GIFT – to make your friends happy" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (default)]," data-variantid="2749" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="THE ONLY TRUE GIFT – to make your friends happy" src="/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 12.50</span>
+<p class="product__title product__title_preview">Festive Blend 2023 Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1078" data-instant-buy-route="/shop/kaffee/gemahlen/festive-blend-2023-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/festive-blend-2023-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-1087">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/juanita-filterkaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER KLASSIKER – Kindheitserinnerung garantiert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (default)],[/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (medium)],[/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (medium,retina)]," data-variantid="2783" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER KLASSIKER – Kindheitserinnerung garantiert" src="/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<h2 class="product__title product__title_preview">Juanita Filterkaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER KLASSIKER – Kindheitserinnerung garantiert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (default)]," data-variantid="2783" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER KLASSIKER – Kindheitserinnerung garantiert" src="/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<p class="product__title product__title_preview">Juanita Filterkaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1087" data-instant-buy-route="/shop/kaffee/gemahlen/juanita-filterkaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/juanita-filterkaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-1084">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/don-victor-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (default)],[/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (medium)],[/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (medium,retina)]," data-variantid="2776" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" src="/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<h2 class="product__title product__title_preview">Don Victor Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (default)]," data-variantid="2776" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" src="/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<p class="product__title product__title_preview">Don Victor Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1084" data-instant-buy-route="/shop/kaffee/gemahlen/don-victor-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/don-victor-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-1075">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/lila-sorto-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER HARMONISCHE – fruchtig, herb und süss " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (default)],[/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (medium)],[/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (medium,retina)]," data-variantid="2743" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER HARMONISCHE – fruchtig, herb und süss " src="/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<h2 class="product__title product__title_preview">Lila Sorto Filterkaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER HARMONISCHE – fruchtig, herb und süss " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (default)]," data-variantid="2743" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER HARMONISCHE – fruchtig, herb und süss " src="/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<p class="product__title product__title_preview">Lila Sorto Filterkaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1075" data-instant-buy-route="/shop/kaffee/gemahlen/lila-sorto-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/lila-sorto-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-1073">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/ichamama-natural-filterkaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (default)],[/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (medium)],[/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (medium,retina)]," data-variantid="2739" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" src="/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<h2 class="product__title product__title_preview">Ichamama Natural Filterkaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (default)]," data-variantid="2739" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" src="/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<p class="product__title product__title_preview">Ichamama Natural Filterkaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1073" data-instant-buy-route="/shop/kaffee/gemahlen/ichamama-natural-filterkaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/ichamama-natural-filterkaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-1009">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/pablo-montgomery-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (default)],[/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (medium)],[/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (medium,retina)]," data-variantid="2466" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" src="/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<h2 class="product__title product__title_preview">Pablo Montgomery Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (default)]," data-variantid="2466" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" src="/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<p class="product__title product__title_preview">Pablo Montgomery Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1009" data-instant-buy-route="/shop/kaffee/gemahlen/pablo-montgomery-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/pablo-montgomery-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-923">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/ice-t-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (default)],[/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (medium)],[/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (medium,retina)]," data-variantid="2211" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" src="/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<h2 class="product__title product__title_preview">ICE-T Filterkaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (default)]," data-variantid="2211" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" src="/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<p class="product__title product__title_preview">ICE-T Filterkaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-923" data-instant-buy-route="/shop/kaffee/gemahlen/ice-t-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/ice-t-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-1064">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/robusta-rocket-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (default)],[/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (medium)],[/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (medium,retina)]," data-variantid="2706" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" src="/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Robusta Rocket Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (default)]," data-variantid="2706" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" src="/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Robusta Rocket Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1064" data-instant-buy-route="/shop/kaffee/gemahlen/robusta-rocket-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/robusta-rocket-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-562">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/ichamama-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (default)],[/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (medium)],[/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (medium,retina)]," data-variantid="1215" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" src="/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<h2 class="product__title product__title_preview">Ichamama AA Filterkaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (default)]," data-variantid="1215" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" src="/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 14.00</span>
+<p class="product__title product__title_preview">Ichamama AA Filterkaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-562" data-instant-buy-route="/shop/kaffee/gemahlen/ichamama-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/ichamama-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-858">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/decaf-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER UNAUFGEREGTE – Die schlaflosen Zeiten sind vorbei " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (default)],[/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (medium)],[/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (medium,retina)]," data-variantid="2011" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER UNAUFGEREGTE – Die schlaflosen Zeiten sind vorbei " src="/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<h2 class="product__title product__title_preview">Decaf Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER UNAUFGEREGTE – Die schlaflosen Zeiten sind vorbei " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (default)]," data-variantid="2011" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER UNAUFGEREGTE – Die schlaflosen Zeiten sind vorbei " src="/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<p class="product__title product__title_preview">Decaf Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-858" data-instant-buy-route="/shop/kaffee/gemahlen/decaf-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/decaf-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-977">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/aprocassi-organic-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (default)],[/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (medium)],[/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (medium,retina)]," data-variantid="2364" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" src="/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<h2 class="product__title product__title_preview">Aprocassi Organic Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (default)]," data-variantid="2364" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" src="/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<p class="product__title product__title_preview">Aprocassi Organic Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-977" data-instant-buy-route="/shop/kaffee/gemahlen/aprocassi-organic-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/aprocassi-organic-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-909">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/san-isidro-organic-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER NATÜRLICHE – Organic, nothing more" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (default)],[/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (medium)],[/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (medium,retina)]," data-variantid="2160" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER NATÜRLICHE – Organic, nothing more" src="/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<h2 class="product__title product__title_preview">San Isidro Organic Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER NATÜRLICHE – Organic, nothing more" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (default)]," data-variantid="2160" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER NATÜRLICHE – Organic, nothing more" src="/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<p class="product__title product__title_preview">San Isidro Organic Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-909" data-instant-buy-route="/shop/kaffee/gemahlen/san-isidro-organic-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/san-isidro-organic-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-111">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-candelaria-gk" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (default)],[/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (medium)],[/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (medium,retina)]," data-variantid="146" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" src="/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<h2 class="product__title product__title_preview">Candelaria Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (default)]," data-variantid="146" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" src="/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<p class="product__title product__title_preview">Candelaria Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-111" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-candelaria-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-candelaria-gk" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-772">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/boledu-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER VERSPIELTE – fruchtig und süss im Duett" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (default)],[/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (medium)],[/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (medium,retina)]," data-variantid="1811" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER VERSPIELTE – fruchtig und süss im Duett" src="/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 12.50</span>
+<h2 class="product__title product__title_preview">Boledu Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER VERSPIELTE – fruchtig und süss im Duett" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (default)]," data-variantid="1811" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER VERSPIELTE – fruchtig und süss im Duett" src="/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 12.50</span>
+<p class="product__title product__title_preview">Boledu Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-772" data-instant-buy-route="/shop/kaffee/gemahlen/boledu-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/boledu-kaffee-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-531">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/silvestre-gemahlen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER AUSGEWOGENE – So rund wie der Karneval" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (default)],[/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (medium)],[/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (medium,retina)]," data-variantid="1095" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER AUSGEWOGENE – So rund wie der Karneval" src="/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Silvestre Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER AUSGEWOGENE – So rund wie der Karneval" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (default)]," data-variantid="1095" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER AUSGEWOGENE – So rund wie der Karneval" src="/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Silvestre Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-531" data-instant-buy-route="/shop/kaffee/gemahlen/silvestre-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/silvestre-gemahlen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-105">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-espresso-gk" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (default)],[/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (medium)],[/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (medium,retina)]," data-variantid="125" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" src="/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Espresso Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (default)]," data-variantid="125" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" src="/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Espresso Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-105" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-espresso-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-espresso-gk" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-107">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-lungo-gk" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (default)],[/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (medium)],[/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (medium,retina)]," data-variantid="129" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" src="/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Lungo Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (default)]," data-variantid="129" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" src="/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Lungo Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-107" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-lungo-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-lungo-gk" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-108">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-dark-robusta-gk" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (default)],[/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (medium)],[/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (medium,retina)]," data-variantid="133" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" src="/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Dark Robusta Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (default)]," data-variantid="133" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" src="/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Dark Robusta Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-108" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-dark-robusta-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-dark-robusta-gk" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-109">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-malabar-gk" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER MILDE – Ungesäuert, nicht verbittert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (default)],[/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (medium)],[/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (medium,retina)]," data-variantid="137" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER MILDE – Ungesäuert, nicht verbittert" src="/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Malabar Kaffee gemahlen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER MILDE – Ungesäuert, nicht verbittert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (default)]," data-variantid="137" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER MILDE – Ungesäuert, nicht verbittert" src="/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Malabar Kaffee gemahlen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-109" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-malabar-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-malabar-gk" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-525">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/kaffeebohnen-probierset" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="Kaffees aus drei Kontinenten" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/78d271a4e41d9a2779493a8f3351da1008ea7095.jpeg, (default)],[/cache/small/static/media/product/0001/05/78d271a4e41d9a2779493a8f3351da1008ea7095.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/78d271a4e41d9a2779493a8f3351da1008ea7095.jpeg, (medium)],[/cache/small/static/media/product/0001/05/78d271a4e41d9a2779493a8f3351da1008ea7095.jpeg, (medium,retina)]," data-variantid="1076" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="Kaffees aus drei Kontinenten" src="/cache/small/static/media/product/0001/05/78d271a4e41d9a2779493a8f3351da1008ea7095.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 35.00</span>
+<h2 class="product__title product__title_preview">Kaffeebohnen-Probierset</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="Kaffees aus drei Kontinenten" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/78d271a4e41d9a2779493a8f3351da1008ea7095.jpeg, (default)]," data-variantid="1076" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="Kaffees aus drei Kontinenten" src="/cache/small/static/media/product/0001/05/78d271a4e41d9a2779493a8f3351da1008ea7095.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 35.00</span>
+<p class="product__title product__title_preview">Kaffeebohnen-Probierset</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-525" data-instant-buy-route="/shop/kaffee/bohnen/kaffeebohnen-probierset/instant_buy" href="/shop/kaffee/bohnen/kaffeebohnen-probierset" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+</div>
+<div class="loading-overlay loading-overlay_page" id="page-loading">
+<svg class="loader loader_page" enable-background="new 0 198.1 841.9 794" viewbox="0 198.1 841.9 794" xmlns="http://www.w3.org/2000/svg"><style type="text/css">.st0{display:none;} .st1{display:inline;}</style><path class="st1" d="M241.1 784.9c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 2-7.6 5.3-19.3 9.3-33.3-132.5 5.5-162 42.3-274.1 54 1.8 9.6 3.2 18.7 4.7 26.6.2 1.4.5 2.3.5 3.5z" id="fill-10"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 4.1-15.8 13.4-48.5 24.8-86.1-26.6-3.8-58.1-6.4-97.5-6.4-109.8 0-156.8 19.3-212.8 35.6 7.3 24.8 13.1 45.5 16.1 56.9 4.6 17.2 7.2 33.8 9.2 47.3z" id="fill-20"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 5-19.3 18.1-64.5 33-112.7-60.4-16.9-106.3-38.2-222.4-38.2-52 0-89.9 4.4-121.4 10.5 17.8 57.8 35.6 117.1 41.5 140.4 4.5 17.2 7.1 33.8 9.1 47.3z" id="fill-30"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 6.1-24.5 26-90.2 45-151.5-160-6.1-170.8-57.8-351.2-57.8-9 0-17.8 0-26 .3 22.8 71.2 54.6 176 62.8 208.7 4.6 17.5 7.2 34.1 9.2 47.6z" id="fill-40"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.5-33.9 42.6-145.7 65.4-216.9-28 4.7-61.6 7.6-104.8 7.6-162.9 0-187.4-42-308.8-54.9 3.5 14.9 7.6 28.9 11.7 42.3 22.6 71 58.2 187.1 67 221.9z" id="fill-50"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 8.8-27.4 16.1-57.5 21.9-89.9-73.3 17.2-115.3 44.1-245.2 44.1-101.3 0-148.9-16.3-199.7-31.5 5.3 27.7 12 54 19.6 77.4 22.4 70.9 58 187 66.8 221.8z" id="fill-60"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 15.2-47.3 26-102.5 31.5-162.6-179.8 2.3-183.9 58.4-371.6 58.4-35 0-63.9-2-88.5-5.3 6.1 40 14.6 77.1 24.8 109.5 22.8 71 58.4 187.1 67.2 221.9z" id="fill-70"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 19.3-60.1 31.2-133.1 35-212.8-28.9-5-63.3-8.2-108.3-8.2-184.2 0-191.5 54-362 58.1 5.8 60.4 16.6 116.5 31.5 162.9 22.8 71 58.4 187.1 67.2 221.9z" id="fill-80"></path><path d="M366.1 288.9c-10.5 0-184.2 1.5-236.7 3.5h-.6c3.5 82 15.8 159.4 35.3 220.4 22.8 70.6 58.1 186.8 67.1 221.9 4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 19.9-61.9 32.1-137.5 35.3-220.4h-.6c-51.9-2.3-225.9-3.5-236.4-3.5z" id="fill-100"></path><g id="cup"><path d="M703.2 934.3h-674.3c-16.1 0-28.9 12.9-28.9 28.9 0 16.1 12.8 28.9 28.9 28.9h674.3c16.1 0 28.9-12.8 28.9-28.9.3-15.7-12.8-28.9-28.9-28.9zM841.6 390.5c-3.5-51.7-39.1-82.6-95.2-82.6-21 0-39.1 7-54 17.2 1.2-18.4 2-37.1 2.3-56 1.2-59.3-35.9-65.4-88.5-67.4-55.2-2.3-232.4-3.5-240.2-3.5-7.6 0-185.1 1.2-240.2 3.5-52.3 2-89.6 8.2-88.5 67.4 2 101.3 16.1 195 40.6 271.5 24.2 75 57.8 186 65.4 216 3.5 13.4 5.5 26.6 7.6 39.4 5.5 33.9 11.1 68.9 45 74.4 56.9 9.3 121.4 10.5 154.7 10.5h31c33.3 0 97.8-1.5 154.7-10.5 33.9-5.5 39.4-40.6 45-74.4 2-12.8 4.1-26 7.6-39.4 3.5-13.7 12.6-44.7 23.4-81.2 16.1-52.3 42.3-67.4 82-90.2 15.5-9 33.3-19 52-32.7 83.6-60.4 97.9-121.4 95.3-162zm-292.8 355.8c-3.8 15.2-6.1 30.1-8.5 42.9-2.3 14.6-5.8 36.8-10.2 40h-.3c-56 9-122.3 10.2-148 10.2h-31c-26 0-92-.9-148-10.2h-.3c-4.4-3.5-8.2-25.4-10.5-40.3-2-13.1-4.4-27.7-8.5-42.9-7.9-30.7-41.7-143-66.3-218.6-23.2-72.4-36.6-162-38.4-259.2-.3-16.3 2.6-18.1 3.8-18.7 7.9-5 33.9-6.1 45-6.4 54.6-2 236.7-3.5 238.5-3.5s184.2 1.2 238.8 3.5c11.1.6 37.1 1.5 45 6.4 1.2.6 4.1 2.6 3.8 18.7-1.8 97.2-15.2 186.8-38.5 259.5-22.9 70.1-57.9 184.8-66.4 218.6zm173.1-227.1c-16.9 12.3-33 21.3-48.2 30.4-9.6 5.5-18.7 10.8-27.7 16.6 2.9-8.8 5.5-17.5 8.2-25.7 14.3-44.1 24.8-93.7 31.5-147.4 7.6-14.3 29.8-43.8 60.4-43.8 50.8 0 53.1 33 53.7 44.1 3.6 42.9-23.6 86.4-77.9 125.8z"></path></g></svg>
+</div>
+</section>
+<div class="breadcrumbs breadcrumbs_site-footer">
+<nav class="breadcrumbs__nav breadcrumbs__nav_footer">
+<ul class="breadcrumbs__list">
+<li class=""><a href="/">Adrianos</a></li>
+<li class=""><a href="/shop">Shop</a></li>
+<li class=""><a href="/shop/kaffee">Kaffee</a></li>
+<li class="breadcrumbs__item_current"><a href="#">Gemahlen</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<footer class="site-footer">
+<div class="site-footer__content">
+<a id="a_oeffnungszeiten"></a>
+<div class="site-footer__area site-footer__area_primary">
+<section class="site-footer__content-block site-footer__hours">
+<div class="site-footer__title">Öffnungszeiten Bar &amp; Café</div>
+<ul class="opening-hours__list">
+<li>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Montag – Mittwoch</dt>
+<dd class="opening-hours__time">07.00 – 23.30</dd>
+</dl>
+</li>
+<li>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Donnerstag – Samstag</dt>
+<dd class="opening-hours__time">07.00 – 00.30</dd>
+</dl>
+</li>
+<li>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Sonntag</dt>
+<dd class="opening-hours__time">09.00 – 22.00</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section class="site-footer__content-block site-footer__hours">
+<div class="site-footer__title">Öffnungszeiten Kaffeeladen</div>
+<ul class="opening-hours__list">
+<li>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Montag – Freitag</dt>
+<dd class="opening-hours__time">09.00 – 19.00</dd>
+</dl>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Samstag</dt>
+<dd class="opening-hours__time">09.00 – 17.00</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section class="site-footer__content-block site-footer__hours">
+<div class="site-footer__title">ÖFFNUNGSZEITEN ADRIANOS COFFEE &amp; PLAYGROUND</div>
+<ul class="opening-hours__list">
+<li>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Montag – Freitag</dt>
+<dt class="opening-hours__time">5.45 – 20.30</dt>
+</dl>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Samstag</dt>
+<dt class="opening-hours__time">6.45 – 20.30</dt>
+</dl>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Sonntag</dt>
+<dt class="opening-hours__time">7.45 – 20.30</dt>
+</dl>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday"></dt>
+<dt class="opening-hours__time"></dt>
+</dl>
+</li>
+</ul>
+</section>
+<section class="site-footer__content-block site-footer__address">
+<div class="site-footer__title">Kontakt</div>
+<address class="site-footer__address">
+<p><strong>Adrianos — Bar &amp; Café</strong><br/>
+Theaterplatz 2<br/>
+3011 Bern</p>
+<p><a href="tel:+41313188831">+41 31 318 88 31</a><br/>
+<a href="mailto:shop@adrianos.ch">shop@adrianos.ch</a></p>
+<p><strong>Adrianos Kaffeeladen</strong><br/>
+Kornhausplatz 11<br/>
+3011 Bern</p>
+<p><a href="tel:+41315443580">+41 31 544 35 80</a><br/>
+<a href="mailto:shop@adrianos.ch">shop@adrianos.ch</a></p>
+<p><strong>Adrianos Coffee &amp; Playground</strong><br/>
+Bahnhofplatz 10A (Railcity)<br/>
+3011 Bern</p>
+<p><a href="tel:+41315449701">+41 31 544 97 01</a><br/>
+<a href="mailto:shop@adrianos.ch">shop@adrianos.ch</a></p>
+</address>
+</section>
+<section class="site-footer__content-block site-footer__social-media">
+<div class="site-footer__title">Vernetzt</div>
+<ul class="socialmedia-list">
+<li><a class="sm-link sm-link_facebook icon-facebook" href="https://www.facebook.com/adrianoscoffee" target="_blank"></a></li>
+<li><a class="sm-link sm-link-twitter icon-twitter" href="https://twitter.com/adrianoscoffee" target="_blank"></a></li>
+<li><a class="sm-link sm-link_facebook icon-instagram" href="https://www.instagram.com/adrianoscoffee" target="_blank"></a></li>
+<li><a class="sm-link sm-link_youtube icon-youtube" href="https://www.youtube.com/c/adrianoscoffee" target="_blank"></a></li>
+</ul>
+</section>
+</div>
+<div class="site-footer__area site-footer__area_secondary">
+<a id="a_newsletter"></a>
+<section class="site-footer__content-block site-footer__newsletter float-label-form">
+<div class="site-footer__title">Newsletter</div>
+<form action="/newsletter/subscribe" class="newsletter-form" data-bind="submit: newsletter.subscribe, css: { 'newsletter-form_subscribed': newsletter.isSubscribed() }" method="post">
+<input class="newsletter-form__mail" data-bind="value: newsletter.email" id="email" name="email" placeholder="E-Mail Adresse" type="text"/>
+<button class="inline-action" data-bind="css: {  'icon-checkmark-light' : newsletter.isSubscribed(), 'icon-next-step': !newsletter.isSubscribed() }, disable: newsletter.isSubscribed" type="submit">Abonnieren</button>
+</form>
+<form action="/newsletter/subscribe" class="newsletter-form newsletter-form_optional" data-bind="submit: newsletter.subscribe, css: { 'newsletter-form_optional_visible': newsletter.isSubscribed() &amp;&amp; !newsletter.isSubscribedWithName() &amp;&amp; !newsletter.done(), 'newsletter-form_optional_subscribed': newsletter.isSubscribedWithName() }" method="post">
+<p>
+      Newsletter erfolgreich abonniert. Möchstest du zusätzlich deinen Namen hinterlassen, um einen massgeschneiderten Newsletter zu erhalten?
+    </p>
+<input data-bind="value: newsletter.firstName" id="newsletter_firstname" placeholder="Vorname" type="text"/>
+<input data-bind="value: newsletter.lastName" id="newsletter_lastname" placeholder="Nachname" type="text"/>
+<div class="newsletter-form__optional__actions">
+<button class="action primary-action" data-bind="disable: newsletter.isSubscribedWithName" type="submit">Angaben speichern</button>
+</div>
+</form>
+<p class="newsletter-form__message-done" data-bind="css: {'newsletter-form__message-done_visible': newsletter.done()}">
+    Vielen Dank für deine zusätzlichen Angaben.
+  </p>
+</section>
+<nav class="site-footer__content-block site-footer__quickaccess">
+<div class="site-footer__title">Schnellzugriff Sitemap</div>
+<ul class="site-quickaccess-list">
+<li class="site-quickaccess-item">
+<a class="quickaccess-item quickaccess-item_root" href="/kaffee" target="_self">Kaffee
+          </a>
+<ul>
+<li><a class="quickaccess-item quickaccess-item_child" href="/kaffee/direct-trade" target="_self">Direct Trade</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/kaffee/roesten" target="_self">Kaffeebrennerei</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/kaffee/mahlgrad" target="_self">Mahlgrad</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/kaffee/transparenz" target="_self">Transparenz</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/ueber-uns/wo-es-adrianos-kaffee-zu-trinken-oder-zu-kaufen-gibt" target="_self">Hier probieren</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/kaffee/kaffee-rezepte" target="_self">Rezepte</a>
+</li>
+</ul>
+</li>
+<li class="site-quickaccess-item">
+<a class="quickaccess-item quickaccess-item_root" href="/shop" target="_self">Shop
+          </a>
+<ul>
+<li><a class="quickaccess-item quickaccess-item_child" href="/shop/kaffee" target="_self">Kaffee</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/shop/maschinen" target="_self">Maschinen</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/shop/zubehoer" target="_self">Zubehör</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/shop/kurse" target="_self">Kurse</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/shop/neu" target="_self">Specials</a>
+</li>
+</ul>
+</li>
+<li class="site-quickaccess-item">
+<a class="quickaccess-item quickaccess-item_root" href="/ueber-uns" target="_self">Über uns
+          </a>
+<ul>
+<li><a class="quickaccess-item quickaccess-item_child" href="/ueber-uns/kaffeeladen" target="_self">Kaffeeladen</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/ueber-uns/bar-und-cafe-bern" target="_self">Bar &amp; Café</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/ueber-uns/adrianos-coffee-and-playground" target="_self">Coffee &amp; Playground</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/ueber-uns/adrianos-coffee-orell-fuessli-bahnhof-bern" target="_self">Coffee @ Orell Füssli</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/angebote/piaggio" target="_self">Catering</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/ueber-uns/unsere-partner" target="_self">Partner</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/ueber-uns/presse" target="_self">Presse</a>
+</li>
+<li><a class="quickaccess-item quickaccess-item_child" href="/ueber-uns/jobs" target="_self">Jobs</a>
+</li>
+</ul>
+</li>
+<li class="site-quickaccess-item">
+<a class="quickaccess-item quickaccess-item_root" href="https://adrianos.ch/news" target="_self">News
+          </a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="site-footer__area site-footer__area_tertiary">
+<section class="site-footer__content-block site-footer__cart">
+<div class="site-footer__title">Warenkorb</div>
+<div data-cart-container="">
+<div class="empty empty_cart">
+<p>Dein Warenkorb ist leer.</p>
+<p>
+<a class="action" href="/shop/">
+                    Zum Shop
+                </a>
+</p>
+</div>
+</div>
+<div class="loading-overlay loading-overlay_cart loading-overlay_cart-footer" id="cart-loading-footer">
+<svg class="loader loader_page" enable-background="new 0 198.1 841.9 794" viewbox="0 198.1 841.9 794" xmlns="http://www.w3.org/2000/svg"><style type="text/css">.st0{display:none;} .st1{display:inline;}</style><path class="st1" d="M241.1 784.9c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 2-7.6 5.3-19.3 9.3-33.3-132.5 5.5-162 42.3-274.1 54 1.8 9.6 3.2 18.7 4.7 26.6.2 1.4.5 2.3.5 3.5z" id="fill-10"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 4.1-15.8 13.4-48.5 24.8-86.1-26.6-3.8-58.1-6.4-97.5-6.4-109.8 0-156.8 19.3-212.8 35.6 7.3 24.8 13.1 45.5 16.1 56.9 4.6 17.2 7.2 33.8 9.2 47.3z" id="fill-20"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 5-19.3 18.1-64.5 33-112.7-60.4-16.9-106.3-38.2-222.4-38.2-52 0-89.9 4.4-121.4 10.5 17.8 57.8 35.6 117.1 41.5 140.4 4.5 17.2 7.1 33.8 9.1 47.3z" id="fill-30"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 6.1-24.5 26-90.2 45-151.5-160-6.1-170.8-57.8-351.2-57.8-9 0-17.8 0-26 .3 22.8 71.2 54.6 176 62.8 208.7 4.6 17.5 7.2 34.1 9.2 47.6z" id="fill-40"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.5-33.9 42.6-145.7 65.4-216.9-28 4.7-61.6 7.6-104.8 7.6-162.9 0-187.4-42-308.8-54.9 3.5 14.9 7.6 28.9 11.7 42.3 22.6 71 58.2 187.1 67 221.9z" id="fill-50"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 8.8-27.4 16.1-57.5 21.9-89.9-73.3 17.2-115.3 44.1-245.2 44.1-101.3 0-148.9-16.3-199.7-31.5 5.3 27.7 12 54 19.6 77.4 22.4 70.9 58 187 66.8 221.8z" id="fill-60"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 15.2-47.3 26-102.5 31.5-162.6-179.8 2.3-183.9 58.4-371.6 58.4-35 0-63.9-2-88.5-5.3 6.1 40 14.6 77.1 24.8 109.5 22.8 71 58.4 187.1 67.2 221.9z" id="fill-70"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 19.3-60.1 31.2-133.1 35-212.8-28.9-5-63.3-8.2-108.3-8.2-184.2 0-191.5 54-362 58.1 5.8 60.4 16.6 116.5 31.5 162.9 22.8 71 58.4 187.1 67.2 221.9z" id="fill-80"></path><path d="M366.1 288.9c-10.5 0-184.2 1.5-236.7 3.5h-.6c3.5 82 15.8 159.4 35.3 220.4 22.8 70.6 58.1 186.8 67.1 221.9 4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 19.9-61.9 32.1-137.5 35.3-220.4h-.6c-51.9-2.3-225.9-3.5-236.4-3.5z" id="fill-100"></path><g id="cup"><path d="M703.2 934.3h-674.3c-16.1 0-28.9 12.9-28.9 28.9 0 16.1 12.8 28.9 28.9 28.9h674.3c16.1 0 28.9-12.8 28.9-28.9.3-15.7-12.8-28.9-28.9-28.9zM841.6 390.5c-3.5-51.7-39.1-82.6-95.2-82.6-21 0-39.1 7-54 17.2 1.2-18.4 2-37.1 2.3-56 1.2-59.3-35.9-65.4-88.5-67.4-55.2-2.3-232.4-3.5-240.2-3.5-7.6 0-185.1 1.2-240.2 3.5-52.3 2-89.6 8.2-88.5 67.4 2 101.3 16.1 195 40.6 271.5 24.2 75 57.8 186 65.4 216 3.5 13.4 5.5 26.6 7.6 39.4 5.5 33.9 11.1 68.9 45 74.4 56.9 9.3 121.4 10.5 154.7 10.5h31c33.3 0 97.8-1.5 154.7-10.5 33.9-5.5 39.4-40.6 45-74.4 2-12.8 4.1-26 7.6-39.4 3.5-13.7 12.6-44.7 23.4-81.2 16.1-52.3 42.3-67.4 82-90.2 15.5-9 33.3-19 52-32.7 83.6-60.4 97.9-121.4 95.3-162zm-292.8 355.8c-3.8 15.2-6.1 30.1-8.5 42.9-2.3 14.6-5.8 36.8-10.2 40h-.3c-56 9-122.3 10.2-148 10.2h-31c-26 0-92-.9-148-10.2h-.3c-4.4-3.5-8.2-25.4-10.5-40.3-2-13.1-4.4-27.7-8.5-42.9-7.9-30.7-41.7-143-66.3-218.6-23.2-72.4-36.6-162-38.4-259.2-.3-16.3 2.6-18.1 3.8-18.7 7.9-5 33.9-6.1 45-6.4 54.6-2 236.7-3.5 238.5-3.5s184.2 1.2 238.8 3.5c11.1.6 37.1 1.5 45 6.4 1.2.6 4.1 2.6 3.8 18.7-1.8 97.2-15.2 186.8-38.5 259.5-22.9 70.1-57.9 184.8-66.4 218.6zm173.1-227.1c-16.9 12.3-33 21.3-48.2 30.4-9.6 5.5-18.7 10.8-27.7 16.6 2.9-8.8 5.5-17.5 8.2-25.7 14.3-44.1 24.8-93.7 31.5-147.4 7.6-14.3 29.8-43.8 60.4-43.8 50.8 0 53.1 33 53.7 44.1 3.6 42.9-23.6 86.4-77.9 125.8z"></path></g></svg>
+</div>
+</section>
+</div>
+<div class="site-footer__area site-footer__area_tertiary">
+<section class="site-footer__content-block site-footer__rating">
+<div class="site-footer__title">Bewertet Mit</div>
+<div>
+<div align="center" style="text-align: left;">
+<div>    ★ ★ ★ ★ ☆             4.5/5.00
+            Sternen           <br/> bei 995 Rezensionen auf
+            <a href="https://goo.gl/maps/s63wb18dqyp">Google My Business</a></div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="site-footer__info">
+<div class="site-footer__info-content">
+<div class="site-footer__copyright">
+      © 2014 – 2023 Adrianos
+      <br/>
+<a class="site-footer__legal" href="/impressum">Impressum</a>
+      | <a class="site-footer__legal" href="/agb">AGB's</a>
+      | <a class="site-footer__legal" href="/datenschutzbestimmungen">Datenschutzbestimmung</a>
+</div>
+<div class="site-footer__paymentinfo">
+<div class="footer-group">
+<p class="site-footer__label">Zahlungsmethoden:</p>
+<ul class="payment-providers">
+<li><span class="payment-provider__icon icon-mastercard">Mastercard</span></li>
+<li><span class="payment-provider__icon icon-visa">Visa</span></li>
+<li><span class="payment-provider__icon icon-postfinance">Postfinance</span></li>
+<li><span class="payment-provider__icon icon-twint">Twint</span></li>
+<li><span class="payment-provider__text">Rechnung</span></li>
+<li><span class="payment-provider__text">Bar <small>im Laden</small></span></li>
+</ul>
+</div>
+<div class="footer-group">
+<p class="site-footer__label">Wir verschicken mit:</p>
+<ul class="payment-providers">
+<li><a class="payment-provider__icon icon-swisspost" href="http://post.ch/" target="_blank" title="Zur Webseite der Schweizerischen post">Schweizerische Post</a></li>
+<li><a class="payment-provider__icon icon-velokurier" href="http://velokurierbern.ch/" target="_blank" title="Zur Webseite des Velokurier Bern">Velokurier Bern</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!-- /Container -->
+<section class="search__overlay">
+<button class="search__close icon-close" data-bind="click: search.hide">Suche beenden</button>
+<div class="icon-adrianos-logo-dark adrianos-logo_search"></div>
+<div class="search__input">
+<form action="" class="search__form" data-bind="submit: search.run">
+<input class="icon-search" data-bind="value: search.query, valueUpdate: ['input'], hasFocus: search.hasFocus" placeholder="Suchbegriff eintippen" type="text"/>
+</form>
+</div>
+<div class="search__results search__results_widgets" data-bind="visible: search.widgetsVisible" style="display: none">
+<ul class="search-result-list search-result-list_widgets">
+<li class="search-result search-result_widget search-result_hours" data-bind="visible: search.hoursWidget.isVisible" style="display: none">
+<span class="search-result__title">Öffnungszeiten</span>
+<p class="search-result__description">
+</p><ul class="opening-hours__list">
+<li>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Montag – Mittwoch</dt>
+<dd class="opening-hours__time">07.00 – 23.30</dd>
+</dl>
+</li>
+<li>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Donnerstag – Samstag</dt>
+<dd class="opening-hours__time">07.00 – 00.30</dd>
+</dl>
+</li>
+<li>
+<dl class="opening-hours__times">
+<dt class="opening-hours__weekday">Sonntag</dt>
+<dd class="opening-hours__time">09.00 – 22.00</dd>
+</dl>
+</li>
+</ul>
+<p></p>
+</li>
+</ul>
+</div>
+<div class="search__results" data-bind="visible: search.results() &amp;&amp; search.results().length &gt; 0 &amp;&amp; search.definitiveQuery()" style="display: none">
+<ul class="search-result-list" data-bind="foreach: search.results">
+<li class="search-result">
+<a data-bind="attr: { href: url, class: image ? 'search-result-has_image' : '' }" href="#">
+<img class="search-result__image" data-bind="visible: image, attr: { src: image }"/>
+<div class="search-result__inner">
+<h2 class="search-result__title" data-bind="text: title"></h2>
+<div>
+<span class="search-result__type" data-bind="
+                            visible: typeHuman || false, text: typeHuman || 'none',
+                            css: { 'type__news': type == 'article', 'type__shop': type == 'product'}">
+</span>
+<time class="search-result__date" data-bind="if: type == 'article' &amp;&amp; dateHuman, attr: { datetime: date }">vom <span data-bind="text: dateHuman || 'irgendwann'"></span></time>
+</div>
+<p class="search-result__description" data-bind="text: description"></p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="search__results search__results_empty" data-bind="visible: search.hasNoResults" style="display: none">
+<p class="search__results__message">Leider keine Informationen gefunden.</p>
+</div>
+</section>
+<nav class="site-nav" data-bind="event: { mouseover: navigation.mouseover, mouseout: navigation.mouseout }" tabindex="-1">
+<div class="site-nav__container">
+<a class="adrianos-logo adrianos-logo_badge adrianos-logo_site-nav icon-adrianos-logo-light" href="/" title="Adrianos Bar &amp; Café"></a>
+<ul class="site-nav-list" id="site-nav">
+<li class="site-nav-list__item site-nav-list__item_root site-nav-list__item_back">
+<a class="list__item-btn-y list__item-btn-y_parent" href="#">Zurück</a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_root site-nav-list__item_single" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_parent" href="/kaffee" target="_self">
+            Kaffee
+        </a>
+<div class="nav-popout site-nav__submenu" data-submenu="">
+<ul class="site-nav-list site-nav-list_child">
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/kaffee/direct-trade" target="_self">
+            Direct Trade
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/kaffee/roesten" target="_self">
+            Kaffeebrennerei
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/kaffee/mahlgrad" target="_self">
+            Mahlgrad
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/kaffee/transparenz" target="_self">
+            Transparenz
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/ueber-uns/wo-es-adrianos-kaffee-zu-trinken-oder-zu-kaufen-gibt" target="_self">
+            Hier probieren
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/kaffee/kaffee-rezepte" target="_self">
+            Rezepte
+        </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-list__item site-nav-list__item_root site-nav-list__item_active-child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_parent" href="/shop" target="_self">
+            Shop
+        </a>
+<div class="nav-popout site-nav__submenu" data-submenu="">
+<ul class="site-nav-list site-nav-list_child">
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kaffee" target="_self">
+            Kaffee
+        </a>
+<ul class="site-nav-list site-nav-list_child">
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kaffee/bohnen" target="_self">
+            Bohnen
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kaffee/gemahlen" target="_self">
+            Gemahlen
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kaffee/filterkaffees" target="_self">
+            Filterkaffees
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kaffee/ese-pads" target="_self">
+            E.S.E. Pads
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kaffee/BriefpostKaffee" target="_self">
+            Briefpost Kaffee
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kaffee/briefpost-pads" target="_self">
+            Briefpost Pads
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kaffee/friends-drittkaffees" target="_self">
+            Friends
+        </a>
+</li>
+</ul>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/maschinen" target="_self">
+            Maschinen
+        </a>
+<ul class="site-nav-list site-nav-list_child">
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/maschinen/theelse" target="_self">
+            E.S.E Maschinen
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/maschinen/kaffeemaschinen" target="_self">
+            Siebträgermaschinen
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/maschinen/kaffeemuehlen" target="_self">
+            Kaffeemühlen
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/maschinen/filterkaffee" target="_self">
+            Filterkaffee Zubereitung
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/maschinen/bialetti" target="_self">
+            Bialetti
+        </a>
+</li>
+</ul>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/zubehoer" target="_self">
+            Zubehör
+        </a>
+<ul class="site-nav-list site-nav-list_child">
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/zubehoer/reinigungstools" target="_self">
+            Reinigungstools
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/zubehoer/tamper" target="_self">
+            Tamper
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/zubehoer/accessoires" target="_self">
+            Accessoires
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/zubehoer/buecher" target="_self">
+            Bücher
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/zubehoer/wiegen" target="_self">
+            Waagen
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/zubehoer/tassen" target="_self">
+            Tassen
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/zubehoer/filter" target="_self">
+            Filter
+        </a>
+</li>
+</ul>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kurse" target="_self">
+            Kurse
+        </a>
+<ul class="site-nav-list site-nav-list_child">
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kurse/homebaristakurse" target="_self">
+            Homebarista - Kurse
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/kurse/bialetti-kurse" target="_self">
+            Bialetti - Kurse
+        </a>
+</li>
+</ul>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/neu" target="_self">
+            Specials
+        </a>
+<ul class="site-nav-list site-nav-list_child">
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/neu/kaffee-geschenke-weihnachten" target="_self">
+            Xmas Special
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/neu/gutscheine-adrianos" target="_self">
+            Gutscheine
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/shop/neu/sets" target="_self">
+            Sets
+        </a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-list__item site-nav-list__item_root site-nav-list__item_single" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_parent" href="/ueber-uns" target="_self">
+            Über uns
+        </a>
+<div class="nav-popout site-nav__submenu" data-submenu="">
+<ul class="site-nav-list site-nav-list_child">
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/ueber-uns/kaffeeladen" target="_self">
+            Kaffeeladen
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/ueber-uns/bar-und-cafe-bern" target="_self">
+            Bar &amp; Café
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/ueber-uns/adrianos-coffee-and-playground" target="_self">
+            Coffee &amp; Playground
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/ueber-uns/adrianos-coffee-orell-fuessli-bahnhof-bern" target="_self">
+            Coffee @ Orell Füssli
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/angebote/piaggio" target="_self">
+            Catering
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/ueber-uns/unsere-partner" target="_self">
+            Partner
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/ueber-uns/presse" target="_self">
+            Presse
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_child" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_child" href="/ueber-uns/jobs" target="_self">
+            Jobs
+        </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-list__item site-nav-list__item_root site-nav-list__item_single" data-bind="event: { mouseover: navigation.delayIn, mouseout: navigation.delayOut }" data-branch="">
+<a class="list__item-btn-y list__item-btn-y_parent" href="https://adrianos.ch/news" target="_self">
+            News
+        </a>
+</li>
+<li class="site-nav-list__item site-nav-list__item_root site-nav-list__item_additional">
+<a class="list__item-btn-y list__item-btn-y_parent" href="/hilfe">Hilfe</a> |
+                <a class="list__item-btn-y list__item-btn-y_parent" data-bind="event: { click: navigation.scrollTo }" href="#a_oeffnungszeiten">Öffnungszeiten</a> |
+                <a class="list__item-btn-y list__item-btn-y_parent" data-bind="event: { click: navigation.scrollTo }" href="#a_newsletter">Newsletter</a>
+</li>
+</ul>
+</div>
+</nav>
+<div class="site-nav-overlay" data-bind="click: navigation.toggle"></div>
+</div>
+<script>
+/* grunticon Stylesheet Loader | https://github.com/filamentgroup/grunticon | (c) 2012 Scott Jehl, Filament Group, Inc. | MIT license. */
+window.grunticon = function (e) {
+  if (e && 3 === e.length) {
+    var t = window, n = !(!t.document.createElementNS || !t.document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect || !document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1") || window.opera && -1 === navigator.userAgent.indexOf("Chrome")), o = function (o) {
+      var r = t.document.createElement("link"), a = t.document.getElementsByTagName("script")[0];
+      r.rel = "stylesheet", r.href = e[o && n ? 0 : o ? 1 : 2], a.parentNode.insertBefore(r, a)
+    }, r = new t.Image;
+    r.onerror = function () {
+      o(!1)
+    }, r.onload = function () {
+      o(1 === r.width && 1 === r.height)
+    }, r.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
+  }
+};
+grunticon(["/static/resources/frontend/stylesheets/icons-svg.css", "/static/resources/frontend/stylesheets/icons-png.css", "/static/resources/frontend/stylesheets/icons-fallback.css"]);
+</script>
+<noscript>
+<link href="/static/resources/frontend/stylesheets/icons-fallback.css" rel="stylesheet"/>
+</noscript>
+<script>
+
+
+  var files = [
+    "//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/jquery.js",
+      condition: function () {
+        return window.jQuery;
+      }
+    },
+    "//cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/knockout.min.js",
+      condition: function () {
+        return window.ko;
+      }
+    },
+    "//cdnjs.cloudflare.com/ajax/libs/foundation/5.2.2/js/foundation/foundation.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/foundation.js",
+      condition: function () {
+        return window.Foundation;
+      }
+    },
+    "//cdnjs.cloudflare.com/ajax/libs/foundation/5.2.2/js/foundation/foundation.interchange.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/foundation.interchange.js",
+      condition: function () {
+        return window.Foundation.libs.interchange;
+      }
+    },
+    "//cdnjs.cloudflare.com/ajax/libs/foundation/5.2.2/js/foundation/foundation.clearing.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/foundation.clearing.js",
+      condition: function () {
+        return window.Foundation.libs.clearing;
+      }
+    },
+    "//cdnjs.cloudflare.com/ajax/libs/foundation/5.2.2/js/foundation/foundation.accordion.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/foundation.accordion.js",
+      condition: function () {
+        return window.Foundation.libs.accordion;
+      }
+    },
+    "//cdnjs.cloudflare.com/ajax/libs/foundation/5.2.2/js/foundation/foundation.tooltip.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/foundation.tooltip.js",
+      condition: function () {
+        return window.Foundation.libs.tooltip;
+      }
+    },
+    "//cdnjs.cloudflare.com/ajax/libs/foundation/5.2.2/js/foundation/foundation.slider.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/foundation.slider.js",
+      condition: function () {
+        return window.Foundation.libs.slider;
+      }
+    },
+    "//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.2/owl.carousel.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/owl.carousel.min.js",
+      condition: function () {
+        return window.owlCarousel;
+      }
+    },
+    "//cdn.jsdelivr.net/jquery.velocity/0.4.1/jquery.velocity.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/jquery.velocity.min.js",
+      condition: function () {
+        return window.velocity;
+      }
+    },
+    "//cdnjs.cloudflare.com/ajax/libs/rangeslider.js/1.2.2/rangeslider.min.js",
+    {
+      src: "/static/resources/frontend/javascripts/vendor/rangeslider.min.js",
+      condition: function () {
+        return window.jQuery.rangeslider;
+      }
+    },
+    "/static/resources/frontend/javascripts/vendor/jquery.validate.min.js",
+    "/static/resources/frontend/javascripts/vendor/background-check.min.js"
+  ];
+
+  // Things to run from subpages
+  
+  // Optional
+  if(window.Modernizr && !Modernizr.input.placeholder){
+    files.push(
+      "/static/resources/frontend/javascripts/vendor/jquery.placeholder.js"
+    );
+  }
+
+  // Main script
+  files.push(
+    {
+      src: "/static/resources/frontend/javascripts/adrianos.js?v=v1.35.2-994f0dcf",
+      callback: scriptsLoaded
+    }
+  );
+
+  // Scripts depending on main script (extensions)
+  
+  // Callback
+  function scriptsLoaded(){
+        
+  }
+
+  (function () {
+    function loadScript() {
+      if (files.length > 0) {
+        var script = files.shift();
+        var callback;
+        if (typeof(script) === "string") {
+          script = script;
+        } else {
+          if (script.condition) {
+            loadScript();
+            return;
+          } else if(script.src){
+            if(script.callback){
+              callback = script.callback;
+            }
+
+            script = script.src;
+          }
+        }
+        var element = document.createElement("script");
+
+        if(typeof script == 'string' || script instanceof String) {
+          element.src = script;
+        }
+
+        if(element.src && typeof element.src == 'string' || element.src instanceof String || element.textContent){
+          element.onload = element.onreadystatechange = function () {
+            if (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete') {
+              if(callback){
+                callback();
+              }
+
+              loadScript();
+              element.onload = element.onreadystatechange = null
+            }
+          };
+          //element.async = 'true';
+          document.body.appendChild(element);
+        }
+      }
+    }
+
+    if (window.addEventListener) {
+      window.addEventListener("load", loadScript, false);
+    }
+    else if (window.attachEvent) {
+      window.attachEvent("onload", loadScript);
+    } else {
+      window.onload = loadScript;
+    }
+  }).call(this);
+
+    </script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script></body></html>
