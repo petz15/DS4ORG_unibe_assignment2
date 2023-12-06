@@ -1,0 +1,1266 @@
+<html class="js" dir="ltr" lang="de" prefix="content: https://purl.org/rss/1.0/modules/content/  dc: https://purl.org/dc/terms/  foaf: https://xmlns.com/foaf/0.1/  og: https://ogp.me/ns#  rdfs: https://www.w3.org/2000/01/rdf-schema#  schema: https://schema.org/  sioc: https://rdfs.org/sioc/ns#  sioct: https://rdfs.org/sioc/types#  skos: https://www.w3.org/2004/02/skos/core#  xsd: https://www.w3.org/2001/XMLSchema# "><head>
+<meta charset="utf-8"/>
+<link href="https://www.blasercafe.ch/shop/category/8" rel="canonical"/>
+<meta content="Drupal 9 (https://www.drupal.org)" name="Generator"/>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script async="" data-id="CD3DHP3C77U8TNJITT50" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTdjYzNiZDU2MA.js" type="text/javascript"></script><script async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CD3DHP3C77U8TNJITT50&amp;lib=ttq" type="text/javascript"></script><script async="" src="https://connect.facebook.net/signals/config/635398806857188?v=2.9.138&amp;r=stable&amp;domain=www.blasercafe.ch"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZN4L2FLW3B&amp;l=dataLayer&amp;cx=c" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NP66V3N"></script><script defer="" src="/sites/default/files/google_tag/general/google_tag.script.js?s590dc"></script>
+<title>| Blaser Café</title>
+<link href="/sites/default/files/css/css_UWHUgO1b6nHf9oN8WgO-TlLLhjxOrZ04QJZEcBQmSgw.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_4ybVGQuJgZeVjIIGQ8X_4LjBhbrnY9VqSJAeOW3gAfg.css" media="all" rel="stylesheet"/>
+<script src="/sites/default/files/js/js_0RgfBaNN2FtYk_2Zrvl-zxYX1puv5jWnU-o29uyKMbo.js"></script>
+<link href="/themes/custom/blasercafe/images/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/themes/custom/blasercafe/images/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/themes/custom/blasercafe/images/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/themes/custom/blasercafe/images/favicons/site.webmanifest" rel="manifest"/>
+<link color="#5bbad5" href="/themes/custom/blasercafe/images/favicons/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#da532c" name="msapplication-TileColor"/>
+<meta content="#ffffff" name="theme-color"/>
+<script async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/775346791/?random=1701874238695&amp;cv=11&amp;fst=1701874238695&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45He3bt0v830977066&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.blasercafe.ch%2Fshop%2Fcategory%2F8&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=%7C%20Blaser%20Caf%C3%A9&amp;auid=1077199291.1701874239&amp;fledge=1&amp;uaa=x86&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.62&amp;uamb=0&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;rfmt=3&amp;fmt=4" type="text/javascript"></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/static/identify_bb163.js"></script></head>
+<body class="path-shop eu-cookie-compliance-popup-open eu-cookie-compliance-status-null" data-eu-cookie-compliance-once="true">
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NP66V3N" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<a class="visually-hidden focusable skip-link" href="#main-content">
+      Direkt zum Inhalt
+    </a>
+<div class="main-container with-sidebar-left">
+<header class="header" role="banner">
+<div class="header-top-wrapper">
+<div class="header-top">
+<div class="region region--social-media">
+<div class="block block-system block--system-menu-blocksocial-media menu--social-media" id="block-socialmedia">
+<div class="block-title">Seite teilen<span class="plus">+</span></div>
+<ul class="menu social-media">
+<li class="menu-item social-media-menu-item">
+<a class="menu-item-link" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.blasercafe.ch/shop/category/8" target="_blank"> <i class="icon-facebook"></i> <span>Facebook</span>
+</a>
+</li>
+<li class="menu-item social-media-menu-item">
+<a class="menu-item-link" href="https://pinterest.com/pin/create/button/?url=https%3A//www.blasercafe.ch/shop/category/8" target="_blank"> <i class="icon-pinterest"></i> <span>Pinterest</span>
+</a>
+</li>
+<li class="menu-item social-media-menu-item">
+<a class="menu-item-link" href="https://www.instagram.com/blasercafe.ch" target="_blank"> <i class="icon-instagram"></i> <span>Instagram</span>
+</a>
+</li>
+<li class="menu-item social-media-menu-item">
+<a class="menu-item-link" href="https://www.linkedin.com/company/blasercaf%C3%A9-ag/" target="_blank"> <i class="icon-linkedin"></i> <span>Linkedin</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="region region--secondary-menu">
+<div class="block block-system block--system-menu-blockpage-switcher menu--page-switcher" id="block-pageswitcher">
+<div class="block-title">Die Berner Rösterei seit 1922<i class="icon-arrow_down"></i></div>
+<div class="background-helper"></div>
+<ul class="menu page-switcher">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/">Blasercafé</a>
+</li>
+<li class="menu-item">
+<a href="https://www.roesterei.be">Rösterei Kaffee und Bar</a>
+</li>
+<li class="menu-item">
+<a href="https://www.blasertrading.ch/">Blaser Trading</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="region region--meta-nav">
+<nav aria-labelledby="block-cart-menu" class="block block-menu navigation menu--cart" id="block-cart" role="navigation">
+<h2 class="visually-hidden" id="block-cart-menu">Cart</h2>
+<ul class="menu">
+<li class="menu-item menu-item--cart">
+<a class="menu-item-link" data-drupal-link-system-path="cart" href="/cart" title="Warenkorb"> <i class="icon-shopping_cart"></i>
+</a>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-bookmarks-menu" class="block block-menu navigation menu--bookmarks" id="block-bookmarks" role="navigation">
+<h2 class="visually-hidden" id="block-bookmarks-menu">Bookmarks</h2>
+<ul class="menu">
+<li class="menu-item menu-item--bookmarks">
+<a class="menu-item-link" data-drupal-link-system-path="node/129" href="/merkliste"> <i class="icon-heart_inactive"></i>
+</a>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-blasercafe-account-menu-menu" class="block block-menu navigation menu--account" id="block-blasercafe-account-menu" role="navigation">
+<div class="block-title" id="block-blasercafe-account-menu-menu"><i class="icon-profile_inaktive"></i><span class="label">Mein Konto</span></div>
+<ul class="menu">
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="user/login" href="/user/login">Anmelden</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="region region--language-menu">
+<div class="language-switcher-language-url block block-language block--language-blocklanguage-interface" id="block-language-switcher" role="navigation">
+<i class="icon-globe"></i>
+<ul class="links menu--lang"><li class="de menu--lang-item is-active" data-drupal-link-system-path="shop/category/8" hreflang="de">
+<a class="language-link active-language is-active" data-drupal-link-system-path="shop/category/8" href="/shop/category/8" hreflang="de">de</a></li><li class="en menu--lang-item" data-drupal-link-system-path="shop/category/8" hreflang="en">
+<a class="language-link" data-drupal-link-system-path="shop/category/8" href="/en/shop/category/8" hreflang="en">en</a></li><li class="fr menu--lang-item" data-drupal-link-system-path="shop/category/8" hreflang="fr">
+<a class="language-link" data-drupal-link-system-path="shop/category/8" href="/fr/shop/category/8" hreflang="fr">fr</a></li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="header-bottom-wrapper">
+<div class="header-bottom-inner">
+<div class="region region--branding">
+<div class="block block-system block--system-branding-block" id="block-sitebranding">
+<a class="site-logo" href="/" rel="home">
+<img alt="Startseite" src="/themes/custom/blasercafe/images/blasercafe.svg"/>
+</a>
+</div>
+</div>
+<div class="region region--primary-menu">
+<nav aria-labelledby="block-blasercafe-main-menu-menu" class="block block-menu navigation menu--main" id="block-blasercafe-main-menu" role="navigation">
+<h2 class="visually-hidden" id="block-blasercafe-main-menu-menu">Main navigation</h2>
+<ul class="menu">
+<li class="menu-item menu-item--active-trail">
+<a class="menu-item-link" data-drupal-link-system-path="node/139" href="/shop-uebersicht">Shop</a>
+</li>
+<li class="menu-item menu-item--expanded">
+<a class="menu-item-link" data-drupal-link-system-path="node/89" href="/ueber-uns">Über uns</a>
+<ul class="menu">
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/82" href="/ueber-uns/philosophie">Philosophie</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/5820" href="/ueber-uns/verantwortung-und-engagement">Verantwortung und Engagement</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/92" href="/ueber-uns/zertifizierungen">Zertifizierungen</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/74" href="/ueber-uns/geschichte">Geschichte</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/76" href="/ueber-uns/team">Team</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a class="menu-item-link" data-drupal-link-system-path="node/4568" href="/kaffee-kaffeemaschinen">Bürokaffee</a>
+<ul class="menu">
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/4409" href="/buerokaffee/kaffee-und-kaffeemaschinen">Kleinunternehmen &amp; Home Office</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/4569" href="/buerokaffee/kaffee-und-kaffeemaschinen-0">Mittlere- und Grossunternehmen</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a class="menu-item-link" data-drupal-link-system-path="node/1161" href="/gastronomie">Gastronomie</a>
+<ul class="menu">
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1147" href="/gastronomie/kompetenzen">Kompetenzen</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1148" href="/gastronomie/equipment">Equipment</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1156" href="/kontakt/aussendienst">Mitarbeiter Aussendienst</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1151" href="/gastronomie/eventmaterial">Event Material</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1165" href="/gastronomie/rent-barista">Rent a Barista</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/2784" href="/tourenplan">Liefertouren</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a class="menu-item-link" data-drupal-link-system-path="node/90" href="/individuelle-loesungen">Individuelle Lösungen</a>
+<ul class="menu">
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1152" href="/individuelle-loesungen/private-label">Private Label</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1153" href="/individuelle-loesungen/airline-catering">Airline Catering</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a class="menu-item-link" data-drupal-link-system-path="node/80" href="/kaffeekurse">Kaffeekurse</a>
+<ul class="menu">
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/80" href="/kaffeekurse">Kurse</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1518" href="/kaffeekurse/kurslokal">Kurslokal</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1519" href="/kaffeekurse/anmelde-und-teilnahmebedingungen">Anmelde- und Teilnahmebedingungen</a>
+</li>
+</ul>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/77" href="/blog">Blog</a>
+</li>
+<li class="menu-item menu-item--expanded">
+<a class="menu-item-link" data-drupal-link-system-path="node/91" href="/kontaktieren-sie-uns">Kontakt</a>
+<ul class="menu">
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/91" href="/kontaktieren-sie-uns">Kontaktieren Sie uns</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1156" href="/kontakt/aussendienst">Aussendienst</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1159" href="/kontakt/verkaufsstellen">Verkaufsstellen</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1158" href="/kontakt/internationale-distributionspartner">Internationale Distributionspartner</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<main role="main">
+<a id="main-content" tabindex="-1"></a> <div class="content-top">
+<div class="region region--content-top">
+<div class="block block-facets-active-view-block block--facets-active-view-block" id="block-facetsactiveviewblock">
+<div class="views-element-container"><div class="view view-product-category-description view-id-product_category_description view-display-id-block_1 js-view-dom-id-32e0f5f1b2029abfeba9661c1607bd8c9ef48cac04ae305d0b5cf3e81c953d7b">
+<div class="view-content">
+<div class="views-row"><h1 class="field-content lead-in-headline">Bohnenkaffee</h1></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content">
+<aside class="sidebar-left" role="complementary">
+<div class="region region--sidebar-left">
+<div class="facet-category-wrapper js-facet-category-wrapper">
+<div class="facet-active block-facet--links block block-facets block--facet-blockfacet-category" id="block-facet-category">
+<h2 class="facet-category-title js-facet-category-title">FILTER<i class="icon icon-arrow_down"></i></h2>
+<div class="facet-category-content-wrapper">
+<div class="show-all"><a href="https://www.blasercafe.ch/shop">Alle</a></div>
+<ul class="facet-active js-facets-links item-list__links js-enabled js-facets-widget" data-drupal-facet-alias="category" data-drupal-facet-id="facet_category"> <li class="facet-item facet-item--expanded facet-item--active-trail"><span class="has-children open">Kaffee</span>
+<div class="facet-inner">
+<ul> <li class="facet-item"><span class="is-active">Bohnenkaffee</span></li>
+<li class="facet-item"><a data-drupal-facet-item-count="4" data-drupal-facet-item-id="category-25" data-drupal-facet-item-value="25" href="/shop/category/25" rel="nofollow">
+Mahlkaffee
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="23" data-drupal-facet-item-id="category-26" data-drupal-facet-item-value="26" href="/shop/category/26" rel="nofollow">
+E.S.E. Pods 44mm
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="6" data-drupal-facet-item-id="category-75" data-drupal-facet-item-value="75" href="/shop/category/75" rel="nofollow">
+Terroir Kaffee "Limited Edition"
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="12" data-drupal-facet-item-id="category-398" data-drupal-facet-item-value="398" href="/shop/category/398" rel="nofollow">
+Fairtrade &amp; Bio Kaffee
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="2" data-drupal-facet-item-id="category-27" data-drupal-facet-item-value="27" href="/shop/category/27" rel="nofollow">
+Instantkaffee
+</a></li>
+</ul></div>
+</li>
+<li class="facet-item"><a data-drupal-facet-item-count="50" data-drupal-facet-item-id="category-320" data-drupal-facet-item-value="320" href="/shop/category/320" rel="nofollow">
+Rösterei Kaffee &amp; Bar
+</a></li>
+<li class="facet-item facet-item--expanded"><span class="has-children">Maschinen &amp; Zubehör</span>
+<div class="facet-inner">
+<ul> <li class="facet-item"><a data-drupal-facet-item-count="6" data-drupal-facet-item-id="category-76" data-drupal-facet-item-value="76" href="/shop/category/76" rel="nofollow">
+E.S.E. Pod Espressomaschinen
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="10" data-drupal-facet-item-id="category-29" data-drupal-facet-item-value="29" href="/shop/category/29" rel="nofollow">
+Espressomaschinen
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="8" data-drupal-facet-item-id="category-394" data-drupal-facet-item-value="394" href="/shop/category/394" rel="nofollow">
+Kaffeemühlen
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="8" data-drupal-facet-item-id="category-650" data-drupal-facet-item-value="650" href="/shop/category/650" rel="nofollow">
+Bialetti Kaffeemaschinen
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="31" data-drupal-facet-item-id="category-384" data-drupal-facet-item-value="384" href="/shop/category/384" rel="nofollow">
+Filterbrühsysteme
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="5" data-drupal-facet-item-id="category-387" data-drupal-facet-item-value="387" href="/shop/category/387" rel="nofollow">
+Sets und Starter Kits
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="5" data-drupal-facet-item-id="category-77" data-drupal-facet-item-value="77" href="/shop/category/77" rel="nofollow">
+Occasion-Geräte / Sonderangebote
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="17" data-drupal-facet-item-id="category-385" data-drupal-facet-item-value="385" href="/shop/category/385" rel="nofollow">
+Reinigungsmaterial
+</a></li>
+</ul></div>
+</li>
+<li class="facet-item"><a data-drupal-facet-item-count="75" data-drupal-facet-item-id="category-30" data-drupal-facet-item-value="30" href="/shop/category/30" rel="nofollow">
+Baristamaterial
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="6" data-drupal-facet-item-id="category-642" data-drupal-facet-item-value="642" href="/shop/category/642" rel="nofollow">
+Bücher
+</a></li>
+<li class="facet-item facet-item--expanded"><span class="has-children">Tee, Sirup &amp; Schokolade</span>
+<div class="facet-inner">
+<ul> <li class="facet-item"><a data-drupal-facet-item-count="21" data-drupal-facet-item-id="category-33" data-drupal-facet-item-value="33" href="/shop/category/33" rel="nofollow">
+Länggass-Tee
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="20" data-drupal-facet-item-id="category-83" data-drupal-facet-item-value="83" href="/shop/category/83" rel="nofollow">
+Crowning's Tee
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="1" data-drupal-facet-item-id="category-78" data-drupal-facet-item-value="78" href="/shop/category/78" rel="nofollow">
+Sirup
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="2" data-drupal-facet-item-id="category-82" data-drupal-facet-item-value="82" href="/shop/category/82" rel="nofollow">
+Milch &amp; Schokopulver
+</a></li>
+</ul></div>
+</li>
+<li class="facet-item"><a data-drupal-facet-item-count="33" data-drupal-facet-item-id="category-80" data-drupal-facet-item-value="80" href="/shop/category/80" rel="nofollow">
+Tassen &amp; Gläser
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="7" data-drupal-facet-item-id="category-395" data-drupal-facet-item-value="395" href="/shop/category/395" rel="nofollow">
+Einwegbecher
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="6" data-drupal-facet-item-id="category-397" data-drupal-facet-item-value="397" href="/shop/category/397" rel="nofollow">
+Süssungsmittel
+</a></li>
+<li class="facet-item"><a data-drupal-facet-item-count="27" data-drupal-facet-item-id="category-86" data-drupal-facet-item-value="86" href="/shop/category/86" rel="nofollow">
+Geschenke &amp; Gutscheine
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</aside>
+<div class="content-wrapper">
+<div class="region region--content">
+<div class="hidden" data-drupal-messages-fallback=""></div><div class="views-exposed-form bef-exposed-form block block-views block--views-exposed-filter-blockproduct-search-result-page-1 block--views-exposed-filter" data-drupal-selector="views-exposed-form" id="block-hervorgehobenesformularproduct-search-resultpage-1">
+<form accept-charset="UTF-8" action="/shop" id="views-exposed-form-product-search-result-page-1" method="get">
+<div class="form--inline clearfix">
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search-api-fulltext form-item-search-api-fulltext">
+<input class="form-text" data-drupal-selector="edit-search-api-fulltext" id="edit-search-api-fulltext--2" maxlength="128" name="search_api_fulltext" placeholder="Suche" size="30" type="text" value=""/>
+</div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-sort-by form-item-sort-by">
+<label for="edit-sort-by--2">Sortieren nach</label>
+<select aria-hidden="true" class="form-select select2-hidden-accessible" data-drupal-selector="edit-sort-by" data-select2-id="edit-sort-by--2" id="edit-sort-by--2" name="sort_by" tabindex="-1"><option data-select2-id="2" selected="selected" value="field_product_weight">Standard</option><option value="field_product_item_option_price">Preis</option><option value="field_product_special_new">Neueste</option><option value="field_product_special_sale">Sale</option></select><span class="select2 select2-container select2-container--default" data-select2-id="1" dir="ltr" style="width: 100%;"><span class="selection"><span aria-expanded="false" aria-haspopup="true" aria-labelledby="select2-edit-sort-by--2-container" class="select2-selection select2-selection--single" role="combobox" tabindex="0"><span aria-readonly="true" class="select2-selection__rendered" id="select2-edit-sort-by--2-container" role="textbox" title="Standard">Standard</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span aria-hidden="true" class="dropdown-wrapper"></span></span>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"><input class="button js-form-submit form-submit" id="edit-submit-product-search-result--2" type="submit" value="Suchen"/>
+</div>
+</div>
+<input name="__ncforminfo" type="hidden" value="IC49s_e5POT2xXJhJ47LOAX4HVH6EiULmCftPqtL-A13h72NyuuCLpoX5Zvhid4i2oK-OI4i2wNWcBx1cNAqxlXZphNxQkAAT3tDjyH7TDhf81K7tSEMbApg-I-eEHiVNU0UgW1CyjI="/></form>
+</div>
+<div class="facet-inactive block-facet--dropdown block block-facets block--facet-blockfacet-preparation" id="block-facet-preparation">
+<div class="form-type-select facets-widget-dropdown">
+<label>Zubereitung</label>
+<ul class="facet-inactive js-facets-dropdown-links item-list__dropdown" data-drupal-facet-alias="preparation" data-drupal-facet-id="facet_preparation" style="display: none;"><li class="default-option"><a href="https://www.blasercafe.ch/shop/category/8">Bitte wählen</a></li><li class="facet-item"><a data-drupal-facet-item-count="23" data-drupal-facet-item-id="preparation-2" data-drupal-facet-item-value="2" href="/shop/category/8/preparation/2" rel="nofollow">
+Bialetti-Kocher
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="0" data-drupal-facet-item-id="preparation-5" data-drupal-facet-item-value="5" href="/shop/category/8/preparation/5" rel="nofollow">
+E.S.E Podsystem
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="23" data-drupal-facet-item-id="preparation-0" data-drupal-facet-item-value="0" href="/shop/category/8/preparation/0" rel="nofollow">
+Espressomaschine
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="13" data-drupal-facet-item-id="preparation-4" data-drupal-facet-item-value="4" href="/shop/category/8/preparation/4" rel="nofollow">
+Filterkaffee
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="13" data-drupal-facet-item-id="preparation-3" data-drupal-facet-item-value="3" href="/shop/category/8/preparation/3" rel="nofollow">
+French Press
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="21" data-drupal-facet-item-id="preparation-1" data-drupal-facet-item-value="1" href="/shop/category/8/preparation/1" rel="nofollow">
+Vollautomat
+</a></li></ul><select aria-hidden="true" aria-labelledby="facet_facet_preparation_label" class="facet-inactive item-list__dropdown facets-dropdown js-facets-widget js-facets-dropdown select2-hidden-accessible" data-drupal-facet-alias="preparation" data-drupal-facet-id="facet_preparation" data-select2-id="3" tabindex="-1"><option data-select2-id="5" selected="selected" value="">Bitte wählen</option><option value="/shop/category/8/preparation/2"> Bialetti-Kocher</option><option value="/shop/category/8/preparation/5"> E.S.E Podsystem</option><option value="/shop/category/8/preparation/0"> Espressomaschine</option><option value="/shop/category/8/preparation/4"> Filterkaffee</option><option value="/shop/category/8/preparation/3"> French Press</option><option value="/shop/category/8/preparation/1"> Vollautomat</option></select><span class="select2 select2-container select2-container--default" data-select2-id="4" dir="ltr" style="width: 100%;"><span class="selection"><span aria-expanded="false" aria-haspopup="true" aria-labelledby="select2-raaa-container" class="select2-selection select2-selection--single" role="combobox" tabindex="0"><span aria-readonly="true" class="select2-selection__rendered" id="select2-raaa-container" role="textbox" title="Bitte wählen">Bitte wählen</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span aria-hidden="true" class="dropdown-wrapper"></span></span></div>
+</div>
+<div class="facet-inactive block-facet--dropdown block block-facets block--facet-blockgetrankeart" id="block-getrankeart">
+<div class="form-type-select facets-widget-dropdown">
+<label>Getränkeart</label>
+<ul class="facet-inactive js-facets-dropdown-links item-list__dropdown" data-drupal-facet-alias="type" data-drupal-facet-id="getrankeart" style="display: none;"><li class="default-option"><a href="https://www.blasercafe.ch/shop/category/8">Bitte wählen</a></li><li class="facet-item"><a data-drupal-facet-item-count="14" data-drupal-facet-item-id="type-2" data-drupal-facet-item-value="2" href="/shop/category/8/type/2" rel="nofollow">
+Café Crème
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="18" data-drupal-facet-item-id="type-3" data-drupal-facet-item-value="3" href="/shop/category/8/type/3" rel="nofollow">
+Cappuccino
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="22" data-drupal-facet-item-id="type-1" data-drupal-facet-item-value="1" href="/shop/category/8/type/1" rel="nofollow">
+Espresso
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="9" data-drupal-facet-item-id="type-5" data-drupal-facet-item-value="5" href="/shop/category/8/type/5" rel="nofollow">
+Filterkaffee
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="17" data-drupal-facet-item-id="type-4" data-drupal-facet-item-value="4" href="/shop/category/8/type/4" rel="nofollow">
+Latte Macchiato
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="5" data-drupal-facet-item-id="type-0" data-drupal-facet-item-value="0" href="/shop/category/8/type/0" rel="nofollow">
+Ristretto
+</a></li></ul><select aria-hidden="true" aria-labelledby="facet_getrankeart_label" class="facet-inactive item-list__dropdown facets-dropdown js-facets-widget js-facets-dropdown select2-hidden-accessible" data-drupal-facet-alias="type" data-drupal-facet-id="getrankeart" data-select2-id="6" tabindex="-1"><option data-select2-id="8" selected="selected" value="">Bitte wählen</option><option value="/shop/category/8/type/2"> Café Crème</option><option value="/shop/category/8/type/3"> Cappuccino</option><option value="/shop/category/8/type/1"> Espresso</option><option value="/shop/category/8/type/5"> Filterkaffee</option><option value="/shop/category/8/type/4"> Latte Macchiato</option><option value="/shop/category/8/type/0"> Ristretto</option></select><span class="select2 select2-container select2-container--default" data-select2-id="7" dir="ltr" style="width: 100%;"><span class="selection"><span aria-expanded="false" aria-haspopup="true" aria-labelledby="select2-ndqu-container" class="select2-selection select2-selection--single" role="combobox" tabindex="0"><span aria-readonly="true" class="select2-selection__rendered" id="select2-ndqu-container" role="textbox" title="Bitte wählen">Bitte wählen</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span aria-hidden="true" class="dropdown-wrapper"></span></span></div>
+</div>
+<div class="block block-system block--system-main-block" id="block-blasercafe-content">
+<div class="views-element-container"><div class="view view-product-search-result view-id-product_search_result view-display-id-page_1 js-view-dom-id-e591f98f0a1aa3b94263ecccbacba81634f2272900b713b9f17ccafb09312740">
+<div class="view-content">
+<div class="views-row">
+<article about="/node/6737" class="product-teaser-wrapper" data-history-node-id="6737" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/node/6737?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_250g_terra_vita.png?itok=3ioeCfBQ"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<span class="product-special new">Neu</span>
+<h3 class="product-title">
+<a href="/node/6737?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Terra Vita Bio Fairtrade Bohnenkaffee (bisher Pura Vida)</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-6737 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6737?destination=/shop/category/8&amp;token=y6_r_nMEHWG8_mO-C0__ExPihjWVCalJkdRsJtt6MdI" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="6737" href="/node/6737?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/Maya" class="product-teaser-wrapper" data-history-node-id="6381" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/Maya?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_250g_Maya.png?itok=SjuoFqtw"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/Maya?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Rösterei Spezial Maya Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 7.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-6381 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6381?destination=/shop/category/8&amp;token=Zz5AcDLDeVgKu5lXsMUckS5eWLT-KVvHuHbGp5ce3J4" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="6381" href="/bohnenkaffee/Maya?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/YB-Champions" class="product-teaser-wrapper" data-history-node-id="6444" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/YB-Champions?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/R%C3%B6sterei_250g_YB.png?itok=nXKa0Mnn"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/YB-Champions?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Coffee for Champions - Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 8.50</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-6444 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6444?destination=/shop/category/8&amp;token=Tdhd2RnrtAXG3Z1bH22UhsPI2TIrwVv8vvWMCvMcDlY" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="6444" href="/bohnenkaffee/YB-Champions?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/marrone" class="product-teaser-wrapper" data-history-node-id="811" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/marrone?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_Bohnen/Blasercafe_250g_marrone.png?itok=RPYgbA-5"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/marrone?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Marrone Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.10</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-811 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/811?destination=/shop/category/8&amp;token=UjnP76Van2ivaOKYRt038tjGlJh85GYwmy5z8pRhQBM" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="811" href="/bohnenkaffee/marrone?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/verde" class="product-teaser-wrapper" data-history-node-id="854" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/verde?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_250g_verde.png?itok=-2fK6T4C"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/verde?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Verde Bio Fairtrade Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.70</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-854 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/854?destination=/shop/category/8&amp;token=_pZYj8gxb762ii-OcsLRKIo-BZiA-q5ivV5u-PIO-fE" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="854" href="/bohnenkaffee/verde?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/Purista" class="product-teaser-wrapper" data-history-node-id="6796" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/Purista?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_Bohnen/Blasercafe_250g_purista.png?itok=70d9qo65"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<span class="product-special new">Neu</span>
+<h3 class="product-title">
+<a href="/Purista?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Purista Fairtrade Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.10</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-6796 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6796?destination=/shop/category/8&amp;token=CopGgYnAJO4MRuUeDLL_d-ukH5FBamvlHDozTTvE9fo" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="6796" href="/Purista?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/lilla-e-rose" class="product-teaser-wrapper" data-history-node-id="797" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/lilla-e-rose?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_Bohnen/Blasercafe_250g_lilla.png?itok=3ndAZX_9"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/lilla-e-rose?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Lilla e Rose Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.30</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-797 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/797?destination=/shop/category/8&amp;token=HO7dQKbIh779eWXomDEAOsGVZBFTuPlrDs7JS1Wf7mQ" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="797" href="/bohnenkaffee/lilla-e-rose?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/lussuria" class="product-teaser-wrapper" data-history-node-id="804" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/lussuria?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_250g_lussuria_0.png?itok=EtQnpQcy"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/lussuria?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Lussuria Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.–</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-804 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/804?destination=/shop/category/8&amp;token=jQgesGf0iiuzkNtVjoYRVGS4-AX3IzyI5fyq3qunn1A" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="804" href="/bohnenkaffee/lussuria?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/rosso-%26-nero" class="product-teaser-wrapper" data-history-node-id="836" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/rosso-%26-nero?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_Bohnen/Blasercafe_250g_rosso.png?itok=N3EZC9I8"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/rosso-%26-nero?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Rosso &amp; Nero Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-836 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/836?destination=/shop/category/8&amp;token=Z9-TzLiITE4DtUJ1cOhNlgJ7M9wyenZlaUOb6EjZhv4" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="836" href="/bohnenkaffee/rosso-%26-nero?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/classico" class="product-teaser-wrapper" data-history-node-id="3241" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/classico?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_Bohnen/Blasercafe_250g_classico.png?itok=LrmktE-1"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/classico?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Classico Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.50</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-3241 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/3241?destination=/shop/category/8&amp;token=lbWXzbGPALqbwvQ3pbZJOwp6mMkLoBdGFgle9whZhqg" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="3241" href="/bohnenkaffee/classico?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/sera" class="product-teaser-wrapper" data-history-node-id="840" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/sera?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_250g_sera.png?itok=lTIrQMWg"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/sera?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Sera entkoffeiniert Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-840 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/840?destination=/shop/category/8&amp;token=rU7tYS2ERRuxXF2_84PkatUAQOd3bK3ItET1RuT7Hq4" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="840" href="/bohnenkaffee/sera?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/node/4183" class="product-teaser-wrapper" data-history-node-id="4183" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/node/4183?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Roesterei_250g_bethlehem.png?itok=zHfLDIVa"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<span class="product-special new">Neu</span>
+<h3 class="product-title">
+<a href="/node/4183?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Winter Spezial Bethlehem Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.20</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-4183 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/4183?destination=/shop/category/8&amp;token=20B0CyRD0MVCRgIAKueSRKJcoMOfSmbD1NXnSsGE8r8" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="4183" href="/node/4183?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/r%C3%B6sterei-hausmischung" class="product-teaser-wrapper" data-history-node-id="1451" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/r%C3%B6sterei-hausmischung?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Rosterei_kaffee_und_bar_hausmischung.png?itok=wCaSqbeF"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/r%C3%B6sterei-hausmischung?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Rösterei Hausmischung Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 7.30</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-1451 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1451?destination=/shop/category/8&amp;token=-rZ0ZuOYDvANab2j9w6TyGM6HP1Ph5I-1RNlA1l1b3U" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="1451" href="/bohnenkaffee/r%C3%B6sterei-hausmischung?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/r%C3%B6sterei-marzili" class="product-teaser-wrapper" data-history-node-id="1536" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/r%C3%B6sterei-marzili?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_250g_Marzili.png?itok=Xuhdpt4K"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/r%C3%B6sterei-marzili?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Rösterei Marzili Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.60</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-1536 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1536?destination=/shop/category/8&amp;token=OHfxwwsEeQBD3l3RQV0MaRpuZb6h3XQMNgwb5o9Bigc" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="1536" href="/bohnenkaffee/r%C3%B6sterei-marzili?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/r%C3%B6sterei-lorraine" class="product-teaser-wrapper" data-history-node-id="1539" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/r%C3%B6sterei-lorraine?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_250g_Lorraine.png?itok=sgkX1sFc"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/r%C3%B6sterei-lorraine?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Rösterei Lorraine Bio Fairtrade Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 7.–</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-1539 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1539?destination=/shop/category/8&amp;token=-jdGb4pXRLhxLxDpz_4b84wUCSHIwFWhb7LauXyoEtA" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="1539" href="/bohnenkaffee/r%C3%B6sterei-lorraine?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/r%C3%B6sterei-elfenau" class="product-teaser-wrapper" data-history-node-id="1533" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/r%C3%B6sterei-elfenau?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_250g_Elfenau.png?itok=HpB4fTMA"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/r%C3%B6sterei-elfenau?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Rösterei Elfenau Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 6.60</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-1533 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1533?destination=/shop/category/8&amp;token=jvm__eMrbmBqV8NOEK7234j_BpFw5IDX7rZZpP4XpeI" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="1533" href="/bohnenkaffee/r%C3%B6sterei-elfenau?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/node/6456" class="product-teaser-wrapper" data-history-node-id="6456" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/node/6456?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_terroir_tanzania_washed.png?itok=0TGF0BpP"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/node/6456?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Terroir Tanzania Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 10.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-6456 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6456?destination=/shop/category/8&amp;token=WjVD5CFVhh7_O1ckC54ecentoes061Ywg1xwyRdTDIo" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="6456" href="/node/6456?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/terroir/Terroir-Panama" class="product-teaser-wrapper" data-history-node-id="6234" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/terroir/Terroir-Panama?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_terroir_Panama_2023.png?itok=28Y6YMT1"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/terroir/Terroir-Panama?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Terroir Panama Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 12.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-6234 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6234?destination=/shop/category/8&amp;token=3lWD-dmiDbmnZ9DCvRp_R0aSjrOo8nKnpy7AlntR1i0" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="6234" href="/terroir/Terroir-Panama?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/Terroir/Papua-New-Guinea" class="product-teaser-wrapper" data-history-node-id="5765" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/Terroir/Papua-New-Guinea?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Papua_new_guinea_sigri.png?itok=gW54nGXB"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/Terroir/Papua-New-Guinea?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Terroir Papua New Guinea  Sigri, Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 9.70</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-5765 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/5765?destination=/shop/category/8&amp;token=RGIAimJ-eRxugqiTfQEbf7LZ6bNVtBK_rSs4NFNCGXs" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="5765" href="/Terroir/Papua-New-Guinea?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/terroir/indonesia-sumatra-orang-utan" class="product-teaser-wrapper" data-history-node-id="874" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/terroir/indonesia-sumatra-orang-utan?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_terroir_orang_utan_indonesia_sumatra_2.png?itok=IYzSJsgq"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/terroir/indonesia-sumatra-orang-utan?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Terroir Indonesia Sumatra Orang Utan, Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 12.50</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-874 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/874?destination=/shop/category/8&amp;token=2DkBZDyrL7FgEQi70Dxx9ZvJ4zkiLjVpqvPR3b59bGM" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="874" href="/terroir/indonesia-sumatra-orang-utan?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/node/5372" class="product-teaser-wrapper" data-history-node-id="5372" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/node/5372?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_terroir_bolivia.png?itok=D2eSJbD1"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/node/5372?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Terroir Bolivien Bio Arabica R.L. Havelaar Bio, Bohnenkaffe</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 9.70</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-5372 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/5372?destination=/shop/category/8&amp;token=_2GspWYsOOFEE0jpHD8dvXq_ypUGi-ccJp5sCCPZQ7M" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="5372" href="/node/5372?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/terroir/brazil-capoeirinha-estate" class="product-teaser-wrapper" data-history-node-id="858" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/terroir/brazil-capoeirinha-estate?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_terroir_brasil_2.png?itok=SZereTz-"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/terroir/brazil-capoeirinha-estate?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Terroir Brazil Capoeirinha Estate, Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 8.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-858 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/858?destination=/shop/category/8&amp;token=VdhTTUtYMH1n02wPkMD2jtkd3SldUKzSwFldRJMgKYc" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="858" href="/terroir/brazil-capoeirinha-estate?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/node/6828" class="product-teaser-wrapper" data-history-node-id="6828" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/node/6828?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blaser-trio-zerti.png?itok=a7dP44r2"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<span class="product-special sale">Sale</span>
+<h3 class="product-title">
+<a href="/node/6828?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Geschenkset Blasercafé zertifizierte Kaffees</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper old-price">CHF 21.90</span>
+<span class="price-wrapper">ab CHF 17.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-6828 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6828?destination=/shop/category/8&amp;token=sUvNo8IyPZgkheIBbMkBC6nPO7cXnQuL4U3sU_3MiCY" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="6828" href="/node/6828?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/bohnenkaffee/ocoa-santo-domingo" class="product-teaser-wrapper" data-history-node-id="822" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/bohnenkaffee/ocoa-santo-domingo?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_250g_OCOA.png?itok=6t9LzuNW"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/bohnenkaffee/ocoa-santo-domingo?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Ocoa Santo Domingo Bohnenkaffee</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 19.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-822 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/822?destination=/shop/category/8&amp;token=PfqegQkdn6rQwwn5-Ph8gZZ9WkWFxgFImiyiARftjec" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="822" href="/bohnenkaffee/ocoa-santo-domingo?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/geschenkset/blasercaf%C3%A9-trilogie" class="product-teaser-wrapper" data-history-node-id="1084" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/geschenkset/blasercaf%C3%A9-trilogie?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_trilogie_Classico.png?itok=iktZsSIZ"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/geschenkset/blasercaf%C3%A9-trilogie?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Geschenkset Blasercafé Trilogie</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 21.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-1084 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1084?destination=/shop/category/8&amp;token=uwE9dEaouZQ8C9EQohzmu8J9j4h7Nl5YkOUWfhJTKE8" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="1084" href="/geschenkset/blasercaf%C3%A9-trilogie?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/geschenkset/berner-gourmet" class="product-teaser-wrapper" data-history-node-id="1081" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/geschenkset/berner-gourmet?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Blasercafe_berner_gourmet_set.png?itok=9fuOhYw-"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/geschenkset/berner-gourmet?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Geschenkset Berner Gourmet</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 21.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-1081 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1081?destination=/shop/category/8&amp;token=we9IOvMbseH2XIQw01uumvrxQOVFtgGgYwSDVw2ygAg" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="1081" href="/geschenkset/berner-gourmet?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article about="/geschenkset/r%C3%B6sterei-berner-mischungen" class="product-teaser-wrapper" data-history-node-id="1965" role="article">
+<div class="product-teaser-inner">
+<div class="product-teaser-image">
+<a href="/geschenkset/r%C3%B6sterei-berner-mischungen?backlink=%2Fshop%2Fcategory%2F8">
+<img src="/sites/default/files/styles/product_teaser/public/product_images/Roesterei_trilogie.png?itok=pobtkfyB"/>
+</a>
+</div>
+</div>
+<div class="product-teaser-content">
+<h3 class="product-title">
+<a href="/geschenkset/r%C3%B6sterei-berner-mischungen?backlink=%2Fshop%2Fcategory%2F8" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Rösterei Geschenkset Berner Mischungen</span>
+</a>
+</h3>
+</div>
+<div class="product-teaser-content-wrapper">
+<span class="price-wrapper">ab CHF 22.90</span>
+<div class="product-teaser-flag-bookmark">
+<div class="flag flag-bookmark js-flag-bookmark-1965 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1965?destination=/shop/category/8&amp;token=e84QXOFWkO0EiVP4GD_qGX0OicQK0O0Yoa6YEUtCJoY" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+</div>
+<div class="product-teaser-shopping-cart">
+<div class="shopping-cart">
+<a data-id="1965" href="/geschenkset/r%C3%B6sterei-berner-mischungen?backlink=%2Fshop%2Fcategory%2F8"><span>In den Warenkorb</span><i class="icon-shopping_cart"></i></a>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-bottom">
+<div class="region region--content-bottom">
+<div class="views-element-container block block-views block--views-blocklogofarm-block-1" id="block-views-block-logofarm-block-1">
+<h2>Mitglied und zertifiziert von</h2>
+<div><div class="logofarm view view-logofarm view-id-logofarm view-display-id-block_1 js-view-dom-id-c5a68a951e3748ec9fbc5becdf08e66b035d92f074cc25ca9ad8d47697df85c3">
+<div class="view-content">
+<div class="views-row"><a class="logo-link" href="https://www.fssc22000.com"><span class="normal"> <img alt="Fssc 22000 monochrom" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/fssc_braun.png?itok=sNVFR-W-" typeof="Image" width="150"/>
+</span><span class="hover"> <img alt="Fssc 22000 farbig" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/fssc_farb.png?itok=R0igN1uI" typeof="Image" width="150"/>
+</span></a></div>
+<div class="views-row"><a class="logo-link" href="https://www.bern.com/de/typisch-bern"><span class="normal"> <img alt="" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/bern_inactive%402x.png?itok=CD5-g5a9" typeof="Image" width="150"/>
+</span><span class="hover"> <img alt="" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/bern_col%402x.png?itok=gQLI0Enz" typeof="Image" width="150"/>
+</span></a></div>
+<div class="views-row"><a class="logo-link" href="https://www.procafe.ch"><span class="normal"> <img alt="" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/procafe_inactive%402x.png?itok=RsH4l5fU" typeof="Image" width="150"/>
+</span><span class="hover"> <img alt="" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/procafe_col%402x.png?itok=ZsF6Uq7z" typeof="Image" width="150"/>
+</span></a></div>
+<div class="views-row"><a class="logo-link" href="https://sca.coffee"><span class="normal"> <img alt="" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/sca_inactive%402x.png?itok=4PMV19dH" typeof="Image" width="150"/>
+</span><span class="hover"> <img alt="" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/sca_col%402x.png?itok=s-ZAOFZ6" typeof="Image" width="150"/>
+</span></a></div>
+<div class="views-row"><a class="logo-link" href="https://www.caffespeciali.it"><span class="normal"> <img alt="" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/csc_inactiv%402x.png?itok=VDv07MkT" typeof="Image" width="150"/>
+</span><span class="hover"> <img alt="" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/csc_col%402x.png?itok=B1EBpEJB" typeof="Image" width="150"/>
+</span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+<footer class="footer" role="contentinfo">
+<div class="region region--footer">
+<div class="block block-block-content block--block-content73c6fcf5-a76b-48dc-a30c-175abbfbb605 copyrightfooter" id="block-copyrightfooter">
+  
+    
+      © 2023 Blasercafé AG
+  </div>
+<nav aria-labelledby="block-blasercafe-footer-menu" class="block block-menu navigation menu--footer" id="block-blasercafe-footer" role="navigation">
+<h2 class="visually-hidden" id="block-blasercafe-footer-menu">Footer menu</h2>
+<ul class="menu">
+<li class="menu-item">
+<a class="menu-item-link" href="https://roesterei.us12.list-manage.com/subscribe?u=da65b2384708f03c248a8d2a1&amp;id=6d337e27c6">Newsletter</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1144" href="/agb">AGB</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1630" href="/lieferbedingungen">Lieferbedingungen</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1631" href="/datenschutz">Datenschutz</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" data-drupal-link-system-path="node/1142" href="/impressum">Impressum</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" href="https://www.blasercafe.ch/jobs">Jobs</a>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-socialmediafooter-menu" class="block block-menu navigation menu--socialmedia-footer" id="block-socialmediafooter" role="navigation">
+<h2 id="block-socialmediafooter-menu">Folge uns auf</h2>
+<ul class="menu">
+<li class="menu-item">
+<a class="menu-item-link" href="https://www.facebook.com/blasercafe.ch" title="facebook"> <i class="icon-facebook"></i>
+</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" href="https://www.instagram.com/blasercafe.ch/" title="instagram"> <i class="icon-instagram"></i>
+</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" href="https://www.pinterest.de/roesterei/" title="pinterest"> <i class="icon-pinterest"></i>
+</a>
+</li>
+<li class="menu-item">
+<a class="menu-item-link" href="https://www.linkedin.com/company/blasercaf%C3%A9-ag" title="linkedin"> <i class="icon-linkedin"></i>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</footer>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"shop\/category\/8","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"de"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,better_exposed_filters\/general,blasercafe\/global-css,blasercafe\/main-js,blasercafe\/openlightbox,blasercafe\/select2,classy\/base,classy\/messages,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_bare,facets\/drupal.facets.dropdown-widget,facets\/drupal.facets.general,facets\/drupal.facets.hierarchical,facets\/drupal.facets.link-widget,flag\/flag.link,flag\/flag.link_ajax,system\/base,views\/views.module","theme":"blasercafe","theme_token":null},"ajaxTrustedUrl":{"\/shop":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":true,"alwaysFullscreen":false,"throbberPosition":"body"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWir verwenden auf dieser Website Cookies, um die Benutzerfreundlichkeit zu verbessern.\u003C\/h2\u003E\n\u003Cp\u003EKlicken Sie \u0022Akzeptieren\u0022, um sich damit einverstanden zu erkl\u00e4ren.\u003C\/p\u003E\n\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EWeitere Informationen\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAkzeptieren\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EWeitere Informationen\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAkzeptieren\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/agb","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"de","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":false,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EDatenschutzeinstellungen\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWir verwenden Cookies auf dieser Website, um das Besuchererlebnis zu verbessern\u003C\/h2\u003E\n\u003Cp\u003ESie haben uns Ihre Zustimmung gegeben, Cookies zu setzen.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EZustimmung zur\u00fcckziehen\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":null,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"facets":{"dropdown_widget":{"getrankeart":{"facet-default-option-label":"Bitte w\u00e4hlen","facet-reset-option-label":"Filter zur\u00fccksetzen"},"facet_preparation":{"facet-default-option-label":"Bitte w\u00e4hlen","facet-reset-option-label":"Filter zur\u00fccksetzen"}}},"user":{"uid":0,"permissionsHash":"c6acd31349193353f4bdf7724d8f2642bf360ea2ffe0029df4da0d10b6bd1d4b"}}</script>
+<script src="/sites/default/files/js/js_z0mBxO2Jvc3IYtvhPzHQ1Mp08XeTx_q0XhyE_AfiIVI.js"></script>
+<script defer="" src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=9.5.11"></script>
+<script src="/sites/default/files/js/js_N-qW5h0cVUu6IfSjPlG_kfvSqwLEveHfKkyzHthmTow.js"></script>
+<iframe allow="join-ad-interest-group" data-load-time="1701874238699" data-tagging-id="AW-775346791" height="0" src="https://td.doubleclick.net/td/rul/775346791?random=1701874238695&amp;cv=11&amp;fst=1701874238695&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45He3bt0v830977066&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.blasercafe.ch%2Fshop%2Fcategory%2F8&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=%7C%20Blaser%20Caf%C3%A9&amp;auid=1077199291.1701874239&amp;fledge=1&amp;uaa=x86&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.62&amp;uamb=0&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0" style="display: none; visibility: hidden;" width="0"></iframe><div aria-describedby="popup-text" class="sliding-popup-bottom" id="sliding-popup" role="alertdialog" style="bottom: 0px;"><div aria-hidden="false" aria-labelledby="popup-text" class="eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default">
+<div class="popup-content info eu-cookie-compliance-content">
+<div class="eu-cookie-compliance-message" id="popup-text" role="document">
+<h2>Wir verwenden auf dieser Website Cookies, um die Benutzerfreundlichkeit zu verbessern.</h2>
+<p>Klicken Sie "Akzeptieren", um sich damit einverstanden zu erklären.</p>
+<button class="find-more-button eu-cookie-compliance-more-button find-more-button-processed" tabindex="0" type="button">Weitere Informationen</button>
+</div>
+<div class="eu-cookie-compliance-buttons" id="popup-buttons">
+<button class="agree-button eu-cookie-compliance-default-button" tabindex="0" type="button">Akzeptieren</button>
+</div>
+</div>
+</div></div>
+<script id="" type="text/javascript">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","635398806857188");fbq("track","PageView");</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=635398806857188&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<script id="" type="text/javascript">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CD3DHP3C77U8TNJITT50");a.page()}(window,document,"ttq");</script>
+</body><iframe id="__JSBridgeIframe_1.0__" style="display: none;" title="jsbridge___JSBridgeIframe_1.0__"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" style="display: none;" title="jsbridge___JSBridgeIframe_SetResult_1.0__"></iframe><iframe id="__JSBridgeIframe__" style="display: none;" title="jsbridge___JSBridgeIframe__"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;" title="jsbridge___JSBridgeIframe_SetResult__"></iframe></html>
