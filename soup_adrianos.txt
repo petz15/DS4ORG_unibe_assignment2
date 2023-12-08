@@ -1,12 +1,12 @@
-<html class="page_gemahlen js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-merriweather-n4-active wf-proximanova-i4-active wf-proximanova-i6-active wf-proximanova-n3-active wf-proximanova-n4-active wf-proximanova-n6-active wf-proximanova-n7-active wf-merriweather-i4-active wf-merriweather-n7-active wf-merriweather-i7-active wf-active" data-bind="css: html.css" lang="de" style=""><head>
+<html class="page_bohnen js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-merriweather-i7-active wf-merriweather-n4-active wf-merriweather-i4-active wf-merriweather-n7-active wf-proximanova-n4-active wf-proximanova-i4-active wf-proximanova-n3-active wf-proximanova-n6-active wf-proximanova-n7-active wf-proximanova-i6-active wf-active" data-bind="css: html.css" lang="de" style=""><head>
 <meta charset="utf-8"/>
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
-<title>Kaffee und Espresso gemahlen online bestellen | AdrianosShop</title>
-<meta content="Frisch gerösteter Kaffee gemahlt – fair gehandelt und im praktischen 250g Beutel. ✓ heute bestellt, morgen geliefert" name="description"/>
+<title>Bohnenkaffee täglich frisch geröstet online bestellen | AdrianosShop</title>
+<meta content="Die besten Kaffees der Welt – fair &amp; frisch geröstet im 250g oder 500g Beutel. ✓ heute bestellt, morgen geliefert ✓ gratis Versand ab CHF 100" name="description"/>
 <meta content="True" name="HandheldFriendly"/>
 <meta content="320" name="MobileOptimized"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<link href="https://adrianos.ch/shop/kaffee/gemahlen" rel="canonical"/>
+<link href="https://adrianos.ch/shop/kaffee/bohnen" rel="canonical"/>
 <link href="/static/resources/images/favicon/apple-touch-icon_152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
 <link href="/static/resources/images/favicon/apple-touch-icon_152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
 <link href="/static/resources/images/favicon/apple-touch-icon_144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
@@ -106,7 +106,7 @@
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-562P26F" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div class="adrianos-status-open trust-message-active site-nav-sticky" data-bind="css: body.css" id="site-body">
+<div class="adrianos-status-closed trust-message-active site-nav-sticky" data-bind="css: body.css" id="site-body">
 <!-- Container -->
 <div class="container">
 <div id="content-view">
@@ -168,10 +168,10 @@
 <li class="section-nav-list__sub-item">
 <a data-target="page-content" href="/shop/kaffee">Alle</a>
 </li>
-<li class="section-nav-list__sub-item" id="nav-category-1">
+<li class="section-nav-list__sub-item section-nav-list__item_active" id="nav-category-1">
 <a data-target="page-content" href="/shop/kaffee/bohnen">Bohnen</a>
 </li>
-<li class="section-nav-list__sub-item section-nav-list__item_active" id="nav-category-1">
+<li class="section-nav-list__sub-item" id="nav-category-1">
 <a data-target="page-content" href="/shop/kaffee/gemahlen">Gemahlen</a>
 </li>
 <li class="section-nav-list__sub-item" id="nav-category-1">
@@ -276,608 +276,492 @@
 </li>
 </ul>
 </nav>
-<h1 class="front-page-left extra-margin-top-5 shop-title">Kaffee gemahlen</h1>
+<h1 class="front-page-left extra-margin-top-5 shop-title">Kaffeebohnen</h1>
 <div class="products__introduction">
 <p>
-                    250g frisch gemahlener Kaffee. Bestimme den Mahlgrad: Bialetti, Filter, Siebträgermaschine Profi und Haushalt.
+                    Die besten Bohnenkaffees der Welt – Direct Trade &amp; frisch geröstet im 250g oder 500g Beutel. Espresso, Lungo und Filterkaffee.
                 </p>
 </div>
 <button class="products__switch-view icon-list-view" data-bind="click: shop.settings.switchView, text: shop.settings.viewOptionText, css: shop.settings.viewOptionIcon ">Ansicht ändern</button>
 </header>
 <div class="product-list">
-<article class="product product_preview" data-product-element-id="product-1091">
+<article class="product product_preview" data-product-element-id="product-1090">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/tueste-filterkaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/tueste-filterkaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (default)],[/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (medium)],[/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (medium,retina)]," data-variantid="2805" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" src="/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg"/></noscript>
+<img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/93fe0839200f9d5e770a5294721b853e4420c54c.jpeg, (default)],[/cache/small/static/media/product/0001/05/93fe0839200f9d5e770a5294721b853e4420c54c.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/93fe0839200f9d5e770a5294721b853e4420c54c.jpeg, (medium)],[/cache/small/static/media/product/0001/05/93fe0839200f9d5e770a5294721b853e4420c54c.jpeg, (medium,retina)]," data-variantid="2804" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" src="/cache/small/static/media/product/0001/05/93fe0839200f9d5e770a5294721b853e4420c54c.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 15.00</span>
-<h2 class="product__title product__title_preview">Tueste Filterkaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Tueste Filterkaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg, (default)]," data-variantid="2805" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" src="/cache/small/static/media/product/0001/05/a2b58bc9bc68bed62f9fda1c2b16597260dae515.jpeg"/></noscript>
+<img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/93fe0839200f9d5e770a5294721b853e4420c54c.jpeg, (default)]," data-variantid="2804" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="MEXICAN FIESTA – Kaffeeparty todo el dia" src="/cache/small/static/media/product/0001/05/93fe0839200f9d5e770a5294721b853e4420c54c.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 15.00</span>
-<p class="product__title product__title_preview">Tueste Filterkaffee gemahlen</p>
+<p class="product__title product__title_preview">Tueste Filterkaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1091" data-instant-buy-route="/shop/kaffee/gemahlen/tueste-filterkaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/tueste-filterkaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1090" data-instant-buy-route="/shop/kaffee/bohnen/tueste-filterkaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/tueste-filterkaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-1078">
+<article class="product product_preview" data-product-element-id="product-1086">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/festive-blend-2023-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/juanita-filterkaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="THE ONLY TRUE GIFT – to make your friends happy" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (default)],[/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (medium)],[/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (medium,retina)]," data-variantid="2749" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="THE ONLY TRUE GIFT – to make your friends happy" src="/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg"/></noscript>
+<img alt="DER KLASSIKER – Kindheitserinnerung garantiert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/8f4b6c4f63169ca16e9183f70d9264ac6ee7c269.jpeg, (default)],[/cache/small/static/media/product/0001/05/8f4b6c4f63169ca16e9183f70d9264ac6ee7c269.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/8f4b6c4f63169ca16e9183f70d9264ac6ee7c269.jpeg, (medium)],[/cache/small/static/media/product/0001/05/8f4b6c4f63169ca16e9183f70d9264ac6ee7c269.jpeg, (medium,retina)]," data-variantid="2782" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER KLASSIKER – Kindheitserinnerung garantiert" src="/cache/small/static/media/product/0001/05/8f4b6c4f63169ca16e9183f70d9264ac6ee7c269.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<h2 class="product__title product__title_preview">Juanita Filterkaffee Bohnen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER KLASSIKER – Kindheitserinnerung garantiert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/8f4b6c4f63169ca16e9183f70d9264ac6ee7c269.jpeg, (default)]," data-variantid="2782" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER KLASSIKER – Kindheitserinnerung garantiert" src="/cache/small/static/media/product/0001/05/8f4b6c4f63169ca16e9183f70d9264ac6ee7c269.jpeg"/></noscript>
+<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<p class="product__title product__title_preview">Juanita Filterkaffee Bohnen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1086" data-instant-buy-route="/shop/kaffee/bohnen/juanita-filterkaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/juanita-filterkaffee-bohnen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-1077">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/festive-blend-2023-kaffee-bohnen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="THE ONLY TRUE GIFT – to make your friends happy" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/ab136bcf22d059475883a5e89060b77a142648ab.jpeg, (default)],[/cache/small/static/media/product/0001/05/ab136bcf22d059475883a5e89060b77a142648ab.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/ab136bcf22d059475883a5e89060b77a142648ab.jpeg, (medium)],[/cache/small/static/media/product/0001/05/ab136bcf22d059475883a5e89060b77a142648ab.jpeg, (medium,retina)]," data-variantid="2748" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="THE ONLY TRUE GIFT – to make your friends happy" src="/cache/small/static/media/product/0001/05/ab136bcf22d059475883a5e89060b77a142648ab.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 12.50</span>
-<h2 class="product__title product__title_preview">Festive Blend 2023 Kaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Festive Blend 2023 Kaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="THE ONLY TRUE GIFT – to make your friends happy" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg, (default)]," data-variantid="2749" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="THE ONLY TRUE GIFT – to make your friends happy" src="/cache/small/static/media/product/0001/05/d01fa5181ee6ea2043010033ec74593bbc7fb3c8.jpeg"/></noscript>
+<img alt="THE ONLY TRUE GIFT – to make your friends happy" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/ab136bcf22d059475883a5e89060b77a142648ab.jpeg, (default)]," data-variantid="2748" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="THE ONLY TRUE GIFT – to make your friends happy" src="/cache/small/static/media/product/0001/05/ab136bcf22d059475883a5e89060b77a142648ab.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 12.50</span>
-<p class="product__title product__title_preview">Festive Blend 2023 Kaffee gemahlen</p>
+<p class="product__title product__title_preview">Festive Blend 2023 Kaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1078" data-instant-buy-route="/shop/kaffee/gemahlen/festive-blend-2023-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/festive-blend-2023-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1077" data-instant-buy-route="/shop/kaffee/bohnen/festive-blend-2023-kaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/festive-blend-2023-kaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-1087">
+<article class="product product_preview" data-product-element-id="product-1083">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/juanita-filterkaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/don-victor-kaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="DER KLASSIKER – Kindheitserinnerung garantiert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (default)],[/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (medium)],[/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (medium,retina)]," data-variantid="2783" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER KLASSIKER – Kindheitserinnerung garantiert" src="/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg"/></noscript>
+<img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/2f32414ec09c58b745fd3a021870c77d5eacf1de.jpeg, (default)],[/cache/small/static/media/product/0001/05/2f32414ec09c58b745fd3a021870c77d5eacf1de.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/2f32414ec09c58b745fd3a021870c77d5eacf1de.jpeg, (medium)],[/cache/small/static/media/product/0001/05/2f32414ec09c58b745fd3a021870c77d5eacf1de.jpeg, (medium,retina)]," data-variantid="2771" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" src="/cache/small/static/media/product/0001/05/2f32414ec09c58b745fd3a021870c77d5eacf1de.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 13.00</span>
-<h2 class="product__title product__title_preview">Juanita Filterkaffee gemahlen</h2>
+<span class="product__price product__price_preview">CHF 14.00</span>
+<h2 class="product__title product__title_preview">Don Victor Kaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="DER KLASSIKER – Kindheitserinnerung garantiert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg, (default)]," data-variantid="2783" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER KLASSIKER – Kindheitserinnerung garantiert" src="/cache/small/static/media/product/0001/05/854f8fa3f82f7b693577a648876c7845efc4f4cd.jpeg"/></noscript>
+<img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/2f32414ec09c58b745fd3a021870c77d5eacf1de.jpeg, (default)]," data-variantid="2771" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" src="/cache/small/static/media/product/0001/05/2f32414ec09c58b745fd3a021870c77d5eacf1de.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 13.00</span>
-<p class="product__title product__title_preview">Juanita Filterkaffee gemahlen</p>
+<span class="product__price product__price_preview">CHF 14.00</span>
+<p class="product__title product__title_preview">Don Victor Kaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1087" data-instant-buy-route="/shop/kaffee/gemahlen/juanita-filterkaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/juanita-filterkaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1083" data-instant-buy-route="/shop/kaffee/bohnen/don-victor-kaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/don-victor-kaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-1084">
+<article class="product product_preview" data-product-element-id="product-1074">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/don-victor-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/lila-sorto-filterkaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (default)],[/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (medium)],[/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (medium,retina)]," data-variantid="2776" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" src="/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg"/></noscript>
+<img alt="DER HARMONISCHE – fruchtig, herb und süss " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/5f687e6550d8b1e89eec9e5e4f155c39f4c5fea9.jpeg, (default)],[/cache/small/static/media/product/0001/05/5f687e6550d8b1e89eec9e5e4f155c39f4c5fea9.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/5f687e6550d8b1e89eec9e5e4f155c39f4c5fea9.jpeg, (medium)],[/cache/small/static/media/product/0001/05/5f687e6550d8b1e89eec9e5e4f155c39f4c5fea9.jpeg, (medium,retina)]," data-variantid="2742" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER HARMONISCHE – fruchtig, herb und süss " src="/cache/small/static/media/product/0001/05/5f687e6550d8b1e89eec9e5e4f155c39f4c5fea9.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<h2 class="product__title product__title_preview">Don Victor Kaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Lila Sorto Filterkaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg, (default)]," data-variantid="2776" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="FRUCHTIGE KNALLTÜTE – da hauts dir de Nuggi use" src="/cache/small/static/media/product/0001/05/e820c56aec83fe30168b8fc3cfda31f1cdf0ff3d.jpeg"/></noscript>
+<img alt="DER HARMONISCHE – fruchtig, herb und süss " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/5f687e6550d8b1e89eec9e5e4f155c39f4c5fea9.jpeg, (default)]," data-variantid="2742" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER HARMONISCHE – fruchtig, herb und süss " src="/cache/small/static/media/product/0001/05/5f687e6550d8b1e89eec9e5e4f155c39f4c5fea9.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<p class="product__title product__title_preview">Don Victor Kaffee gemahlen</p>
+<p class="product__title product__title_preview">Lila Sorto Filterkaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1084" data-instant-buy-route="/shop/kaffee/gemahlen/don-victor-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/don-victor-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1074" data-instant-buy-route="/shop/kaffee/bohnen/lila-sorto-filterkaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/lila-sorto-filterkaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-1075">
+<article class="product product_preview" data-product-element-id="product-1072">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/lila-sorto-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/ichamama-natural-filterkaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="DER HARMONISCHE – fruchtig, herb und süss " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (default)],[/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (medium)],[/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (medium,retina)]," data-variantid="2743" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER HARMONISCHE – fruchtig, herb und süss " src="/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg"/></noscript>
+<img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d52d629a7cc05613234206243c72e757f213257b.jpeg, (default)],[/cache/small/static/media/product/0001/05/d52d629a7cc05613234206243c72e757f213257b.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/d52d629a7cc05613234206243c72e757f213257b.jpeg, (medium)],[/cache/small/static/media/product/0001/05/d52d629a7cc05613234206243c72e757f213257b.jpeg, (medium,retina)]," data-variantid="2737" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" src="/cache/small/static/media/product/0001/05/d52d629a7cc05613234206243c72e757f213257b.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<h2 class="product__title product__title_preview">Lila Sorto Filterkaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Ichamama Natural Filterkaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="DER HARMONISCHE – fruchtig, herb und süss " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg, (default)]," data-variantid="2743" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER HARMONISCHE – fruchtig, herb und süss " src="/cache/small/static/media/product/0001/05/b1bd9f647b74454ea08381b0a1ad2c7396974e85.jpeg"/></noscript>
+<img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d52d629a7cc05613234206243c72e757f213257b.jpeg, (default)]," data-variantid="2737" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" src="/cache/small/static/media/product/0001/05/d52d629a7cc05613234206243c72e757f213257b.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<p class="product__title product__title_preview">Lila Sorto Filterkaffee gemahlen</p>
+<p class="product__title product__title_preview">Ichamama Natural Filterkaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1075" data-instant-buy-route="/shop/kaffee/gemahlen/lila-sorto-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/lila-sorto-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1072" data-instant-buy-route="/shop/kaffee/bohnen/ichamama-natural-filterkaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/ichamama-natural-filterkaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-1073">
+<article class="product product_preview" data-product-element-id="product-922">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/ichamama-natural-filterkaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/ice-t-filterkaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (default)],[/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (medium)],[/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (medium,retina)]," data-variantid="2739" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" src="/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg"/></noscript>
-<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+<img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/ac2b23f4a9280fcb6a4cc8f68216468232406ad2.jpeg, (default)],[/cache/small/static/media/product/0001/05/ac2b23f4a9280fcb6a4cc8f68216468232406ad2.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/ac2b23f4a9280fcb6a4cc8f68216468232406ad2.jpeg, (medium)],[/cache/small/static/media/product/0001/05/ac2b23f4a9280fcb6a4cc8f68216468232406ad2.jpeg, (medium,retina)]," data-variantid="2208" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" src="/cache/small/static/media/product/0001/05/ac2b23f4a9280fcb6a4cc8f68216468232406ad2.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<h2 class="product__title product__title_preview">Ichamama Natural Filterkaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">ICE-T Filterkaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg, (default)]," data-variantid="2739" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="SAME SAME BUT DIFFERENT – Altbekanntes in neuem Gewand" src="/cache/small/static/media/product/0001/05/85cb8d90f716c2ecd04ae22dce859b2206bfdf57.jpeg"/></noscript>
-<img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
+<img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/ac2b23f4a9280fcb6a4cc8f68216468232406ad2.jpeg, (default)]," data-variantid="2208" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" src="/cache/small/static/media/product/0001/05/ac2b23f4a9280fcb6a4cc8f68216468232406ad2.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<p class="product__title product__title_preview">Ichamama Natural Filterkaffee gemahlen</p>
+<p class="product__title product__title_preview">ICE-T Filterkaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1073" data-instant-buy-route="/shop/kaffee/gemahlen/ichamama-natural-filterkaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/ichamama-natural-filterkaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-922" data-instant-buy-route="/shop/kaffee/bohnen/ice-t-filterkaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/ice-t-filterkaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-1009">
+<article class="product product_preview" data-product-element-id="product-1008">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/pablo-montgomery-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/pablo-montgomery-kaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (default)],[/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (medium)],[/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (medium,retina)]," data-variantid="2466" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" src="/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg"/></noscript>
+<img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/0762c81d24ea7ba5fb53e6383cf7bb38bf5d73ba.jpeg, (default)],[/cache/small/static/media/product/0001/05/0762c81d24ea7ba5fb53e6383cf7bb38bf5d73ba.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/0762c81d24ea7ba5fb53e6383cf7bb38bf5d73ba.jpeg, (medium)],[/cache/small/static/media/product/0001/05/0762c81d24ea7ba5fb53e6383cf7bb38bf5d73ba.jpeg, (medium,retina)]," data-variantid="2465" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" src="/cache/small/static/media/product/0001/05/0762c81d24ea7ba5fb53e6383cf7bb38bf5d73ba.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<h2 class="product__title product__title_preview">Pablo Montgomery Kaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Pablo Montgomery Kaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg, (default)]," data-variantid="2466" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" src="/cache/small/static/media/product/0001/05/dfff6f86070b88fa89386518bcf8d5f7380e0a5c.jpeg"/></noscript>
+<img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/0762c81d24ea7ba5fb53e6383cf7bb38bf5d73ba.jpeg, (default)]," data-variantid="2465" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="SWEET &amp; CREAMY – ein Dessert zum Trinken" src="/cache/small/static/media/product/0001/05/0762c81d24ea7ba5fb53e6383cf7bb38bf5d73ba.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<p class="product__title product__title_preview">Pablo Montgomery Kaffee gemahlen</p>
+<p class="product__title product__title_preview">Pablo Montgomery Kaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1009" data-instant-buy-route="/shop/kaffee/gemahlen/pablo-montgomery-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/pablo-montgomery-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1008" data-instant-buy-route="/shop/kaffee/bohnen/pablo-montgomery-kaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/pablo-montgomery-kaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-923">
+<article class="product product_preview" data-product-element-id="product-610">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/ice-t-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/cascara-tee" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (default)],[/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (medium)],[/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (medium,retina)]," data-variantid="2211" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" src="/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg"/></noscript>
+<img alt="Floral und fruchtig wie ein Früchtetee mit Koffeingehalt" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/03/fabb0df928126f6c619f1883c544051acc646494.jpeg, (default)],[/cache/small/static/media/product/0001/03/fabb0df928126f6c619f1883c544051acc646494.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/03/fabb0df928126f6c619f1883c544051acc646494.jpeg, (medium)],[/cache/small/static/media/product/0001/03/fabb0df928126f6c619f1883c544051acc646494.jpeg, (medium,retina)]," data-variantid="1410" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="Floral und fruchtig wie ein Früchtetee mit Koffeingehalt" src="/cache/small/static/media/product/0001/03/fabb0df928126f6c619f1883c544051acc646494.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 14.00</span>
-<h2 class="product__title product__title_preview">ICE-T Filterkaffee gemahlen</h2>
+<span class="product__price product__price_preview">CHF 9.00</span>
+<h2 class="product__title product__title_preview">Cascara Geisha Kaffeekirschen Tee</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg, (default)]," data-variantid="2211" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="FRISCH AUFGEBRÜHT – wie ein fruchtiger Eistee" src="/cache/small/static/media/product/0001/05/65b8ba717a7422fc283c3be7ddc22540a1ef455a.jpeg"/></noscript>
+<img alt="Floral und fruchtig wie ein Früchtetee mit Koffeingehalt" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/03/fabb0df928126f6c619f1883c544051acc646494.jpeg, (default)]," data-variantid="1410" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="Floral und fruchtig wie ein Früchtetee mit Koffeingehalt" src="/cache/small/static/media/product/0001/03/fabb0df928126f6c619f1883c544051acc646494.jpeg"/></noscript>
 <img alt="Neu" class="product-label" src="/static/resources/images/product_labels/new.svg"/>
 </figure>
 <div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 14.00</span>
-<p class="product__title product__title_preview">ICE-T Filterkaffee gemahlen</p>
+<span class="product__price product__price_preview">CHF 9.00</span>
+<p class="product__title product__title_preview">Cascara Geisha Kaffeekirschen Tee</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-923" data-instant-buy-route="/shop/kaffee/gemahlen/ice-t-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/ice-t-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-610" data-instant-buy-route="/shop/kaffee/bohnen/cascara-tee/instant_buy" href="/shop/kaffee/bohnen/cascara-tee" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-1064">
+<article class="product product_preview" data-product-element-id="product-1063">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/robusta-rocket-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/robusta-rocket-kaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (default)],[/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (medium)],[/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (medium,retina)]," data-variantid="2706" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" src="/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg"/></noscript>
+<img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/286afe54afa0814809b996707df13d4e232aa6c4.jpeg, (default)],[/cache/small/static/media/product/0001/05/286afe54afa0814809b996707df13d4e232aa6c4.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/286afe54afa0814809b996707df13d4e232aa6c4.jpeg, (medium)],[/cache/small/static/media/product/0001/05/286afe54afa0814809b996707df13d4e232aa6c4.jpeg, (medium,retina)]," data-variantid="2705" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" src="/cache/small/static/media/product/0001/05/286afe54afa0814809b996707df13d4e232aa6c4.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 11.50</span>
-<h2 class="product__title product__title_preview">Robusta Rocket Kaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Robusta Rocket Kaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg, (default)]," data-variantid="2706" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" src="/cache/small/static/media/product/0001/05/d9d38ab71d8c33f3a370bcf3e3468ef08cebfc64.jpeg"/></noscript>
+<img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/286afe54afa0814809b996707df13d4e232aa6c4.jpeg, (default)]," data-variantid="2705" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="100% ROBUSTA – Senkrechtstarter ohne Schleudersitz" src="/cache/small/static/media/product/0001/05/286afe54afa0814809b996707df13d4e232aa6c4.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 11.50</span>
-<p class="product__title product__title_preview">Robusta Rocket Kaffee gemahlen</p>
+<p class="product__title product__title_preview">Robusta Rocket Kaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1064" data-instant-buy-route="/shop/kaffee/gemahlen/robusta-rocket-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/robusta-rocket-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-1063" data-instant-buy-route="/shop/kaffee/bohnen/robusta-rocket-kaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/robusta-rocket-kaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-562">
+<article class="product product_preview" data-product-element-id="product-561">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/ichamama-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/ichamama-aa-filterkaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (default)],[/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (medium)],[/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (medium,retina)]," data-variantid="1215" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" src="/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg"/></noscript>
+<img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/fa521f2c8ee620635e53a1c48ee4b7782abb33b1.jpeg, (default)],[/cache/small/static/media/product/0001/04/fa521f2c8ee620635e53a1c48ee4b7782abb33b1.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/fa521f2c8ee620635e53a1c48ee4b7782abb33b1.jpeg, (medium)],[/cache/small/static/media/product/0001/04/fa521f2c8ee620635e53a1c48ee4b7782abb33b1.jpeg, (medium,retina)]," data-variantid="1212" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" src="/cache/small/static/media/product/0001/04/fa521f2c8ee620635e53a1c48ee4b7782abb33b1.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<h2 class="product__title product__title_preview">Ichamama AA Filterkaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Ichamama AA Filterkaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg, (default)]," data-variantid="1215" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" src="/cache/small/static/media/product/0001/04/b8f67e9abbdca5d2ec416586c3d349c5bffd4075.jpeg"/></noscript>
+<img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/fa521f2c8ee620635e53a1c48ee4b7782abb33b1.jpeg, (default)]," data-variantid="1212" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER ELEGANTE - Frucht und Säure in perfekter Symbiose" src="/cache/small/static/media/product/0001/04/fa521f2c8ee620635e53a1c48ee4b7782abb33b1.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 14.00</span>
-<p class="product__title product__title_preview">Ichamama AA Filterkaffee gemahlen</p>
+<p class="product__title product__title_preview">Ichamama AA Filterkaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-562" data-instant-buy-route="/shop/kaffee/gemahlen/ichamama-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/ichamama-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-561" data-instant-buy-route="/shop/kaffee/bohnen/ichamama-aa-filterkaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/ichamama-aa-filterkaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-858">
+<article class="product product_preview" data-product-element-id="product-857">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/decaf-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/decaf-kaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="DER UNAUFGEREGTE – Die schlaflosen Zeiten sind vorbei " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (default)],[/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (medium)],[/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (medium,retina)]," data-variantid="2011" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER UNAUFGEREGTE – Die schlaflosen Zeiten sind vorbei " src="/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg"/></noscript>
+<img alt="DER UNAUFGEREGTE  – Die schlaflosen Zeiten sind vorbei " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/fe2d26ff58f5d1b2c8774375d0ea71dc57d0cd3a.jpeg, (default)],[/cache/small/static/media/product/0001/04/fe2d26ff58f5d1b2c8774375d0ea71dc57d0cd3a.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/fe2d26ff58f5d1b2c8774375d0ea71dc57d0cd3a.jpeg, (medium)],[/cache/small/static/media/product/0001/04/fe2d26ff58f5d1b2c8774375d0ea71dc57d0cd3a.jpeg, (medium,retina)]," data-variantid="2009" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER UNAUFGEREGTE  – Die schlaflosen Zeiten sind vorbei " src="/cache/small/static/media/product/0001/04/fe2d26ff58f5d1b2c8774375d0ea71dc57d0cd3a.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 13.00</span>
-<h2 class="product__title product__title_preview">Decaf Kaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Decaf Kaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="DER UNAUFGEREGTE – Die schlaflosen Zeiten sind vorbei " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg, (default)]," data-variantid="2011" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER UNAUFGEREGTE – Die schlaflosen Zeiten sind vorbei " src="/cache/small/static/media/product/0001/04/c057f25d43d0a3d14a55b0a37a10b20473dff480.jpeg"/></noscript>
+<img alt="DER UNAUFGEREGTE  – Die schlaflosen Zeiten sind vorbei " class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/fe2d26ff58f5d1b2c8774375d0ea71dc57d0cd3a.jpeg, (default)]," data-variantid="2009" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER UNAUFGEREGTE  – Die schlaflosen Zeiten sind vorbei " src="/cache/small/static/media/product/0001/04/fe2d26ff58f5d1b2c8774375d0ea71dc57d0cd3a.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 13.00</span>
-<p class="product__title product__title_preview">Decaf Kaffee gemahlen</p>
+<p class="product__title product__title_preview">Decaf Kaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-858" data-instant-buy-route="/shop/kaffee/gemahlen/decaf-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/decaf-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-857" data-instant-buy-route="/shop/kaffee/bohnen/decaf-kaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/decaf-kaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-977">
+<article class="product product_preview" data-product-element-id="product-705">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/aprocassi-organic-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/san-isidro-organic-kaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (default)],[/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (medium)],[/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (medium,retina)]," data-variantid="2364" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" src="/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg"/></noscript>
+<img alt="DER NATÜRLICHE – Organic, nothing more" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/b7f4e81c9662ba7f174c04e26fc2cf7665dddf4a.jpeg, (default)],[/cache/small/static/media/product/0001/04/b7f4e81c9662ba7f174c04e26fc2cf7665dddf4a.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/b7f4e81c9662ba7f174c04e26fc2cf7665dddf4a.jpeg, (medium)],[/cache/small/static/media/product/0001/04/b7f4e81c9662ba7f174c04e26fc2cf7665dddf4a.jpeg, (medium,retina)]," data-variantid="1608" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER NATÜRLICHE – Organic, nothing more" src="/cache/small/static/media/product/0001/04/b7f4e81c9662ba7f174c04e26fc2cf7665dddf4a.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 13.00</span>
-<h2 class="product__title product__title_preview">Aprocassi Organic Kaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">San Isidro Organic Kaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg, (default)]," data-variantid="2364" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" src="/cache/small/static/media/product/0001/04/35448e9f74f1e9158342608d44c754a5a8318803.jpeg"/></noscript>
+<img alt="DER NATÜRLICHE – Organic, nothing more" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/b7f4e81c9662ba7f174c04e26fc2cf7665dddf4a.jpeg, (default)]," data-variantid="1608" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER NATÜRLICHE – Organic, nothing more" src="/cache/small/static/media/product/0001/04/b7f4e81c9662ba7f174c04e26fc2cf7665dddf4a.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 13.00</span>
-<p class="product__title product__title_preview">Aprocassi Organic Kaffee gemahlen</p>
+<p class="product__title product__title_preview">San Isidro Organic Kaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-977" data-instant-buy-route="/shop/kaffee/gemahlen/aprocassi-organic-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/aprocassi-organic-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-705" data-instant-buy-route="/shop/kaffee/bohnen/san-isidro-organic-kaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/san-isidro-organic-kaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-909">
+<article class="product product_preview" data-product-element-id="product-24">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/san-isidro-organic-kaffee-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/adrianos-candelaria" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="DER NATÜRLICHE – Organic, nothing more" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (default)],[/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (medium)],[/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (medium,retina)]," data-variantid="2160" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER NATÜRLICHE – Organic, nothing more" src="/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg"/></noscript>
+<img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/9b9c0de0feadda75b6c9feae6f2142f16ae93976.jpeg, (default)],[/cache/small/static/media/product/0001/04/9b9c0de0feadda75b6c9feae6f2142f16ae93976.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/9b9c0de0feadda75b6c9feae6f2142f16ae93976.jpeg, (medium)],[/cache/small/static/media/product/0001/04/9b9c0de0feadda75b6c9feae6f2142f16ae93976.jpeg, (medium,retina)]," data-variantid="24" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" src="/cache/small/static/media/product/0001/04/9b9c0de0feadda75b6c9feae6f2142f16ae93976.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 13.00</span>
-<h2 class="product__title product__title_preview">San Isidro Organic Kaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Candelaria Kaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="DER NATÜRLICHE – Organic, nothing more" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg, (default)]," data-variantid="2160" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER NATÜRLICHE – Organic, nothing more" src="/cache/small/static/media/product/0001/04/89109a83fa6ba1353bf712e2abe8f6f21c731983.jpeg"/></noscript>
+<img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/9b9c0de0feadda75b6c9feae6f2142f16ae93976.jpeg, (default)]," data-variantid="24" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" src="/cache/small/static/media/product/0001/04/9b9c0de0feadda75b6c9feae6f2142f16ae93976.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 13.00</span>
-<p class="product__title product__title_preview">San Isidro Organic Kaffee gemahlen</p>
+<p class="product__title product__title_preview">Candelaria Kaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-909" data-instant-buy-route="/shop/kaffee/gemahlen/san-isidro-organic-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/san-isidro-organic-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-24" data-instant-buy-route="/shop/kaffee/bohnen/adrianos-candelaria/instant_buy" href="/shop/kaffee/bohnen/adrianos-candelaria" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-111">
+<article class="product product_preview" data-product-element-id="product-771">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-candelaria-gk" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/boledu-kaffee-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (default)],[/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (medium)],[/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (medium,retina)]," data-variantid="146" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" src="/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 13.00</span>
-<h2 class="product__title product__title_preview">Candelaria Kaffee gemahlen</h2>
-</div>
-</a>
-<div class="product-instantbuy">
-<figure class="product_preview__image-wrapper">
-<img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg, (default)]," data-variantid="146" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER SPRITZIGE – Vom Berner Hanspeter Aeberhard direkt zu uns" src="/cache/small/static/media/product/0001/04/9886efbb84a96e4a13a9656e2c860b1266e92068.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 13.00</span>
-<p class="product__title product__title_preview">Candelaria Kaffee gemahlen</p>
-</div>
-<div class="product-instantbuy__content">
-<p>Wird zusammengebrüht, einen Moment...</p>
-</div>
-</div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-111" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-candelaria-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-candelaria-gk" title="Jetzt kaufen">
-</a>
-</div>
-</article>
-<article class="product product_preview" data-product-element-id="product-772">
-<div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/boledu-kaffee-gemahlen" title="Details zum Produkt ansehen">
-<figure class="product_preview__image-wrapper">
-<img alt="DER VERSPIELTE – fruchtig und süss im Duett" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (default)],[/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (medium)],[/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (medium,retina)]," data-variantid="1811" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER VERSPIELTE – fruchtig und süss im Duett" src="/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg"/></noscript>
+<img alt="DER VERSPIELTE – fruchtig und süss im Duett" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/f7328674800a79a24dd375070ccd3d20a7c82d7f.jpeg, (default)],[/cache/small/static/media/product/0001/05/f7328674800a79a24dd375070ccd3d20a7c82d7f.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/f7328674800a79a24dd375070ccd3d20a7c82d7f.jpeg, (medium)],[/cache/small/static/media/product/0001/05/f7328674800a79a24dd375070ccd3d20a7c82d7f.jpeg, (medium,retina)]," data-variantid="1793" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER VERSPIELTE – fruchtig und süss im Duett" src="/cache/small/static/media/product/0001/05/f7328674800a79a24dd375070ccd3d20a7c82d7f.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 12.50</span>
-<h2 class="product__title product__title_preview">Boledu Kaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Boledu Kaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="DER VERSPIELTE – fruchtig und süss im Duett" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg, (default)]," data-variantid="1811" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER VERSPIELTE – fruchtig und süss im Duett" src="/cache/small/static/media/product/0001/05/944cf0040cab612f8112e6e259874d6ac1e10cd7.jpeg"/></noscript>
+<img alt="DER VERSPIELTE – fruchtig und süss im Duett" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/f7328674800a79a24dd375070ccd3d20a7c82d7f.jpeg, (default)]," data-variantid="1793" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER VERSPIELTE – fruchtig und süss im Duett" src="/cache/small/static/media/product/0001/05/f7328674800a79a24dd375070ccd3d20a7c82d7f.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 12.50</span>
-<p class="product__title product__title_preview">Boledu Kaffee gemahlen</p>
+<p class="product__title product__title_preview">Boledu Kaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-772" data-instant-buy-route="/shop/kaffee/gemahlen/boledu-kaffee-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/boledu-kaffee-gemahlen" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-771" data-instant-buy-route="/shop/kaffee/bohnen/boledu-kaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/boledu-kaffee-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
-<article class="product product_preview" data-product-element-id="product-531">
+<article class="product product_preview" data-product-element-id="product-530">
 <div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/silvestre-gemahlen" title="Details zum Produkt ansehen">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/silvestre-bohnen" title="Details zum Produkt ansehen">
 <figure class="product_preview__image-wrapper">
-<img alt="DER AUSGEWOGENE – So rund wie der Karneval" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (default)],[/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (medium)],[/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (medium,retina)]," data-variantid="1095" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER AUSGEWOGENE – So rund wie der Karneval" src="/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg"/></noscript>
+<img alt="DER AUSGEWOGENE – So rund wie der Karneval" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/7924bc6268eeccf9069940145e3982c7cdeaefe5.jpeg, (default)],[/cache/small/static/media/product/0001/04/7924bc6268eeccf9069940145e3982c7cdeaefe5.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/7924bc6268eeccf9069940145e3982c7cdeaefe5.jpeg, (medium)],[/cache/small/static/media/product/0001/04/7924bc6268eeccf9069940145e3982c7cdeaefe5.jpeg, (medium,retina)]," data-variantid="1091" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER AUSGEWOGENE – So rund wie der Karneval" src="/cache/small/static/media/product/0001/04/7924bc6268eeccf9069940145e3982c7cdeaefe5.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 11.50</span>
-<h2 class="product__title product__title_preview">Silvestre Kaffee gemahlen</h2>
+<h2 class="product__title product__title_preview">Silvestre Kaffee Bohnen</h2>
 </div>
 </a>
 <div class="product-instantbuy">
 <figure class="product_preview__image-wrapper">
-<img alt="DER AUSGEWOGENE – So rund wie der Karneval" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg, (default)]," data-variantid="1095" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER AUSGEWOGENE – So rund wie der Karneval" src="/cache/small/static/media/product/0001/05/ffeb0648293102ba768e7d0ade189bd01c529e87.jpeg"/></noscript>
+<img alt="DER AUSGEWOGENE – So rund wie der Karneval" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/7924bc6268eeccf9069940145e3982c7cdeaefe5.jpeg, (default)]," data-variantid="1091" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER AUSGEWOGENE – So rund wie der Karneval" src="/cache/small/static/media/product/0001/04/7924bc6268eeccf9069940145e3982c7cdeaefe5.jpeg"/></noscript>
 </figure>
 <div class="product__caption product__caption_preview">
 <span class="product__price product__price_preview">CHF 11.50</span>
-<p class="product__title product__title_preview">Silvestre Kaffee gemahlen</p>
+<p class="product__title product__title_preview">Silvestre Kaffee Bohnen</p>
 </div>
 <div class="product-instantbuy__content">
 <p>Wird zusammengebrüht, einen Moment...</p>
 </div>
 </div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-531" data-instant-buy-route="/shop/kaffee/gemahlen/silvestre-gemahlen/instant_buy" href="/shop/kaffee/gemahlen/silvestre-gemahlen" title="Jetzt kaufen">
-</a>
-</div>
-</article>
-<article class="product product_preview" data-product-element-id="product-105">
-<div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-espresso-gk" title="Details zum Produkt ansehen">
-<figure class="product_preview__image-wrapper">
-<img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (default)],[/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (medium)],[/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (medium,retina)]," data-variantid="125" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" src="/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 11.50</span>
-<h2 class="product__title product__title_preview">Espresso Kaffee gemahlen</h2>
-</div>
-</a>
-<div class="product-instantbuy">
-<figure class="product_preview__image-wrapper">
-<img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg, (default)]," data-variantid="125" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" src="/cache/small/static/media/product/0001/05/9c7f63935e7f532e93a05de4d846052b8160466d.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 11.50</span>
-<p class="product__title product__title_preview">Espresso Kaffee gemahlen</p>
-</div>
-<div class="product-instantbuy__content">
-<p>Wird zusammengebrüht, einen Moment...</p>
-</div>
-</div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-105" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-espresso-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-espresso-gk" title="Jetzt kaufen">
-</a>
-</div>
-</article>
-<article class="product product_preview" data-product-element-id="product-107">
-<div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-lungo-gk" title="Details zum Produkt ansehen">
-<figure class="product_preview__image-wrapper">
-<img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (default)],[/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (medium)],[/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (medium,retina)]," data-variantid="129" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" src="/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 11.50</span>
-<h2 class="product__title product__title_preview">Lungo Kaffee gemahlen</h2>
-</div>
-</a>
-<div class="product-instantbuy">
-<figure class="product_preview__image-wrapper">
-<img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg, (default)]," data-variantid="129" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" src="/cache/small/static/media/product/0001/05/29faab266b0492d30b035c3a9ca9ea93c24c05a5.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 11.50</span>
-<p class="product__title product__title_preview">Lungo Kaffee gemahlen</p>
-</div>
-<div class="product-instantbuy__content">
-<p>Wird zusammengebrüht, einen Moment...</p>
-</div>
-</div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-107" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-lungo-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-lungo-gk" title="Jetzt kaufen">
-</a>
-</div>
-</article>
-<article class="product product_preview" data-product-element-id="product-108">
-<div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-dark-robusta-gk" title="Details zum Produkt ansehen">
-<figure class="product_preview__image-wrapper">
-<img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (default)],[/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (medium)],[/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (medium,retina)]," data-variantid="133" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" src="/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 11.50</span>
-<h2 class="product__title product__title_preview">Dark Robusta Kaffee gemahlen</h2>
-</div>
-</a>
-<div class="product-instantbuy">
-<figure class="product_preview__image-wrapper">
-<img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg, (default)]," data-variantid="133" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" src="/cache/small/static/media/product/0001/05/68b0a3281bbfea34b02713fcf7fb1826c0bec451.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 11.50</span>
-<p class="product__title product__title_preview">Dark Robusta Kaffee gemahlen</p>
-</div>
-<div class="product-instantbuy__content">
-<p>Wird zusammengebrüht, einen Moment...</p>
-</div>
-</div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-108" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-dark-robusta-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-dark-robusta-gk" title="Jetzt kaufen">
-</a>
-</div>
-</article>
-<article class="product product_preview" data-product-element-id="product-109">
-<div class="product-preview-wrapper">
-<a class="product-preview-wrapper-link" href="/shop/kaffee/gemahlen/adrianos-malabar-gk" title="Details zum Produkt ansehen">
-<figure class="product_preview__image-wrapper">
-<img alt="DER MILDE – Ungesäuert, nicht verbittert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (default)],[/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (medium)],[/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (medium,retina)]," data-variantid="137" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER MILDE – Ungesäuert, nicht verbittert" src="/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 11.50</span>
-<h2 class="product__title product__title_preview">Malabar Kaffee gemahlen</h2>
-</div>
-</a>
-<div class="product-instantbuy">
-<figure class="product_preview__image-wrapper">
-<img alt="DER MILDE – Ungesäuert, nicht verbittert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg, (default)]," data-variantid="137" src="/static/resources/images/placeholder-shop.png"/>
-<noscript><img alt="DER MILDE – Ungesäuert, nicht verbittert" src="/cache/small/static/media/product/0001/05/4e35dd90a25310ed3e514f9197e6146bd1ce5f53.jpeg"/></noscript>
-</figure>
-<div class="product__caption product__caption_preview">
-<span class="product__price product__price_preview">CHF 11.50</span>
-<p class="product__title product__title_preview">Malabar Kaffee gemahlen</p>
-</div>
-<div class="product-instantbuy__content">
-<p>Wird zusammengebrüht, einen Moment...</p>
-</div>
-</div>
-<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-109" data-instant-buy-route="/shop/kaffee/gemahlen/adrianos-malabar-gk/instant_buy" href="/shop/kaffee/gemahlen/adrianos-malabar-gk" title="Jetzt kaufen">
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-530" data-instant-buy-route="/shop/kaffee/bohnen/silvestre-bohnen/instant_buy" href="/shop/kaffee/bohnen/silvestre-bohnen" title="Jetzt kaufen">
 </a>
 </div>
 </article>
@@ -910,6 +794,151 @@
 </a>
 </div>
 </article>
+<article class="product product_preview" data-product-element-id="product-975">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/aprocassi-organic-kaffee-bohnen" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/f6f7cd3559eac14c86bd507b6fb4aa0c5d583fea.jpeg, (default)],[/cache/small/static/media/product/0001/04/f6f7cd3559eac14c86bd507b6fb4aa0c5d583fea.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/f6f7cd3559eac14c86bd507b6fb4aa0c5d583fea.jpeg, (medium)],[/cache/small/static/media/product/0001/04/f6f7cd3559eac14c86bd507b6fb4aa0c5d583fea.jpeg, (medium,retina)]," data-variantid="2358" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" src="/cache/small/static/media/product/0001/04/f6f7cd3559eac14c86bd507b6fb4aa0c5d583fea.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<h2 class="product__title product__title_preview">Aprocassi Organic Kaffee Bohnen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/f6f7cd3559eac14c86bd507b6fb4aa0c5d583fea.jpeg, (default)]," data-variantid="2358" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER SÜSSE – Zucker ist ein Klacks dagegen" src="/cache/small/static/media/product/0001/04/f6f7cd3559eac14c86bd507b6fb4aa0c5d583fea.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 13.00</span>
+<p class="product__title product__title_preview">Aprocassi Organic Kaffee Bohnen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-975" data-instant-buy-route="/shop/kaffee/bohnen/aprocassi-organic-kaffee-bohnen/instant_buy" href="/shop/kaffee/bohnen/aprocassi-organic-kaffee-bohnen" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-5">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/adrianos-espresso-1" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/a451fb90ce4f127dc8990402bc3e47635a954bc3.jpeg, (default)],[/cache/small/static/media/product/0001/04/a451fb90ce4f127dc8990402bc3e47635a954bc3.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/a451fb90ce4f127dc8990402bc3e47635a954bc3.jpeg, (medium)],[/cache/small/static/media/product/0001/04/a451fb90ce4f127dc8990402bc3e47635a954bc3.jpeg, (medium,retina)]," data-variantid="5" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" src="/cache/small/static/media/product/0001/04/a451fb90ce4f127dc8990402bc3e47635a954bc3.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Espresso Kaffee Bohnen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/a451fb90ce4f127dc8990402bc3e47635a954bc3.jpeg, (default)]," data-variantid="5" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="IL CLASSICO – Adrianos Interpretation der italienischen Kaffeekultur" src="/cache/small/static/media/product/0001/04/a451fb90ce4f127dc8990402bc3e47635a954bc3.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Espresso Kaffee Bohnen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-5" data-instant-buy-route="/shop/kaffee/bohnen/adrianos-espresso-1/instant_buy" href="/shop/kaffee/bohnen/adrianos-espresso-1" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-22">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/adrianos-dark-robusta-1" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/784a2bf33bcf0a14dccddabd4ca0cb1486a2cfb5.jpeg, (default)],[/cache/small/static/media/product/0001/04/784a2bf33bcf0a14dccddabd4ca0cb1486a2cfb5.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/784a2bf33bcf0a14dccddabd4ca0cb1486a2cfb5.jpeg, (medium)],[/cache/small/static/media/product/0001/04/784a2bf33bcf0a14dccddabd4ca0cb1486a2cfb5.jpeg, (medium,retina)]," data-variantid="22" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" src="/cache/small/static/media/product/0001/04/784a2bf33bcf0a14dccddabd4ca0cb1486a2cfb5.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Dark Robusta Kaffee Bohnen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/784a2bf33bcf0a14dccddabd4ca0cb1486a2cfb5.jpeg, (default)]," data-variantid="22" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="LA BOMBA – Die starke Dröhnung mit doppelkoffein Kick" src="/cache/small/static/media/product/0001/04/784a2bf33bcf0a14dccddabd4ca0cb1486a2cfb5.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Dark Robusta Kaffee Bohnen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-22" data-instant-buy-route="/shop/kaffee/bohnen/adrianos-dark-robusta-1/instant_buy" href="/shop/kaffee/bohnen/adrianos-dark-robusta-1" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-8">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/adrianos-lungo-1" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/b93cd20ebb59e67e90bd3e815b632f65a2e465d2.jpeg, (default)],[/cache/small/static/media/product/0001/04/b93cd20ebb59e67e90bd3e815b632f65a2e465d2.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/04/b93cd20ebb59e67e90bd3e815b632f65a2e465d2.jpeg, (medium)],[/cache/small/static/media/product/0001/04/b93cd20ebb59e67e90bd3e815b632f65a2e465d2.jpeg, (medium,retina)]," data-variantid="8" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" src="/cache/small/static/media/product/0001/04/b93cd20ebb59e67e90bd3e815b632f65a2e465d2.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Lungo Kaffee Bohnen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/04/b93cd20ebb59e67e90bd3e815b632f65a2e465d2.jpeg, (default)]," data-variantid="8" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER AROMATISCHE - Für die grosse und noch grössere Tasse" src="/cache/small/static/media/product/0001/04/b93cd20ebb59e67e90bd3e815b632f65a2e465d2.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Lungo Kaffee Bohnen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-8" data-instant-buy-route="/shop/kaffee/bohnen/adrianos-lungo-1/instant_buy" href="/shop/kaffee/bohnen/adrianos-lungo-1" title="Jetzt kaufen">
+</a>
+</div>
+</article>
+<article class="product product_preview" data-product-element-id="product-26">
+<div class="product-preview-wrapper">
+<a class="product-preview-wrapper-link" href="/shop/kaffee/bohnen/adrianos-malabar-1" title="Details zum Produkt ansehen">
+<figure class="product_preview__image-wrapper">
+<img alt="DER MILDE – Ungesäuert, nicht verbittert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/4b1230c894808118357c8660629ece925d1a8e8d.jpeg, (default)],[/cache/small/static/media/product/0001/05/4b1230c894808118357c8660629ece925d1a8e8d.jpeg, (default,retina)],[/cache/small_normal/static/media/product/0001/05/4b1230c894808118357c8660629ece925d1a8e8d.jpeg, (medium)],[/cache/small/static/media/product/0001/05/4b1230c894808118357c8660629ece925d1a8e8d.jpeg, (medium,retina)]," data-variantid="26" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER MILDE – Ungesäuert, nicht verbittert" src="/cache/small/static/media/product/0001/05/4b1230c894808118357c8660629ece925d1a8e8d.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<h2 class="product__title product__title_preview">Malabar Kaffee Bohnen</h2>
+</div>
+</a>
+<div class="product-instantbuy">
+<figure class="product_preview__image-wrapper">
+<img alt="DER MILDE – Ungesäuert, nicht verbittert" class="product__image product__image_preview" data-interchange="[/cache/small/static/media/product/0001/05/4b1230c894808118357c8660629ece925d1a8e8d.jpeg, (default)]," data-variantid="26" src="/static/resources/images/placeholder-shop.png"/>
+<noscript><img alt="DER MILDE – Ungesäuert, nicht verbittert" src="/cache/small/static/media/product/0001/05/4b1230c894808118357c8660629ece925d1a8e8d.jpeg"/></noscript>
+</figure>
+<div class="product__caption product__caption_preview">
+<span class="product__price product__price_preview">CHF 11.50</span>
+<p class="product__title product__title_preview">Malabar Kaffee Bohnen</p>
+</div>
+<div class="product-instantbuy__content">
+<p>Wird zusammengebrüht, einen Moment...</p>
+</div>
+</div>
+<a class="action-instantbuy icon-cart" data-bind="click: adrianos.instantBuy" data-instant-buy-id="product-26" data-instant-buy-route="/shop/kaffee/bohnen/adrianos-malabar-1/instant_buy" href="/shop/kaffee/bohnen/adrianos-malabar-1" title="Jetzt kaufen">
+</a>
+</div>
+</article>
 </div>
 <div class="loading-overlay loading-overlay_page" id="page-loading">
 <svg class="loader loader_page" enable-background="new 0 198.1 841.9 794" viewbox="0 198.1 841.9 794" xmlns="http://www.w3.org/2000/svg"><style type="text/css">.st0{display:none;} .st1{display:inline;}</style><path class="st1" d="M241.1 784.9c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 2-7.6 5.3-19.3 9.3-33.3-132.5 5.5-162 42.3-274.1 54 1.8 9.6 3.2 18.7 4.7 26.6.2 1.4.5 2.3.5 3.5z" id="fill-10"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 4.1-15.8 13.4-48.5 24.8-86.1-26.6-3.8-58.1-6.4-97.5-6.4-109.8 0-156.8 19.3-212.8 35.6 7.3 24.8 13.1 45.5 16.1 56.9 4.6 17.2 7.2 33.8 9.2 47.3z" id="fill-20"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 5-19.3 18.1-64.5 33-112.7-60.4-16.9-106.3-38.2-222.4-38.2-52 0-89.9 4.4-121.4 10.5 17.8 57.8 35.6 117.1 41.5 140.4 4.5 17.2 7.1 33.8 9.1 47.3z" id="fill-30"></path><path class="st1" d="M240.5 781.7l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 6.1-24.5 26-90.2 45-151.5-160-6.1-170.8-57.8-351.2-57.8-9 0-17.8 0-26 .3 22.8 71.2 54.6 176 62.8 208.7 4.6 17.5 7.2 34.1 9.2 47.6z" id="fill-40"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.5-33.9 42.6-145.7 65.4-216.9-28 4.7-61.6 7.6-104.8 7.6-162.9 0-187.4-42-308.8-54.9 3.5 14.9 7.6 28.9 11.7 42.3 22.6 71 58.2 187.1 67 221.9z" id="fill-50"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 8.8-27.4 16.1-57.5 21.9-89.9-73.3 17.2-115.3 44.1-245.2 44.1-101.3 0-148.9-16.3-199.7-31.5 5.3 27.7 12 54 19.6 77.4 22.4 70.9 58 187 66.8 221.8z" id="fill-60"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 15.2-47.3 26-102.5 31.5-162.6-179.8 2.3-183.9 58.4-371.6 58.4-35 0-63.9-2-88.5-5.3 6.1 40 14.6 77.1 24.8 109.5 22.8 71 58.4 187.1 67.2 221.9z" id="fill-70"></path><path class="st1" d="M231.5 734.4c4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 19.3-60.1 31.2-133.1 35-212.8-28.9-5-63.3-8.2-108.3-8.2-184.2 0-191.5 54-362 58.1 5.8 60.4 16.6 116.5 31.5 162.9 22.8 71 58.4 187.1 67.2 221.9z" id="fill-80"></path><path d="M366.1 288.9c-10.5 0-184.2 1.5-236.7 3.5h-.6c3.5 82 15.8 159.4 35.3 220.4 22.8 70.6 58.1 186.8 67.1 221.9 4.4 17.5 7 33.9 9.3 47.3l.6 3.5c44.4 4.7 89.6 5.3 109.5 5.3h30.7c19.9 0 65.1-.6 109.5-5.3l.6-3.5c2-13.4 4.7-29.8 9.3-47.3 8.8-34.7 44.1-150.9 67.1-221.9 19.9-61.9 32.1-137.5 35.3-220.4h-.6c-51.9-2.3-225.9-3.5-236.4-3.5z" id="fill-100"></path><g id="cup"><path d="M703.2 934.3h-674.3c-16.1 0-28.9 12.9-28.9 28.9 0 16.1 12.8 28.9 28.9 28.9h674.3c16.1 0 28.9-12.8 28.9-28.9.3-15.7-12.8-28.9-28.9-28.9zM841.6 390.5c-3.5-51.7-39.1-82.6-95.2-82.6-21 0-39.1 7-54 17.2 1.2-18.4 2-37.1 2.3-56 1.2-59.3-35.9-65.4-88.5-67.4-55.2-2.3-232.4-3.5-240.2-3.5-7.6 0-185.1 1.2-240.2 3.5-52.3 2-89.6 8.2-88.5 67.4 2 101.3 16.1 195 40.6 271.5 24.2 75 57.8 186 65.4 216 3.5 13.4 5.5 26.6 7.6 39.4 5.5 33.9 11.1 68.9 45 74.4 56.9 9.3 121.4 10.5 154.7 10.5h31c33.3 0 97.8-1.5 154.7-10.5 33.9-5.5 39.4-40.6 45-74.4 2-12.8 4.1-26 7.6-39.4 3.5-13.7 12.6-44.7 23.4-81.2 16.1-52.3 42.3-67.4 82-90.2 15.5-9 33.3-19 52-32.7 83.6-60.4 97.9-121.4 95.3-162zm-292.8 355.8c-3.8 15.2-6.1 30.1-8.5 42.9-2.3 14.6-5.8 36.8-10.2 40h-.3c-56 9-122.3 10.2-148 10.2h-31c-26 0-92-.9-148-10.2h-.3c-4.4-3.5-8.2-25.4-10.5-40.3-2-13.1-4.4-27.7-8.5-42.9-7.9-30.7-41.7-143-66.3-218.6-23.2-72.4-36.6-162-38.4-259.2-.3-16.3 2.6-18.1 3.8-18.7 7.9-5 33.9-6.1 45-6.4 54.6-2 236.7-3.5 238.5-3.5s184.2 1.2 238.8 3.5c11.1.6 37.1 1.5 45 6.4 1.2.6 4.1 2.6 3.8 18.7-1.8 97.2-15.2 186.8-38.5 259.5-22.9 70.1-57.9 184.8-66.4 218.6zm173.1-227.1c-16.9 12.3-33 21.3-48.2 30.4-9.6 5.5-18.7 10.8-27.7 16.6 2.9-8.8 5.5-17.5 8.2-25.7 14.3-44.1 24.8-93.7 31.5-147.4 7.6-14.3 29.8-43.8 60.4-43.8 50.8 0 53.1 33 53.7 44.1 3.6 42.9-23.6 86.4-77.9 125.8z"></path></g></svg>
@@ -921,7 +950,7 @@
 <li class=""><a href="/">Adrianos</a></li>
 <li class=""><a href="/shop">Shop</a></li>
 <li class=""><a href="/shop/kaffee">Kaffee</a></li>
-<li class="breadcrumbs__item_current"><a href="#">Gemahlen</a></li>
+<li class="breadcrumbs__item_current"><a href="#">Bohnen</a></li>
 </ul>
 </nav>
 </div>
