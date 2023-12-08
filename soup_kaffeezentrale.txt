@@ -163,7 +163,7 @@
 </noscript>
 <!-- /Google remarketing pixel -->
 <script>
-            window.zeobvContextToken = "sAdT3ewM91vYGQqsCWKX2jQKauBaLd91";
+            window.zeobvContextToken = "PixpGa2NgzXW9zeDuhFm9BXZ99LVokjN";
             window.zeobvAccessToken = "SWSCYNHIWJDITXHRYLMXEHFJVQ";
         </script>
 <script>
@@ -195,7 +195,7 @@
                 </script>
 <script src="https://kaffeezentrale.ch/bundles/netzkollektivjquery/jquery-3.5.1.slim.min.js?1689823909"></script>
 <script defer="" src="https://kaffeezentrale.ch/theme/df7f57a74e1b180866800894ad87e77f/js/all.js?1701722949" type="text/javascript"></script>
-<script async="" defer="" src="https://integrations.etrusted.com/applications/widget.js/v2"></script><script async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1008328176/?random=1701998959669&amp;cv=11&amp;fst=1701998959669&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45je3bt0v885693186&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fkaffeezentrale.ch%2Fkaffeebohnen%3Fp%3D1%26properties%3D3f287e0ff57d42daad52e4ad2b2ae68d&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Kaffeebohnen%20%7C%20Kaffeezentrale%20Schweiz&amp;auid=1784878835.1701998960&amp;fledge=1&amp;uaa=x86&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.71&amp;uamb=0&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" type="text/javascript"></script><script charset="utf-8" crossorigin="anonymous" data-webpack="NRBA-1.248.0.PROD:chunk-111" integrity="sha512-ZwkW/wLO65ZnBcPIJO2VJVqTtRyXCRZiimLidZm1CYZfRiDwnchDLGFiEKDNkhfy/b1cgD3SElt5YjVudzleDQ==" src="https://js-agent.newrelic.com/nr-spa-1.248.0.min.js"></script></head>
+<script async="" defer="" src="https://integrations.etrusted.com/applications/widget.js/v2"></script><script async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1008328176/?random=1702020646254&amp;cv=11&amp;fst=1702020646254&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45je3bt0v885693186&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1440&amp;u_h=900&amp;url=https%3A%2F%2Fkaffeezentrale.ch%2Fkaffeebohnen%3Fp%3D1%26properties%3D3f287e0ff57d42daad52e4ad2b2ae68d&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Kaffeebohnen%20%7C%20Kaffeezentrale%20Schweiz&amp;auid=1586921027.1702020646&amp;fledge=1&amp;uaa=arm&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.71&amp;uamb=0&amp;uap=macOS&amp;uapv=13.4.0&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" type="text/javascript"></script><script charset="utf-8" crossorigin="anonymous" data-webpack="NRBA-1.248.0.PROD:chunk-111" integrity="sha512-ZwkW/wLO65ZnBcPIJO2VJVqTtRyXCRZiimLidZm1CYZfRiDwnchDLGFiEKDNkhfy/b1cgD3SElt5YjVudzleDQ==" src="https://js-agent.newrelic.com/nr-spa-1.248.0.min.js"></script></head>
 <!-- added by Trusted Shops app: Start -->
 <!-- End -->
 <body class="is-ctl-navigation is-act-index" style="padding-bottom: 53px;">
@@ -1786,7 +1786,7 @@
 <svg height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M4.7071 6.2929c-.3905-.3905-1.0237-.3905-1.4142 0-.3905.3905-.3905 1.0237 0 1.4142l4 4c.3905.3905 1.0237.3905 1.4142 0l4-4c.3905-.3905.3905-1.0237 0-1.4142-.3905-.3905-1.0237-.3905-1.4142 0L8 9.5858l-3.2929-3.293z" id="icons-solid-arrow-medium-down"></path></defs><use fill="#758CA3" fill-rule="evenodd" xlink:href="#icons-solid-arrow-medium-down"></use></svg>
 </span>
 </button>
-<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-888776483">
+<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-1556869745">
 <ul class="filter-multi-select-list">
 <li class="filter-multi-select-list-item filter-property-select-list-item">
 <div class="custom-control custom-checkbox">
@@ -2241,7 +2241,7 @@
 <svg height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use fill="#758CA3" fill-rule="evenodd" xlink:href="#icons-solid-arrow-medium-down"></use></svg>
 </span>
 </button>
-<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-3547311">
+<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-259321338">
 <ul class="filter-multi-select-list">
 <li class="filter-multi-select-list-item filter-property-select-list-item">
 <div class="custom-control custom-checkbox">
@@ -2295,7 +2295,7 @@
 <svg height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use fill="#758CA3" fill-rule="evenodd" xlink:href="#icons-solid-arrow-medium-down"></use></svg>
 </span>
 </button>
-<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-737539764">
+<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-483276812">
 <ul class="filter-multi-select-list">
 <li class="filter-multi-select-list-item filter-property-select-list-item">
 <div class="custom-control custom-checkbox">
@@ -2349,7 +2349,7 @@
 <svg height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use fill="#758CA3" fill-rule="evenodd" xlink:href="#icons-solid-arrow-medium-down"></use></svg>
 </span>
 </button>
-<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-703926204">
+<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-2083740370">
 <ul class="filter-multi-select-list">
 <li class="filter-multi-select-list-item filter-property-select-list-item">
 <div class="custom-control custom-checkbox">
@@ -2548,7 +2548,7 @@
 <svg height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use fill="#758CA3" fill-rule="evenodd" xlink:href="#icons-solid-arrow-medium-down"></use></svg>
 </span>
 </button>
-<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-408904807">
+<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-2144387413">
 <ul class="filter-multi-select-list">
 <li class="filter-multi-select-list-item filter-property-select-list-item">
 <div class="custom-control custom-checkbox">
@@ -2651,7 +2651,7 @@
 <svg height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use fill="#758CA3" fill-rule="evenodd" xlink:href="#icons-solid-arrow-medium-down"></use></svg>
 </span>
 </button>
-<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-405555764">
+<div class="filter-multi-select-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-properties-1691548839">
 <ul class="filter-multi-select-list">
 <li class="filter-multi-select-list-item filter-property-select-list-item">
 <div class="custom-control custom-checkbox">
@@ -2737,7 +2737,7 @@
 <svg height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use fill="#758CA3" fill-rule="evenodd" xlink:href="#icons-solid-arrow-medium-down"></use></svg>
 </span>
 </button>
-<div class="filter-range-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-price-319839980">
+<div class="filter-range-dropdown filter-panel-item-dropdown dropdown-menu" id="filter-price-1215933508">
 <div>
 <style>
         .range-slider{--primary-color: var(--primary);--value-offset-y: var(--ticks-gap);--value-active-color: white;--value-background: transparent;--value-background-hover: var(--primary-color);--value-font: 700 12px/1 Arial;--fill-color: var(--primary-color);--progress-background: #EEE;--progress-radius: 20px;--track-height: calc(var(--thumb-size)/2);--min-max-font: 12px Arial;--min-max-opacity: .5;--min-max-x-offset: 10%;--thumb-size: 22px;--thumb-color: white;--thumb-shadow: 0 0 3px rgba(0,0,0,.4),
@@ -2751,7 +2751,7 @@
                 1
             );--thumb-close-to-min: min(1, max(var(--ca) - 15, 0));--thumb-close-to-max: min(1, max(95 - var(--cb), 0));box-sizing:content-box;display:inline-block;height:max(var(--track-height), var(--thumb-size));background:linear-gradient(to right, var(--ticks-color) var(--ticks-thickness), transparent 1px) repeat-x;background-size:var(--tickIntervalPerc) var(--ticks-height);background-position-x:calc(var(--thumb-size)/2 - var(--ticks-thickness)/2);background-position-y:var(--flip-y, bottom);padding-bottom:var(--flip-y, var(--ticks-gap));padding-top:calc(var(--flip-y) * var(--ticks-gap));position:relative;z-index:1}.range-slider[data-ticks-position='top']{--flip-y: 1}.range-slider::before,.range-slider::after{--offset: calc(var(--thumb-size)/2);content:counter(x);display:var(--show-min-max, block);font:var(--min-max-font);position:absolute;bottom:var(--flip-y, -2.5ch);top:calc(-2.5ch * var(--flip-y));opacity:clamp(0, var(--at-edge), var(--min-max-opacity));transform:translateX(calc( var(--min-max-x-offset) * var(--before, -1) * -1)) scale(var(--at-edge));pointer-events:none}.range-slider::before{--before: 1;--at-edge: var(--thumb-close-to-min);counter-reset:x var(--min);left:var(--offset)}.range-slider::after{--at-edge: var(--thumb-close-to-max);counter-reset:x var(--max);right:var(--offset)}.range-slider__values{position:relative;top:50%;line-height:0;text-align:justify;width:100%;pointer-events:none;margin:0 auto;z-index:5;user-select:none;pointer-events:none}.range-slider__values::after{content:'';width:100%;display:inline-block;height:0;background:red}.range-slider__progress{--start-end: calc(var(--thumb-size)/2);--clip-end: calc(100% - (var(--cb) ) * 1%);--clip-start: calc(var(--ca) * 1%);--clip: inset(-20px var(--clip-end) -20px var(--clip-start));position:absolute;left:var(--start-end);right:var(--start-end);top:calc(var(--ticks-gap) * var(--flip-y,0) + var(--thumb-size)/2 - var(--track-height)/2);height:calc(var(--track-height));background:var(--progress-background, #EEE);pointer-events:none;z-index:-1;border-radius:var(--progress-radius)}.range-slider__progress::before{content:'';position:absolute;left:0;right:0;clip-path:var(--clip);top:0;bottom:0;background:var(--fill-color, black);box-shadow:var(--progress-flll-shadow);z-index:1;border-radius:inherit}.range-slider__progress::after{content:'';position:absolute;top:0;right:0;bottom:0;left:0;box-shadow:var(--progress-shadow);pointer-events:none;border-radius:inherit}.range-slider>input{-webkit-appearance:none;width:100%;height:var(--thumb-size);margin:0;position:absolute;left:0;top:calc(50% - max(var(--track-height), var(--thumb-size))/2 + calc(var(--ticks-gap)/2 * var(--flip-y, -1)));cursor:-webkit-grab;cursor:grab;outline:none;background:none}.range-slider>input:not(:only-of-type){pointer-events:none}.range-slider>input::-webkit-slider-thumb{appearance:none;border:none;height:var(--thumb-size);width:var(--thumb-size);transform:var(--thumb-transform);border-radius:var(--thumb-radius, 50%);background:var(--thumb-color);box-shadow:var(--thumb-shadow);pointer-events:auto;transition:.1s}.range-slider>input::-moz-range-thumb{appearance:none;border:none;height:var(--thumb-size);width:var(--thumb-size);transform:var(--thumb-transform);border-radius:var(--thumb-radius, 50%);background:var(--thumb-color);box-shadow:var(--thumb-shadow);pointer-events:auto;transition:.1s}.range-slider>input::-ms-thumb{appearance:none;border:none;height:var(--thumb-size);width:var(--thumb-size);transform:var(--thumb-transform);border-radius:var(--thumb-radius, 50%);background:var(--thumb-color);box-shadow:var(--thumb-shadow);pointer-events:auto;transition:.1s}.range-slider>input:hover{--thumb-shadow: var(--thumb-shadow-hover)}.range-slider>input:hover+output{--value-background: var(--value-background-hover);--y-offset: -5px;color:var(--value-active-color);box-shadow:0 0 0 3px var(--value-background)}.range-slider>input:active{--thumb-shadow: var(--thumb-shadow-active);cursor:grabbing;z-index:2}.range-slider>input:active+output{transition:0s}.range-slider>input:nth-of-type(1){--is-left-most: clamp(0, (var(--value-a) - var(--value-b)) * 99999 ,1)}.range-slider>input:nth-of-type(1)+output{--value: var(--value-a);--x-offset: calc(var(--completed-a) * -1%)}.range-slider>input:nth-of-type(1)+output:not(:only-of-type){--flip: calc(var(--thumbs-too-close) * -1)}.range-slider>input:nth-of-type(1)+output::after{content:var(--prefix, "") var(--text-value-a) var(--suffix, "")}.range-slider>input:nth-of-type(2){--is-left-most: clamp(0, (var(--value-b) - var(--value-a)) * 99999 ,1)}.range-slider>input:nth-of-type(2)+output{--value: var(--value-b)}.range-slider>input:only-of-type ~ .range-slider__progress{--clip-start: 0}.range-slider>input+output{--flip: -1;--x-offset: calc(var(--completed-b) * -1%);--pos: calc(((var(--value) - var(--min))/(var(--max) - var(--min))) * 100%);pointer-events:none;position:absolute;z-index:5;background:var(--value-background);border-radius:10px;padding:2px 4px;left:var(--pos);transform:translate(var(--x-offset), calc(150% * var(--flip) - (var(--y-offset, 0px) + var(--value-offset-y)) * var(--flip)));transition:all .12s ease-out, left 0s}.range-slider>input+output::after{content:var(--prefix, "") var(--text-value-b) var(--suffix, "");font:var(--value-font)}
     </style>
-<div class="mmees-range-slider range-slider range-slider--529370085" data-filter-range-slider="" data-filter-range-slider-options='{"min":5.0,"max":232.0,"step":1,"minRange":5.0,"maxRange":232.0,"param":"price","name":"price","symbolPosition":"suffix","unit":"CHF","decimals":0,"trackColor":"#faebda","knobColor":"#915140","id":529370085,"locale":"de-DE","currency":"CHF","el":"filter-rangeSlider__slider--529370085"}' data-ticks-position="top" style='
+<div class="mmees-range-slider range-slider range-slider--642874457" data-filter-range-slider="" data-filter-range-slider-options='{"min":5.0,"max":232.0,"step":1,"minRange":5.0,"maxRange":232.0,"param":"price","name":"price","symbolPosition":"suffix","unit":"CHF","decimals":0,"trackColor":"#faebda","knobColor":"#915140","id":642874457,"locale":"de-DE","currency":"CHF","el":"filter-rangeSlider__slider--642874457"}' data-ticks-position="top" style='
          --thumb-color: #915140;            --primary-color: #faebda;             --min: 5;
              --max: 232;
              --step: 1;
@@ -2759,9 +2759,9 @@
              --value-b: 232;
                                        --text-value-a: "5 CHF";
              --text-value-b: "232 CHF";'>
-<input class="range-slider-a--529370085" data-slider="a" max="232" min="5" step="1" type="range" value="5"/>
+<input class="range-slider-a--642874457" data-slider="a" max="232" min="5" step="1" type="range" value="5"/>
 <output></output>
-<input class="range-slider-b--529370085" data-slider="b" max="232" min="5" step="1" type="range" value="232"/>
+<input class="range-slider-b--642874457" data-slider="b" max="232" min="5" step="1" type="range" value="232"/>
 <output></output>
 <div class="range-slider__progress"></div>
 </div>
@@ -3625,5 +3625,5 @@ Aathalstrasse 84, 4. Stock<br/>8610 Uster<br/>➔ <a href="https://goo.gl/maps/
 <!-- added by Trusted Shops app: Start -->
 <script async="" charset="UTF-8" data-color-scheme="os-default" data-desktop-custom-width="156" data-desktop-disable-reviews="false" data-desktop-enable-custom="false" data-desktop-enable-fadeout="false" data-desktop-position="right" data-desktop-y-offset="45" data-disable-mobile="false" data-disable-trustbadge="false" data-mobile-custom-width="156" data-mobile-disable-reviews="false" data-mobile-enable-custom="false" data-mobile-position="right" data-mobile-y-offset="45" script="" src="//widgets.trustedshops.com/js/XA23B5A85EA8074DAD8D72B30C538C326.js"></script>
 <!-- End -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.eu01.nr-data.net","licenseKey":"NRJS-2f0760c8bc8799e0f32","applicationID":"482943333","transactionName":"MhBSZQoZWxBXUkQNDgtacVIMEVoNGVdCCw8REF5VVhZUFV9WURAIChseQRkfUA==","queueTime":0,"applicationTime":5160,"atts":"HldRE0IDSB4=","errorBeacon":"bam.eu01.nr-data.net","agent":""}</script><iframe allow="join-ad-interest-group" data-load-time="1701998959674" data-tagging-id="AW-1008328176" height="0" src="https://td.doubleclick.net/td/rul/1008328176?random=1701998959669&amp;cv=11&amp;fst=1701998959669&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45je3bt0v885693186&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fkaffeezentrale.ch%2Fkaffeebohnen%3Fp%3D1%26properties%3D3f287e0ff57d42daad52e4ad2b2ae68d&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Kaffeebohnen%20%7C%20Kaffeezentrale%20Schweiz&amp;auid=1784878835.1701998960&amp;fledge=1&amp;uaa=x86&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.71&amp;uamb=0&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;" width="0"></iframe>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.eu01.nr-data.net","licenseKey":"NRJS-2f0760c8bc8799e0f32","applicationID":"482943333","transactionName":"MhBSZQoZWxBXUkQNDgtacVIMEVoNGVdCCw8REF5VVhZUFV9WURAIChseQRkfUA==","queueTime":0,"applicationTime":5031,"atts":"HldRE0IDSB4=","errorBeacon":"bam.eu01.nr-data.net","agent":""}</script><iframe allow="join-ad-interest-group" data-load-time="1702020646257" data-tagging-id="AW-1008328176" height="0" src="https://td.doubleclick.net/td/rul/1008328176?random=1702020646254&amp;cv=11&amp;fst=1702020646254&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45je3bt0v885693186&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1440&amp;u_h=900&amp;url=https%3A%2F%2Fkaffeezentrale.ch%2Fkaffeebohnen%3Fp%3D1%26properties%3D3f287e0ff57d42daad52e4ad2b2ae68d&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Kaffeebohnen%20%7C%20Kaffeezentrale%20Schweiz&amp;auid=1586921027.1702020646&amp;fledge=1&amp;uaa=arm&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.71&amp;uamb=0&amp;uap=macOS&amp;uapv=13.4.0&amp;uaw=0&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;" width="0"></iframe>
 <script charset="utf-8" data-type="trustbadge-business-logic" src="https://widgets.trustedshops.com/assets/trustbadge.js"></script></body></html>

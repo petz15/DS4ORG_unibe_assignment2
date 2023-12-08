@@ -1,4 +1,4 @@
-<html class="page_bohnen js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-merriweather-i7-active wf-merriweather-n4-active wf-merriweather-i4-active wf-merriweather-n7-active wf-proximanova-n4-active wf-proximanova-i4-active wf-proximanova-n3-active wf-proximanova-n6-active wf-proximanova-n7-active wf-proximanova-i6-active wf-active" data-bind="css: html.css" lang="de" style=""><head>
+<html class="page_bohnen js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-merriweather-n4-active wf-merriweather-i4-active wf-merriweather-n7-active wf-merriweather-i7-active wf-proximanova-n3-active wf-proximanova-i6-active wf-proximanova-n4-active wf-proximanova-n7-active wf-proximanova-n6-active wf-proximanova-i4-active wf-active" data-bind="css: html.css" lang="de" style=""><head>
 <meta charset="utf-8"/>
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
 <title>Bohnenkaffee täglich frisch geröstet online bestellen | AdrianosShop</title>
@@ -106,7 +106,7 @@
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-562P26F" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div class="adrianos-status-closed trust-message-active site-nav-sticky" data-bind="css: body.css" id="site-body">
+<div class="adrianos-status-open trust-message-active site-nav-sticky" data-bind="css: body.css" id="site-body">
 <!-- Container -->
 <div class="container">
 <div id="content-view">

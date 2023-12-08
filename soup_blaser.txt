@@ -5,7 +5,7 @@
 <meta content="width" name="MobileOptimized"/>
 <meta content="true" name="HandheldFriendly"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<script async="" data-id="CD3DHP3C77U8TNJITT50" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTdjYzNiZDU2MA.js" type="text/javascript"></script><script async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CD3DHP3C77U8TNJITT50&amp;lib=ttq" type="text/javascript"></script><script async="" src="https://connect.facebook.net/signals/config/635398806857188?v=2.9.138&amp;r=stable&amp;domain=www.blasercafe.ch"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZN4L2FLW3B&amp;l=dataLayer&amp;cx=c" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NP66V3N"></script><script defer="" src="/sites/default/files/google_tag/general/google_tag.script.js?s5bmv3"></script>
+<script async="" data-id="CD3DHP3C77U8TNJITT50" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTdjYzNiZDU2MA.js" type="text/javascript"></script><script async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CD3DHP3C77U8TNJITT50&amp;lib=ttq" type="text/javascript"></script><script async="" src="https://connect.facebook.net/signals/config/635398806857188?v=2.9.138&amp;r=stable&amp;domain=www.blasercafe.ch"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZN4L2FLW3B&amp;l=dataLayer&amp;cx=c" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NP66V3N"></script><script defer="" src="/sites/default/files/google_tag/general/google_tag.script.js?s5c3jj"></script>
 <title>| Blaser Café</title>
 <link href="/sites/default/files/css/css_UWHUgO1b6nHf9oN8WgO-TlLLhjxOrZ04QJZEcBQmSgw.css" media="all" rel="stylesheet"/>
 <link href="/sites/default/files/css/css_4ybVGQuJgZeVjIIGQ8X_4LjBhbrnY9VqSJAeOW3gAfg.css" media="all" rel="stylesheet"/>
@@ -17,7 +17,7 @@
 <link color="#5bbad5" href="/themes/custom/blasercafe/images/favicons/safari-pinned-tab.svg" rel="mask-icon"/>
 <meta content="#da532c" name="msapplication-TileColor"/>
 <meta content="#ffffff" name="theme-color"/>
-<script async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/775346791/?random=1701998754973&amp;cv=11&amp;fst=1701998754973&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45He3bt0v830977066&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.blasercafe.ch%2Fshop%2Fcategory%2F8&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=%7C%20Blaser%20Caf%C3%A9&amp;auid=2089459207.1701998755&amp;fledge=1&amp;uaa=x86&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.71&amp;uamb=0&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;rfmt=3&amp;fmt=4" type="text/javascript"></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/static/identify_bb163.js"></script></head>
+<script async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/775346791/?random=1702020635835&amp;cv=11&amp;fst=1702020635835&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45He3bt0v830977066&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1440&amp;u_h=900&amp;url=https%3A%2F%2Fwww.blasercafe.ch%2Fshop%2Fcategory%2F8&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=%7C%20Blaser%20Caf%C3%A9&amp;auid=1854903188.1702020636&amp;fledge=1&amp;uaa=arm&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.71&amp;uamb=0&amp;uap=macOS&amp;uapv=13.4.0&amp;uaw=0&amp;rfmt=3&amp;fmt=4" type="text/javascript"></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/static/identify_bb163.js"></script></head>
 <body class="path-shop eu-cookie-compliance-popup-open eu-cookie-compliance-status-null" data-eu-cookie-compliance-once="true">
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NP66V3N" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <a class="visually-hidden focusable skip-link" href="#main-content">
@@ -231,7 +231,7 @@
 <a id="main-content" tabindex="-1"></a> <div class="content-top">
 <div class="region region--content-top">
 <div class="block block-facets-active-view-block block--facets-active-view-block" id="block-facetsactiveviewblock">
-<div class="views-element-container"><div class="view view-product-category-description view-id-product_category_description view-display-id-block_1 js-view-dom-id-540c2dc4cd3c047676a21535398c6b4a3b25a20c82cb047c898c984cf91a9bce">
+<div class="views-element-container"><div class="view view-product-category-description view-id-product_category_description view-display-id-block_1 js-view-dom-id-6c17a932e5afdf7675342b2c75ef948f3ab740ca6129492d143bf072cd9f9b49">
 <div class="view-content">
 <div class="views-row"><h1 class="field-content lead-in-headline">Bohnenkaffee</h1></div>
 </div>
@@ -354,7 +354,7 @@ Geschenke &amp; Gutscheine
 <div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"><input class="button js-form-submit form-submit" id="edit-submit-product-search-result--2" type="submit" value="Suchen"/>
 </div>
 </div>
-<input name="__ncforminfo" type="hidden" value="zl5A-Nl_saLpz-4qW4hlvaS1rNsTGcfVfoFlIqpni0qCWl_Ivbp-Ekxe2TqgELpktxv87vHNM4iEIFO_mMjWAoZQP4Uhl02WCmVkuWCkh6GHEsdp6aNXjztHw6oU6tJR3YOvELWg5R4="/></form>
+<input name="__ncforminfo" type="hidden" value="zp0UbuqkXVBgkCm39RgYjGDq_2Uc-pmfPp5aZbHb5QKDKvPIH6lpkTaIPYE4CWUHx0N7ztWhusvVdlVPHW0EQby_Kze2NVz39Pg0UybGrB0KdQ-i_Tpn5qCO9c2jjRHYxOd016TTiXk="/></form>
 </div>
 <div class="facet-inactive block-facet--dropdown block block-facets block--facet-blockfacet-preparation" id="block-facet-preparation">
 <div class="form-type-select facets-widget-dropdown">
@@ -371,7 +371,7 @@ Filterkaffee
 French Press
 </a></li><li class="facet-item"><a data-drupal-facet-item-count="21" data-drupal-facet-item-id="preparation-1" data-drupal-facet-item-value="1" href="/shop/category/8/preparation/1" rel="nofollow">
 Vollautomat
-</a></li></ul><select aria-hidden="true" aria-labelledby="facet_facet_preparation_label" class="facet-inactive item-list__dropdown facets-dropdown js-facets-widget js-facets-dropdown select2-hidden-accessible" data-drupal-facet-alias="preparation" data-drupal-facet-id="facet_preparation" data-select2-id="3" tabindex="-1"><option data-select2-id="5" selected="selected" value="">Bitte wählen</option><option value="/shop/category/8/preparation/2"> Bialetti-Kocher</option><option value="/shop/category/8/preparation/5"> E.S.E Podsystem</option><option value="/shop/category/8/preparation/0"> Espressomaschine</option><option value="/shop/category/8/preparation/4"> Filterkaffee</option><option value="/shop/category/8/preparation/3"> French Press</option><option value="/shop/category/8/preparation/1"> Vollautomat</option></select><span class="select2 select2-container select2-container--default" data-select2-id="4" dir="ltr" style="width: 100%;"><span class="selection"><span aria-expanded="false" aria-haspopup="true" aria-labelledby="select2-64tg-container" class="select2-selection select2-selection--single" role="combobox" tabindex="0"><span aria-readonly="true" class="select2-selection__rendered" id="select2-64tg-container" role="textbox" title="Bitte wählen">Bitte wählen</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span aria-hidden="true" class="dropdown-wrapper"></span></span></div>
+</a></li></ul><select aria-hidden="true" aria-labelledby="facet_facet_preparation_label" class="facet-inactive item-list__dropdown facets-dropdown js-facets-widget js-facets-dropdown select2-hidden-accessible" data-drupal-facet-alias="preparation" data-drupal-facet-id="facet_preparation" data-select2-id="3" tabindex="-1"><option data-select2-id="5" selected="selected" value="">Bitte wählen</option><option value="/shop/category/8/preparation/2"> Bialetti-Kocher</option><option value="/shop/category/8/preparation/5"> E.S.E Podsystem</option><option value="/shop/category/8/preparation/0"> Espressomaschine</option><option value="/shop/category/8/preparation/4"> Filterkaffee</option><option value="/shop/category/8/preparation/3"> French Press</option><option value="/shop/category/8/preparation/1"> Vollautomat</option></select><span class="select2 select2-container select2-container--default" data-select2-id="4" dir="ltr" style="width: 100%;"><span class="selection"><span aria-expanded="false" aria-haspopup="true" aria-labelledby="select2-zr9f-container" class="select2-selection select2-selection--single" role="combobox" tabindex="0"><span aria-readonly="true" class="select2-selection__rendered" id="select2-zr9f-container" role="textbox" title="Bitte wählen">Bitte wählen</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span aria-hidden="true" class="dropdown-wrapper"></span></span></div>
 </div>
 <div class="facet-inactive block-facet--dropdown block block-facets block--facet-blockgetrankeart" id="block-getrankeart">
 <div class="form-type-select facets-widget-dropdown">
@@ -388,10 +388,10 @@ Filterkaffee
 Latte Macchiato
 </a></li><li class="facet-item"><a data-drupal-facet-item-count="5" data-drupal-facet-item-id="type-0" data-drupal-facet-item-value="0" href="/shop/category/8/type/0" rel="nofollow">
 Ristretto
-</a></li></ul><select aria-hidden="true" aria-labelledby="facet_getrankeart_label" class="facet-inactive item-list__dropdown facets-dropdown js-facets-widget js-facets-dropdown select2-hidden-accessible" data-drupal-facet-alias="type" data-drupal-facet-id="getrankeart" data-select2-id="6" tabindex="-1"><option data-select2-id="8" selected="selected" value="">Bitte wählen</option><option value="/shop/category/8/type/2"> Café Crème</option><option value="/shop/category/8/type/3"> Cappuccino</option><option value="/shop/category/8/type/1"> Espresso</option><option value="/shop/category/8/type/5"> Filterkaffee</option><option value="/shop/category/8/type/4"> Latte Macchiato</option><option value="/shop/category/8/type/0"> Ristretto</option></select><span class="select2 select2-container select2-container--default" data-select2-id="7" dir="ltr" style="width: 100%;"><span class="selection"><span aria-expanded="false" aria-haspopup="true" aria-labelledby="select2-z14z-container" class="select2-selection select2-selection--single" role="combobox" tabindex="0"><span aria-readonly="true" class="select2-selection__rendered" id="select2-z14z-container" role="textbox" title="Bitte wählen">Bitte wählen</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span aria-hidden="true" class="dropdown-wrapper"></span></span></div>
+</a></li></ul><select aria-hidden="true" aria-labelledby="facet_getrankeart_label" class="facet-inactive item-list__dropdown facets-dropdown js-facets-widget js-facets-dropdown select2-hidden-accessible" data-drupal-facet-alias="type" data-drupal-facet-id="getrankeart" data-select2-id="6" tabindex="-1"><option data-select2-id="8" selected="selected" value="">Bitte wählen</option><option value="/shop/category/8/type/2"> Café Crème</option><option value="/shop/category/8/type/3"> Cappuccino</option><option value="/shop/category/8/type/1"> Espresso</option><option value="/shop/category/8/type/5"> Filterkaffee</option><option value="/shop/category/8/type/4"> Latte Macchiato</option><option value="/shop/category/8/type/0"> Ristretto</option></select><span class="select2 select2-container select2-container--default" data-select2-id="7" dir="ltr" style="width: 100%;"><span class="selection"><span aria-expanded="false" aria-haspopup="true" aria-labelledby="select2-1rd6-container" class="select2-selection select2-selection--single" role="combobox" tabindex="0"><span aria-readonly="true" class="select2-selection__rendered" id="select2-1rd6-container" role="textbox" title="Bitte wählen">Bitte wählen</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span aria-hidden="true" class="dropdown-wrapper"></span></span></div>
 </div>
 <div class="block block-system block--system-main-block" id="block-blasercafe-content">
-<div class="views-element-container"><div class="view view-product-search-result view-id-product_search_result view-display-id-page_1 js-view-dom-id-6d692b9c1d41a096b307deb7fee4bde3abc76ea4b934ce5a1c607f260421cee2">
+<div class="views-element-container"><div class="view view-product-search-result view-id-product_search_result view-display-id-page_1 js-view-dom-id-9c8fb6d49a09815e05e0f86fe25e111efde8405007c6e3f48fbb32ec1c457e06">
 <div class="view-content">
 <div class="views-row">
 <article about="/node/6737" class="product-teaser-wrapper" data-history-node-id="6737" role="article">
@@ -412,7 +412,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-6737 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6737?destination=/shop/category/8&amp;token=10e0HXb_mwhWLcRGsSsna43APzgmblrfDTVxgc7COsc" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-6737 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6737?destination=/shop/category/8&amp;token=KIdgIRPppMo1zhMmpoiBGjtApPevjQrzHay_O10FFtU" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -440,7 +440,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 7.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-6381 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6381?destination=/shop/category/8&amp;token=i57kWbv8S36DZ-zuZWvikEY6kuYTifWXrDWijAIKjpE" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-6381 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6381?destination=/shop/category/8&amp;token=Xvd2Kxr8dfPBxp9jNruBD5lCwh7POQRWaDaxTtJ0w8A" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -468,7 +468,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 8.50</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-6444 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6444?destination=/shop/category/8&amp;token=bHGHX_852rmH6_7LWJemaJK4Qc-4-Wawy9qtn5kRnMU" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-6444 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6444?destination=/shop/category/8&amp;token=dXS3bGUldAMcxxg_oAb9LeOjwKBLV27wZTY4O4J0k4w" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -497,7 +497,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 45.–</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-1646 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1646?destination=/shop/category/8&amp;token=aaWMZOTOXs3Od3ogM4l0oUpiyk8MdRrhthHmiJ8xsE8" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-1646 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1646?destination=/shop/category/8&amp;token=1RTwp5TYxiopqjSKRv5nyAjfRoY2XJ0CwEYW-t5SXmg" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -525,7 +525,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.10</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-811 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/811?destination=/shop/category/8&amp;token=n8RKT-pMA4XaPuVm3LT26bHEeZTRFFHywv3QtZ7tujo" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-811 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/811?destination=/shop/category/8&amp;token=e3zsNtC6UvoBD0Y34NfbHA7vYZ_C7-UgqJhznSuHMIE" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -553,7 +553,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.70</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-854 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/854?destination=/shop/category/8&amp;token=0UFH0ssjG0So4bRCqYkVrPiHnBMvz1BA2-C1bCFTgZs" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-854 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/854?destination=/shop/category/8&amp;token=pNcHNfbKGkqEKTSRFx6iFGVHqXuXuHj41yf3aEUjRyw" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -582,7 +582,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.10</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-6796 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6796?destination=/shop/category/8&amp;token=ss0iMZph4Oa0rqqiGKLJRk76BvpTqRKV_B8nzFTvTNA" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-6796 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6796?destination=/shop/category/8&amp;token=QPfh9h03yOLZEaKtR2-jSMcPANMDhH2MGEAOa5Sjt3A" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -610,7 +610,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.30</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-797 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/797?destination=/shop/category/8&amp;token=fqvzz-d2an_7ldikZh8glT4APKbNQwh7lb7tWzwrGPs" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-797 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/797?destination=/shop/category/8&amp;token=ETY5X6YtrFM35ECVYGtcvWSu2n7l8_bCTzpc67t6kEA" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -638,7 +638,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.–</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-804 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/804?destination=/shop/category/8&amp;token=wMz7IvRSLM33yV-R3YR7fjAjAD41-VJI20jDK5GXcas" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-804 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/804?destination=/shop/category/8&amp;token=B8Wsx_hCYTVBikt-ZGx3SMkv3RR4QRMjNulH7wGI-KI" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -666,7 +666,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-836 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/836?destination=/shop/category/8&amp;token=0MXKEGOzRUuWKeTdxzixiG_xjQIL4_oYKSUT--TYAZg" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-836 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/836?destination=/shop/category/8&amp;token=FquBRXEzV_BeF10RcVYw2aNoEZCJK01Qq201MbMvzM4" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -694,7 +694,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.50</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-3241 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/3241?destination=/shop/category/8&amp;token=1VwT-PL3lkwKyA94A6jPEsev7rC3CckgOr3V9IFZsXg" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-3241 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/3241?destination=/shop/category/8&amp;token=4NtxiOiehWkSXSS1DcmwqhaT5G2Z3UK0exlTFVmOAyU" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -722,7 +722,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-840 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/840?destination=/shop/category/8&amp;token=hI5jmgBkUsA7rOlhXLSlnqbYPTC2TzL1lSYrhD6MuJQ" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-840 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/840?destination=/shop/category/8&amp;token=6lwY4QdRA2pLKZqxPNhblPreHD5mKYGuMZ-gltTEF-4" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -751,7 +751,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.20</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-4183 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/4183?destination=/shop/category/8&amp;token=7RhFUya-pbcsWsdSPtpK4zjdU9Z-7u6NzhaMPKCDAzM" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-4183 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/4183?destination=/shop/category/8&amp;token=O71ydmtlHTdfYVWaF3z2z6WQXPShdw9l1AfpXuPJoVo" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -779,7 +779,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 7.30</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-1451 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1451?destination=/shop/category/8&amp;token=uZdb6kUh2l65a80XRudbPVUrUgpCBNcIKiPu-LBH_bI" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-1451 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1451?destination=/shop/category/8&amp;token=4OoEHMpSJgm8plXrn_thqgD9Vvj9qn3uSdpmpNdF2fU" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -807,7 +807,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.60</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-1536 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1536?destination=/shop/category/8&amp;token=La0MN6rwG9A5ikV_4-G6zu0ZwUfdFnze-yIjj09lCz8" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-1536 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1536?destination=/shop/category/8&amp;token=kzXYbwX8JLOmvfogtMx66Ipb1lbBZT7yD5JtEjR9aWA" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -835,7 +835,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 7.–</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-1539 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1539?destination=/shop/category/8&amp;token=Ixk4CDvD4kCDXfpOKnTlgPGgeFZYK7CAAtsfLbt08Is" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-1539 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1539?destination=/shop/category/8&amp;token=ZyCMPXcWlkJNq2SDINpEjX9C6R2QBp_lGG_ntV-IY-s" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -863,7 +863,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 6.60</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-1533 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1533?destination=/shop/category/8&amp;token=z7uOOBGt-lVQOLK1oo4pIPTpqlWrspyEQI4SxoCA-dQ" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-1533 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1533?destination=/shop/category/8&amp;token=B_QYRBr3e3nHOiiVpeya7crdcA1HYyMJwnsXEJPJhBk" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -891,7 +891,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 10.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-6456 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6456?destination=/shop/category/8&amp;token=45iOHJ0WUYZiEeeA8VBB2cPGAD7vMadkGewOOnJQHgY" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-6456 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6456?destination=/shop/category/8&amp;token=3k5rJygslYn-mttqhprsgpyiFgYQFAiLyDrH4DQL1lk" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -919,7 +919,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 12.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-6234 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6234?destination=/shop/category/8&amp;token=wcNDw2hWR69TDeTOQNzkNITESO3NW91SPz6YP7ODUb0" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-6234 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6234?destination=/shop/category/8&amp;token=8KkXg2rx1kc77hXyVy2Qw7vDpj7kyNS3h_8LW8iuIqk" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -947,7 +947,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 9.70</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-5765 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/5765?destination=/shop/category/8&amp;token=xTH170IWAagcTCUGRB4qg3m4vRzaPakJkqoHcesf94M" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-5765 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/5765?destination=/shop/category/8&amp;token=FKKPoV2yZsHo0GDNYTk0rao65e1GAZuNLeU6o2Y6tio" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -975,7 +975,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 12.50</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-874 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/874?destination=/shop/category/8&amp;token=11TNmF_fShlVH3Mi1-cgIMudYA2sgzIM2B69l9oKKGQ" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-874 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/874?destination=/shop/category/8&amp;token=Y7PGEp4Qu3QHEEt9yZJdrQAowB7zpSRivm7ITnDE2U8" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -1003,7 +1003,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 9.70</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-5372 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/5372?destination=/shop/category/8&amp;token=ZvVOprxGSQJbPmLpRen_idxhW8X419OPf5Q9mM69ME8" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-5372 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/5372?destination=/shop/category/8&amp;token=Q1NfOIE5ae-oGCGCdYYHzNDddzrXtNnVwZmzLpns27g" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -1031,7 +1031,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 8.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-858 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/858?destination=/shop/category/8&amp;token=ogFPvua0jaS5BfrDlCeevSoRe0GW56MIp8NmJdB-Bnw" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-858 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/858?destination=/shop/category/8&amp;token=falG0VaJygpwVwgOopmdj29GFT_2uaXshJKdwV9DZns" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -1061,7 +1061,7 @@ Ristretto
 <span class="price-wrapper old-price">CHF 21.90</span>
 <span class="price-wrapper">ab CHF 17.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-6828 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6828?destination=/shop/category/8&amp;token=HE3oSmSADRZHz4wTdze1Zcb_9J31SsCd8DgzbbBXH_c" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-6828 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/6828?destination=/shop/category/8&amp;token=79MYf-P-IRJ6_g_5qmaB0LxZqxSAtoWBBQ6-r0fsTCg" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -1089,7 +1089,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 19.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-822 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/822?destination=/shop/category/8&amp;token=zOUS537qWYh6JjNEbvVu6JzVgBqpp5PNFtATD5xFbrY" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-822 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/822?destination=/shop/category/8&amp;token=PRfOSaAoXSBIVBwAG-XGWYqVC2z06SIxTsz50PIlNi8" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -1117,7 +1117,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 21.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-1084 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1084?destination=/shop/category/8&amp;token=1OiAjDs7h6Ygv_PiFQFMBfBBbf8p_4iQheUxFtF3Oug" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-1084 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1084?destination=/shop/category/8&amp;token=8kfHuIFKqFbuz0YLh7Jcgxcm2W_parDpvnuj021IcJc" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -1145,7 +1145,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 21.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-1081 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1081?destination=/shop/category/8&amp;token=Rxw5Zd4lEMdkUEbiC-05CCEHcO49CjzvPIldIfpXZ8U" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-1081 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1081?destination=/shop/category/8&amp;token=ac4NvatC_ow-yKZEWTpIY0fXWNeLckHn6m6iqWIaN-c" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -1173,7 +1173,7 @@ Ristretto
 <div class="product-teaser-content-wrapper">
 <span class="price-wrapper">ab CHF 22.90</span>
 <div class="product-teaser-flag-bookmark">
-<div class="flag flag-bookmark js-flag-bookmark-1965 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1965?destination=/shop/category/8&amp;token=VjzdXzoNfQd0LXUOZHz-vSN1IIP_RwD65MhslPrGtRA" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
+<div class="flag flag-bookmark js-flag-bookmark-1965 action-flag"><a class="use-ajax" data-once="ajax" href="/flag/flag/bookmark/1965?destination=/shop/category/8&amp;token=oy4r8cVLwe9TRg0umbBw2CAGJe2A9wMLHCeYw2aeXF0" rel="nofollow" title="Zur Merkliste hinzufügen"><span>Merkliste</span><i class="icon-heart_inactive"></i></a></div>
 </div>
 <div class="product-teaser-shopping-cart">
 <div class="shopping-cart">
@@ -1194,7 +1194,7 @@ Ristretto
 <div class="region region--content-bottom">
 <div class="views-element-container block block-views block--views-blocklogofarm-block-1" id="block-views-block-logofarm-block-1">
 <h2>Mitglied und zertifiziert von</h2>
-<div><div class="logofarm view view-logofarm view-id-logofarm view-display-id-block_1 js-view-dom-id-bc968006746ebb9eb3ddf1237b89a11b7288755c3976cd86d6a718a0f6a08d54">
+<div><div class="logofarm view view-logofarm view-id-logofarm view-display-id-block_1 js-view-dom-id-1d2e2963d5bb3c886ddeee2ba6cb562e79fe1916e20de4321dcc0b5e07a3896a">
 <div class="view-content">
 <div class="views-row"><a class="logo-link" href="https://www.fssc22000.com"><span class="normal"> <img alt="Fssc 22000 monochrom" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/fssc_braun.png?itok=sNVFR-W-" typeof="Image" width="150"/>
 </span><span class="hover"> <img alt="Fssc 22000 farbig" class="image-style-logofarm-logo" height="150" loading="lazy" src="/sites/default/files/styles/logofarm_logo/public/logos/fssc_farb.png?itok=R0igN1uI" typeof="Image" width="150"/>
@@ -1275,8 +1275,12 @@ Ristretto
 <script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"shop\/category\/8","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"de"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,better_exposed_filters\/general,blasercafe\/global-css,blasercafe\/main-js,blasercafe\/openlightbox,blasercafe\/select2,classy\/base,classy\/messages,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_bare,facets\/drupal.facets.dropdown-widget,facets\/drupal.facets.general,facets\/drupal.facets.hierarchical,facets\/drupal.facets.link-widget,flag\/flag.link,flag\/flag.link_ajax,system\/base,views\/views.module","theme":"blasercafe","theme_token":null},"ajaxTrustedUrl":{"\/shop":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":true,"alwaysFullscreen":false,"throbberPosition":"body"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWir verwenden auf dieser Website Cookies, um die Benutzerfreundlichkeit zu verbessern.\u003C\/h2\u003E\n\u003Cp\u003EKlicken Sie \u0022Akzeptieren\u0022, um sich damit einverstanden zu erkl\u00e4ren.\u003C\/p\u003E\n\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EWeitere Informationen\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAkzeptieren\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EWeitere Informationen\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAkzeptieren\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/agb","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"de","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":false,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EDatenschutzeinstellungen\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWir verwenden Cookies auf dieser Website, um das Besuchererlebnis zu verbessern\u003C\/h2\u003E\n\u003Cp\u003ESie haben uns Ihre Zustimmung gegeben, Cookies zu setzen.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EZustimmung zur\u00fcckziehen\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":null,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"facets":{"dropdown_widget":{"getrankeart":{"facet-default-option-label":"Bitte w\u00e4hlen","facet-reset-option-label":"Filter zur\u00fccksetzen"},"facet_preparation":{"facet-default-option-label":"Bitte w\u00e4hlen","facet-reset-option-label":"Filter zur\u00fccksetzen"}}},"user":{"uid":0,"permissionsHash":"c6acd31349193353f4bdf7724d8f2642bf360ea2ffe0029df4da0d10b6bd1d4b"}}</script>
 <script src="/sites/default/files/js/js_z0mBxO2Jvc3IYtvhPzHQ1Mp08XeTx_q0XhyE_AfiIVI.js"></script>
 <script defer="" src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=9.5.11"></script>
-<script src="/sites/default/files/js/js_N-qW5h0cVUu6IfSjPlG_kfvSqwLEveHfKkyzHthmTow.js"></script>
-<iframe allow="join-ad-interest-group" data-load-time="1701998754978" data-tagging-id="AW-775346791" height="0" src="https://td.doubleclick.net/td/rul/775346791?random=1701998754973&amp;cv=11&amp;fst=1701998754973&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45He3bt0v830977066&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.blasercafe.ch%2Fshop%2Fcategory%2F8&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=%7C%20Blaser%20Caf%C3%A9&amp;auid=2089459207.1701998755&amp;fledge=1&amp;uaa=x86&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.71&amp;uamb=0&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0" style="display: none; visibility: hidden;" width="0"></iframe><div aria-describedby="popup-text" class="sliding-popup-bottom" id="sliding-popup" role="alertdialog" style="bottom: -92.1832px;"><div aria-hidden="false" aria-labelledby="popup-text" class="eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default">
+<script src="/sites/default/files/js/js_N-qW5h0cVUu6IfSjPlG_kfvSqwLEveHfKkyzHthmTow.js"></script><iframe allow="join-ad-interest-group" data-load-time="1702020635837" data-tagging-id="AW-775346791" height="0" src="https://td.doubleclick.net/td/rul/775346791?random=1702020635835&amp;cv=11&amp;fst=1702020635835&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45He3bt0v830977066&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1440&amp;u_h=900&amp;url=https%3A%2F%2Fwww.blasercafe.ch%2Fshop%2Fcategory%2F8&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=%7C%20Blaser%20Caf%C3%A9&amp;auid=1854903188.1702020636&amp;fledge=1&amp;uaa=arm&amp;uab=64&amp;uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.71&amp;uamb=0&amp;uap=macOS&amp;uapv=13.4.0&amp;uaw=0" style="display: none; visibility: hidden;" width="0"></iframe>
+<script id="" type="text/javascript">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","635398806857188");fbq("track","PageView");</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=635398806857188&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<script id="" type="text/javascript">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CD3DHP3C77U8TNJITT50");a.page()}(window,document,"ttq");</script>
+<div aria-describedby="popup-text" class="sliding-popup-bottom" id="sliding-popup" role="alertdialog" style="bottom: -139.124px;"><div aria-hidden="false" aria-labelledby="popup-text" class="eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default">
 <div class="popup-content info eu-cookie-compliance-content">
 <div class="eu-cookie-compliance-message" id="popup-text" role="document">
 <h2>Wir verwenden auf dieser Website Cookies, um die Benutzerfreundlichkeit zu verbessern.</h2>
@@ -1287,9 +1291,4 @@ Ristretto
 <button class="agree-button eu-cookie-compliance-default-button" tabindex="0" type="button">Akzeptieren</button>
 </div>
 </div>
-</div></div>
-<script id="" type="text/javascript">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","635398806857188");fbq("track","PageView");</script>
-<noscript><img height="1" src="https://www.facebook.com/tr?id=635398806857188&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
-<script id="" type="text/javascript">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
-a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CD3DHP3C77U8TNJITT50");a.page()}(window,document,"ttq");</script>
-</body><iframe id="__JSBridgeIframe_1.0__" style="display: none;" title="jsbridge___JSBridgeIframe_1.0__"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" style="display: none;" title="jsbridge___JSBridgeIframe_SetResult_1.0__"></iframe><iframe id="__JSBridgeIframe__" style="display: none;" title="jsbridge___JSBridgeIframe__"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;" title="jsbridge___JSBridgeIframe_SetResult__"></iframe></html>
+</div></div></body><iframe id="__JSBridgeIframe_1.0__" style="display: none;" title="jsbridge___JSBridgeIframe_1.0__"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" style="display: none;" title="jsbridge___JSBridgeIframe_SetResult_1.0__"></iframe><iframe id="__JSBridgeIframe__" style="display: none;" title="jsbridge___JSBridgeIframe__"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;" title="jsbridge___JSBridgeIframe_SetResult__"></iframe></html>
